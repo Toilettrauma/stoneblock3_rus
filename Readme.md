@@ -20,7 +20,7 @@
 * ftb mods
 * functional storage
 * GAG
-* industrial foregoing
+* industrial foregoing (Исправлено)
 * iron furnaces
 * jags
 * mining gadgets
@@ -28,7 +28,7 @@
 * pocket storage
 * pp fluids
 * rftools (todo utility)
-* REI
+* REI (Исправлено)
 * rs requestify
 * simply backpacks
 * stone chest
@@ -68,4 +68,6 @@
   * The Ultimate Armor
  ### моды
 * Blood magic
+* rf tools
+* laser io
  ### Интерфейс главного меню
