@@ -1,0 +1,14 @@
+{
+  "block.autosmithingtable.auto_smithing_table": "Кузнечный стол (Auto)",
+  "item.autosmithingtable.auto_smithing_table": "Кузнечный стол (Auto)",
+
+  "container.autosmithingtable.title": "Предметы для улучшения (Auto)",
+  "itemGroup.autosmithingtable": "Автоматический кузнечный стол",
+
+  "message.autosmithingtable.change_side_to_0": "[§eАвтоматический кузнечный стол§r] §bСторона изменена на: Ничего",
+  "message.autosmithingtable.change_side_to_1": "[§eАвтоматический кузнечный стол§r] §bСторона изменена на: Вход базы",
+  "message.autosmithingtable.change_side_to_2": "[§eАвтоматический кузнечный стол§r] §bСторона изменена на: Добавление ввода",
+  "message.autosmithingtable.change_side_to_3": "[§eАвтоматический кузнечный стол§r] §bСторона изменена на: Выход",
+  "tooltip.autosmithingtable.sides": "[Shift + ПКМ] на стороне для настройки",
+  "tooltip.autosmithingtable.jade_progress": "Прогресс: %d"
+}

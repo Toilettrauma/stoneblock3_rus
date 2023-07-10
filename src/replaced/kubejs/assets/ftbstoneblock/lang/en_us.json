@@ -1,0 +1,1394 @@
+{
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.25": "XXV",
+  "sdrp.sbd.in": "In StoneBlock Dimension",
+  "sdrp.sbd": "StoneBlock Dimension",
+  "ftbquests.task.ftbquests.checkmark": "Нажми меня!",
+
+  "sb3.tips.1": "Пчёлка добычи ваш друг. Не убивайте её, но соберите добычу перед тем, как она пропадёт!",
+  "sb3.tips.2": "Multiminer требует наличия инструмента в вашей руке и не может быть использован на камне.",
+  "sb3.tips.3": "Картонные коробки можно использовать для сбора спавнеров!",
+  "sb3.tips.4": "Большинству культур для выращивания требуется уровень освещенности 8 или выше; некоторым требуется еще выше.",
+  "sb3.tips.5": "Держите главишу 'W' когда наведены на предмет мода Create чтобы открыть окно размышления, оно покажет вам много информации о нём.",
+  "sb3.tips.6": "Ответы на большинство ваших вопросов могут быть где-то в книге квестов!",
+  "sb3.tips.7": "Нажмите Y, чтобы найти предметы в ближайших сундуках.",
+  "sb3.tips.8": "Кубы удачи. являются злом. Открывайте их ПОДАЛЬШЕ от своей базы, если осмелитесь...",
+  "sb3.tips.9": "Пассивным мобам требуется трава, высокий уровень освещенности, условие что поблизости нет пассивных мобов, и игрок должен находиться в 24 блоках от них.",
+  "sb3.tips.10": "Используя крюк на любом типе земли, песка и листьев, вы получите предметы.",
+  "sb3.tips.11": "Используйте костную муку на дёрне и сломайте траву для получения семян конопли.",
+
+  "entity.chickens.bronze_chicken": "Бронзовая курица",
+  "entity.chickens.lead_chicken": "Свинцовая Курица",
+  "entity.chickens.lumium_chicken": "Люмиевая Курица",
+  "entity.chickens.brass_chicken": "Латунная Курица",
+  "entity.chickens.zinc_chicken": "Цинковая Курица",
+  "entity.chickens.pigiron_chicken": "Курица Свинного Железа",
+  "entity.chickens.constantan_chicken": "Константановая Курица",
+  "entity.chickens.nickel_chicken": "Никелевая Курица",
+  "entity.chickens.terrasteel_chicken": "Террасталь Курица",
+  "entity.chickens.uranium_chicken": "Урановая Курица",
+  "entity.chickens.netherite_chicken": "Незеритовая Курица",
+  "entity.chickens.copper_chicken": "Медная Курица",
+  "entity.chickens.electrum_chicken": "Электрумовая Курица",
+  "entity.chickens.tin_chicken": "Оловянная Курица",
+  "entity.chickens.aluminum_chicken": "Алюминиевая Курица",
+  "entity.chickens.osmium_chicken": "Осмиевая Курица",
+  "entity.chickens.manyullyn_chicken": "Маньюлиновая Курица",
+  "entity.chickens.signalum_chicken": "Сигналовая Курица",
+  "entity.chickens.cobalt_chicken": "Кобальтовая Курица",
+  "entity.chickens.silver_chicken": "Серебряная Курица",
+  "entity.chickens.steel_chicken": "Стальная Курица",
+  "entity.chickens.elementium_chicken": "Элементиевая Курица",
+  "entity.chickens.manasteel_chicken": "Манасталь Курица",
+  "entity.chickens.enderium_chicken": "Эндериумная Курица",
+
+  "sb3.welcome.title": "Добро пожаловать",
+
+  "sb3.welcome.welcome.title": "Добро пожаловать в &5FTB StoneBlock 3&r!",
+  "sb3.welcome.welcome.subtitle": "Вступление и информация",
+  "sb3.welcome.welcome.reward": "Еще главы квестов!",
+  "sb3.welcome.welcome.description_1": "В этой сборке вы расположены &bполностью подземном мире&r, без поверхности.",
+  "sb3.welcome.welcome.description_2": "По мере того, как вы будете &6передвигаться дальше от своей точки возрождения&r, вы будете натыкаться на подземелья, пещеры и, в конечном счете, на кольцо Ада и Энда.",
+  "sb3.welcome.welcome.description_3": "У каждого игрока есть своё собственное измерение, появляющееся на &60,0&r, и имеющее собственные кольца.",
+  "sb3.welcome.welcome.description_4": "Вы можете телепортироваться к другому игроку, использую команду &6/tpa&r.",
+
+  "sb3.welcome.servers.title": "Начало",
+  "sb3.welcome.servers.subtitle": "Как на самом деле начать",
+  "sb3.welcome.servers.desc1": "Мировая/серверная точка возрождения находится в лобби. Все появляются здесь, но вам не следует &oоставаться&r здесь.",
+  "sb3.welcome.servers.desc2": "Чтобы &6создать своё измерение&r, пройдите через портал в центре. Там вы можете выбрать стартовую пещеру вашего измерения. Это также создаёт &eFTB Teams&r группу.",
+  "sb3.welcome.servers.desc3": "Присоединение к группе другого игрока отправит вас в их измерение!",
+  "sb3.welcome.servers.desc4": "Как только вы окажетесь в группе, вы можете использовать команду &6/ftbstoneblock home&r чтобы телепортироваться в своё измерение.",
+  "sb3.welcome.servers.desc5": "You can use the command &6/ftbstoneblock lobby&r to teleport to the lobby.",
+
+  "sb3.welcome.events.title": "События",
+  "sb3.welcome.events.subtitle": "Иногда вещи просто случаются",
+  "sb3.welcome.events.desc1": "В вашем путешествии по StoneBlock 3 вы время от времени будете сталкиваться со случайным &6специальными событиями&r происходящих с вами.",
+  "sb3.welcome.events.desc2": "Мы не хотим портить их сразу, но они могут варьироваться от того, чтобы дарить вам &eшикарную добычу&r, до того, чтобы быть просто &eзабавными&r или &eужасно раздражающими&r шутками (В зависимости от того, кого вы спросите).",
+  "sb3.welcome.events.desc3": "Если вы хотите отключить отдельные события, или просмотреть список всех из них, вы можете с помощью команды &6/events toggle &e<название события>&r.",
+
+  "sb3.getting_started.title": "Начинаем!",
+
+  "sb3.getting_started.stonepebbles.title": "Камень и палка!",
+  "sb3.getting_started.stonepebbles.subtitle": "Сломайте немного Камня голыми руками",
+  "sb3.getting_started.stonepebbles.task": "Соберите каменную гальку",
+  "sb3.getting_started.stonepebbles.reward": "Каменная Галька",
+  "sb3.getting_started.stonepebbles.description_1": "Один в пещере, где нет ничего, кроме камней, что может быть лучше, чем бить по ним кулаками?",
+  "sb3.getting_started.stonepebbles.description_2": "Добыча Камня кулаками приводит к выпадению &bКаменной Гальки&r, которая используется для &6крафта Булыжника&r.",
+  "sb3.getting_started.stonepebbles.description_3": "Можно употреблять в пищу, если по какой-либо причине вам этого захочется.",
+
+  "sb3.getting_started.craftingtable.title": "Верстак",
+  "sb3.getting_started.craftingtable.subtitle": "Сделайте верстак",
+  "sb3.getting_started.craftingtable.description_1": "Без дерева обходитесь камнем!",
+  "sb3.getting_started.craftingtable.description_2": "Четыре Булыжника могут быть использованы для крафта &bВерстака&r.",
+
+  "sb3.getting_started.hammer.title": "Молот вниз!",
+  "sb3.getting_started.hammer.subtitle": "Сделайте Каменный Молот",
+  "sb3.getting_started.hammer.task": "Молоты",
+  "sb3.getting_started.hammer.description_1": "&bКаменный Молот&r дробит вскопанные блоки, с выпадением более дробленного блока.",
+  "sb3.getting_started.hammer.description_2": "Вы можете посмотреть выпадение в &eREI&r проверя его использование в рецептах.",
+
+  "sb3.getting_started.chest.title": "Сундук",
+  "sb3.getting_started.chest.subtitle": "Сделайте Каменный Сундук",
+  "sb3.getting_started.chest.task": "Каменные Сундуки",
+  "sb3.getting_started.chest.description_1": "Мод &eStone Chest&r добавляет &bКаменные Сундуки&r. Абсолютно завораживающе.",
+  "sb3.getting_started.chest.description_2": "Все Каменные Сундуки работают так же, как и обычные Сундуки.",
+
+  "sb3.getting_started.saplings.title": "Саженцы",
+  "sb3.getting_started.saplings.subtitle": "Получите саженец",
+  "sb3.getting_started.saplings.task": "Саженцы",
+  "sb3.getting_started.saplings.description_1": "Вы можете получить &bСаженцы&r &6вскапав землю Крюком&r.",
+
+  "sb3.getting_started.wood.title": "Дерево!",
+  "sb3.getting_started.wood.subtitle": "Вырастите и срубите дерево",
+  "sb3.getting_started.wood.task": "Брёвна",
+  "sb3.getting_started.wood.description_1": "Убедитесь, что у вас достаточно места для роста дерева!",
+  "sb3.getting_started.wood.description_2": "Вы можете заставить саженец расти быстрее &6бегая, прыгая, и крадясь&r возле него!",
+
+  "sb3.getting_started.ticon.title": "Инструменты из Tinkers",
+  "sb3.getting_started.ticon.subtitle": "Сделайте базовый Tinker столы",
+  "sb3.getting_started.ticon.desc": "&bЛитейная станция&r может изготавливать базовые модульные инструменты, используя детали, изготовленные в &bФормирователе частей&r.",
+
+  "sb3.getting_started.melter.title": "Плавильная печь",
+  "sb3.getting_started.melter.subtitle": "Сделайте плавильную печь",
+  "sb3.getting_started.melter.desc1": "&bПлавильная печь&r это мультиблок, который позволяет вам &6плавить металлы в жидкости&r.",
+  "sb3.getting_started.melter.desc2": "Поместите &bОбожженный нагреватель&r, заправьте его твердым топливом, затем поставьте сверху &bОбожённую плавильную печь&r.",
+
+  "sb3.getting_started.casting.title": "Литейные формы",
+  "sb3.getting_started.casting.subtitle": "Отлейте что-нибудь",
+  "sb3.getting_started.casting.desc1": "Чтобы превратить расплавленные металлы обратно в изделия, вам необходимо использовать &bКран для Литья&r и &bЛитейный Стол/Резервуар&r.",
+  "sb3.getting_started.casting.desc2": "Чтобы выбрать форму, которую примет металл (слиток, головка кирки и т.д.), вам нужно использовать &bЛитейную Форму&r. Песочные Литейные Формы &cуничтожаются после использования&r, в то время как Золотые Литейные Формы используются многократно.",
+  "sb3.getting_started.casting.desc3": "Чтобы сделать Песочную Литейную Форму, поместите Пустую Песочную Литейную Форму на Литейный Стол, затем щелкните по ней той деталью, из которой вы хотите сделать слепок.",
+  "sb3.getting_started.casting.desc4": "Кран может быть активирован щелчком мыши или сигналом редстоуна. По сути, он действует как труба, перемещая жидкость из блока позади него в блок ниже. При желании его можно заменить настоящей трубой.",
+  "sb3.getting_started.casting.task1": "Литейный Стол/Резервуар",
+  "sb3.getting_started.casting.task2": "Формы",
+
+  "sb3.getting_started.smeltery.title": "Плавильня",
+  "sb3.getting_started.smeltery.subtitle": "Сделайте Плавильню",
+  "sb3.getting_started.smeltery.desc1": "&bПлавильня&r это структура которая &6плавит металлы&r и &6комбинирует расплавленные металлы в сплавы&r.",
+  "sb3.getting_started.smeltery.desc2": "Его форма гораздо более свободная для изменения, чем у Плавильной Печи. Смотрите &6Тяжёлую Металлургию&r для получения руководства о том, как его построить.",
+  "sb3.getting_started.smeltery.desc3": "&6Некоторые расплавленные металлы смешиваются, образуя сплавы&r. Это происходит только в том случае, если у вас есть топливо, поэтому массивная Плавильня без топлива будет функционировать как безопасный резервуар для хранения расплавленных металлов.",
+  "sb3.getting_started.smeltery.desc4": "Чем больше обожженных блоков, из которых состоит Плавильня, тем больше расходуется топлива и тем больше предметов и жидкостей она может хранить.",
+  "sb3.getting_started.smeltery.desc8": "Руды (и необработанные руды), расплавленные в Плавильне, дают больше материала, чем в печи.",
+  "sb3.getting_started.smeltery.task1": "Обожженные резервуары",
+  "sb3.getting_started.smeltery.task2": "Обожженные блоки",
+
+  "sb3.getting_started.crook.title": "Wololo",
+  "sb3.getting_started.crook.subtitle": "Сделайте Крюк",
+  "sb3.getting_started.crook.description_1": "Добыча определенных блоков с помощью &bКрюка&r  приведет к выпадению из них таких предметов, как &6Саженцы и Семена&r.",
+  "sb3.getting_started.crook.description_2": "Вы можете посмотреть его дроп в &eREI&r проверив его использование в рецептах.",
+
+  "sb3.getting_started.seeds.title": "СЕМЕНА?",
+  "sb3.getting_started.seeds.subtitle": "Получите семена",
+  "sb3.getting_started.seeds.task": "Семена",
+  "sb3.getting_started.seeds.description_1": "Используя &6Крюк&r на земле может привести к выпадению &bлюбых семян из этих&r.",
+  "sb3.getting_started.seeds.description_2": "Вы можете увидеть шанс для каждого в &eREI&r.",
+
+  "sb3.getting_started.gravel.title": "Гравий",
+  "sb3.getting_started.gravel.subtitle": "Получите Гравий",
+  "sb3.getting_started.gravel.description_1": "&6Раздробите Камень&r чтобы получить &bГравий&r.",
+
+  "sb3.getting_started.dirt.title": "Dirt",
+  "sb3.getting_started.dirt.subtitle": "Get Dirt",
+  "sb3.getting_started.dirt.description_1": "&6Раздробите Гравий&r чтобы получить &bЗемлю&r.",
+
+  "sb3.getting_started.sand.title": "Песок",
+  "sb3.getting_started.sand.subtitle": "Получите Песок",
+  "sb3.getting_started.sand.description_1": "&6Раздробите Землю&r чтобы получить &bПесок&r.",
+
+  "sb3.getting_started.dust.title": "Пыль",
+  "sb3.getting_started.dust.subtitle": "Получите Пыль",
+  "sb3.getting_started.dust.description_1": "&6Раздробите Песок&r чтобы получить &bПыль&r.",
+
+  "sb3.getting_started.millstone.title": "Сита? Никогда о них не слышал",
+  "sb3.getting_started.millstone.subtitle": "Сделайте Установку для Жёрнова",
+  "sb3.getting_started.millstone.description_1": "Вы можете получить базовые ресурсы, такие как железо, используя &bЖёрнов&r.Более продвинутые ресурсы будут доступны позже.",
+  "sb3.getting_started.millstone.description_2": "Как и всё в &eCreate&r моде, Жёрнов приводятся в действие силой вращения.",
+  "sb3.getting_started.millstone.description_3": "Аналогично, вы можете удерживать &6[w]&r при наведении курсора мыши на любой предмет Create, чтобы увидеть короткую анимацию, объясняющую, как это работает, включая способ его питания.",
+
+  "sb3.getting_started.millgravel.title": "Ресурсы",
+  "sb3.getting_started.millgravel.subtitle": "Просейте немного Гравия",
+  "sb3.getting_started.millgravel.task": "Продукты просеивания",
+  "sb3.getting_started.millgravel.description_1": "&6Просеивание Гравия&r имеет шанс произвести &bЖелезо&r, &bЦинк&r, and &bУголь&r.",
+
+  "sb3.getting_started.lava.title": "Лава",
+  "sb3.getting_started.lava.subtitle": "Получите Лаву",
+  "sb3.getting_started.lava.description_1": "Вы можете сделать &bЛаву&r импользуя &bПалки для розжига&r на Камне в течении некоторого времени",
+
+  "sb3.getting_started.water.title": "Вода",
+  "sb3.getting_started.water.subtitle": "Получите Воду",
+  "sb3.getting_started.water.description_1": "Вы можете получить &bВоду&r нажав правой кнопкой мыши на &bКотёл&r Листьями или Саженцами.",
+
+  "sb3.getting_started.dripper.title": "Ультра Капстинкт",
+  "sb3.getting_started.dripper.subtitle": "Сделайте Капоронку",
+  "sb3.getting_started.dripper.desc1": "&bКапоронка&r капает жидкость на блок ниже, чтобы превратить его в другие блоки.",
+  "sb3.getting_started.dripper.desc2": "&6Смотрите REI чтобы узнать какие блоки он может преобразовать.",
+
+  "sb3.getting_started.cobble_gen1.subtitle": "Сделайте Генератор Булыжника 1 уровня",
+  "sb3.getting_started.cobble_gen1.desc": "&bГенератор Булыжника 1 уровня&r производит 1 булыжник каждые 2 секунды.",
+  "sb3.getting_started.cobble_gen1.desc2": "Булыжник автоматически перемещается хранилище сверху.",
+
+  "sb3.getting_started.cobble_gen2.subtitle": "Сделайте Генератор Булыжника 2 уровня",
+  "sb3.getting_started.cobble_gen2.desc": "&bГенератор Булыжника 2 уровня&r производит 1 булыжник каждую секунду.",
+
+  "sb3.getting_started.cobble_gen3.subtitle": "Сделайте Генератор Булыжника 3 уровня",
+  "sb3.getting_started.cobble_gen3.desc": "&bГенератор Булыжника 3 уровня&r производит 1 булыжник каждые 0.5 секунд.",
+
+  "sb3.getting_started.cobble_gen4.subtitle": "Сделайте Генератор Булыжника 4 уровня",
+  "sb3.getting_started.cobble_gen4.desc": "&bГенератор Булыжника 4 уровня&r производит 1 булыжник каждые 0.25 секунд.",
+
+  "sb3.getting_started.cobble_gen5.subtitle": "Сделайте Генератор Булыжника 5 уровня",
+  "sb3.getting_started.cobble_gen5.desc": "&bГенератор Булыжника 5 уровня&r производит 1 булыжник каждые 0.05 секунд.",
+
+  "sb3.getting_started.soulsand.subtitle": "Получить Песок Душ",
+  "sb3.getting_started.soulsand.desc1": "Вы можете получить &bПесок душ&r совместив Песок, Душу Моба, и немного Воды &6Смешивателе&r.",
+  "sb3.getting_started.soulsand.decs2": "После, вы можете сделать ещё &6Призрачным Наполнение&r на Вентиляторе.",
+
+  "sb3.getting_started.mobsoul.subtitle": "Получите Душу Моба",
+  "sb3.getting_started.mobsoul.desc": "&bДуша Моба&r имеет 20% шанс выпадения из моба.",
+
+  "sb3.getting_started.encased_fan.title": "Вымойте руки",
+  "sb3.getting_started.encased_fan.subtitle": "Сделайте Вентилятор в Корпусе",
+  "sb3.getting_started.encased_fan.desc1": "&bВентилятор в Корпусе&r использует вращательную силу для создания воздушного потока.",
+  "sb3.getting_started.encased_fan.desc2": "Если воздушный поток проходит через определенные блоки (например, воду и лаву), воздушный поток можно использовать в качестве механики крафта.",
+  "sb3.getting_started.encased_fan.desc3": "В частности, вода будет &6промывать предметы&r, создавая другие. Лава будет &6коптить предметы&r, готовя их, как в Доменной Печи.",
+
+  "sb3.getting_started.washing.title": "Промывка",
+  "sb3.getting_started.washing.subtitle": "Промойте ваши ресурсы",
+  "sb3.getting_started.washing.task1": "Песок",
+  "sb3.getting_started.washing.task2": "Гравий",
+  "sb3.getting_started.washing.task3": "Другое",
+  "sb3.getting_started.washing.description_1": "Вы можете получить много ресурсов &bпромывая Гравий, Песок, Пыль, и Песок Душ&r.",
+
+  "sb3.getting_started.nosolic.subtitle": "Сделайте знак 'Посторонним вход воспрещён!'",
+  "sb3.getting_started.nosolic.desc": "&bзнак 'Посторонним вход воспрещён!'&r предотвращает появление поблизости странствующих торговцев.",
+
+  "sb3.getting_started.crushing_wheel.subtitle": "Сделайте Колесо Дробления",
+  "sb3.getting_started.crushing_wheel.desc1": "Когда два &bКолеса Дробления&r вращаются друг на друга, они &6дробят то, что проходит в них&r.",
+  "sb3.getting_started.crushing_wheel.desc2": "Хотя это может быть использовано для переработки руд и тому подобного, это также способ сбора некоторых из них.",
+
+  "sb3.getting_started.crushing.title": "Дробление",
+  "sb3.getting_started.crushing.subtitle": "Раздробите немного Гравия",
+  "sb3.getting_started.crushing.desc": "&bДробление Гравия&r приводит к выпадению этих предметов.",
+  "sb3.getting_started.crushing.task": "Предметы Дробления",
+
+  "sb3.getting_started.andesite.subtitle": "Получите Андезит",
+  "sb3.getting_started.andesite.desc1": "Если вы будете копать достаточно далеко вверх или вниз, вы достигнете слоя &bАндезита&r. За ним находится &6Глубинный Сланец&r, а далее находится бедрок.",
+  "sb3.getting_started.andesite.desc2": "Нажмите здесь, чтобы увидеть больше информации",
+
+  "sb3.exploration.title": "Исследование",
+
+  "sb3.exploration.layers.title": "Каменные слои",
+  "sb3.exploration.layers.subtitle": "Исследуйте каменные слои",
+  "sb3.exploration.layers.task_1": "Посмотрите на камень",
+  "sb3.exploration.layers.task_2": "Посмотрите на Андезит",
+  "sb3.exploration.layers.task_3": "Посмотрите на Глубинный Сланец",
+  "sb3.exploration.layers.desc1": "Часть карты верхнего мира разделена на 5 слоёв, разделенных по y-уровням.",
+  "sb3.exploration.layers.desc2": "Центральный слой из &bКамня&r, &655 блоков высотой&r выше и ниже y0.",
+  "sb3.exploration.layers.desc3": "Выше и ниже него есть &620 блоков высотой&r, слой из &bАндезита&r.",
+  "sb3.exploration.layers.desc4": "Выше и ниже &oнего&r, есть &653 высотой&r, слой из &bГлубинного сланца&r.",
+
+  "sb3.exploration.stone_dungeon.title": "Каменное Подземелье",
+  "sb3.exploration.stone_dungeon.subtitle": "Посетите Каменное Подземелье",
+  "sb3.exploration.stone_dungeon.desc": "&bКаменное Подземелье&r это массивное подземелье, которое можно найти во внешней половине Каменного круга.",
+
+  "sb3.exploration.spawner_dungeon.title": "Подземелье Спавнера",
+  "sb3.exploration.spawner_dungeon.subtitle": "Посетите Подземелье Спавнера",
+  "sb3.exploration.spawner_dungeon.desc": "&bПодземелье Спавнера&r это гораздо меньшее подземелье, состоящее из одной комнаты.",
+
+  "sb3.exploration.nether.title": "Ад",
+  "sb3.exploration.nether.subtitle": "Достигните Адского Кольца",
+  "sb3.exploration.nether.desc": "Начинается примерно в &61,000 блоков от спавна&r.",
+
+  "sb3.exploration.nether_dungeon.title": "Адские Подземелья",
+  "sb3.exploration.nether_dungeon.subtitle": "Посетите Адское Подземелье",
+  "sb3.exploration.nether_dungeon.desc": "&bАдское Подземелье&r это массивное подземелье, которое можно найти в кольце Адском кольце.",
+
+  "sb3.exploration.end.title": "Энд",
+  "sb3.exploration.end.subtitle": "Достигните Кольцо Энда",
+  "sb3.exploration.end.desc1": "Начинается примерно в &61,600 блоков от спавна&r.",
+  "sb3.exploration.end.desc2": "Продолжая ещё дальше, кольцо &6заканчивается примерно в 2,200 от спавна&r. Дальше него только бесконечный Камень, с уникальными подземельями, разбросанными вокруг.",
+
+  "sb3.exploration.end_city.title": "Город Энда",
+  "sb3.exploration.end_city.subtitle": "Посетите Город Энда",
+  "sb3.exploration.end_city.desc": "&bГорода Края&r могут быть найдены в кольце Энда",
+
+  "sb3.exploration.boss_dungeon.title": "Подземелье Босса",
+  "sb3.exploration.boss_dungeon.subtitle": "Посетите Подземелье Босса",
+  "sb3.exploration.boss_dungeon.desc1": "&bПодземелье Босса&r может быть найдено &6за Кольцом Энда&r.",
+  "sb3.exploration.boss_dungeon.desc2": "Внутри может быть найде &6Алтарь Призыва&r, который можно использовать для вызова босса сборки.",
+
+  "sb3.exploration.mother_silverfish.subtitle": "Призовите и убейте Мать Чешуйницу",
+  "sb3.exploration.mother_silverfish.desc1": "&bМать Чешуйница&r вызывается в Подземельях Босса, найденных за пределами кольца Энда. Призови её на Алтаре Призыва и победите её!",
+  "sb3.exploration.mother_silverfish.desc2": "Будьте осторожны, так как Мать Чешуйница обладает несколькими особыми атаками и может вызывать &6несколько типов приспешников&r.",
+  "sb3.exploration.mother_silverfish.desc3": "Возможны призывы таких чешуйниц, как &6Лич&r, &6Ядовитая&r, и &6Вор&r Чешуйницы. Последняя особенно опасена, так что будьте осторожны!",
+
+  "sb3.exploration.silverfish_farm.title": "Фарм Сердец Чешуйницы",
+  "sb3.exploration.silverfish_farm.desc1": "Вы можете легко &6фармить бесконечные Сердца Чешууницы&r из Матери Чешуйницы, используя несколько модов в тандеме.",
+  "sb3.exploration.silverfish_farm.desc2": "&bТалисман Дрыгма&r использует Источник для &6сбора добычи с мобов, не убивая их&r. ",
+  "sb3.exploration.silverfish_farm.desc3": "Источник можно легко сделать, используя &6Вулканическое сочетание&r, работающий на угле из&6Куриц&r (или любого другого источника).",
+  "sb3.exploration.silverfish_farm.desc4": "Чтобы Мать Чешуйница оставалась неподвижной, вы можете разместить &bКамеру Стазиса&r &6прямо под Алтарём Призыва&r.",
+  "sb3.exploration.silverfish_farm.desc5": "Уголь также мог бы питать генератор, обеспечивая FE. Обязательно сделайте ограждение, чтобы &6держать Дрыгма вне рабочей зоны Стазис Камеры&r!",
+
+  "sb3.exploration.train.title": "Путешествие через мир!",
+  "sb3.exploration.train.subtitle": "Чух-чух",
+  "sb3.exploration.train.desc1": "Прокатитесь на поезде через все 5 биомов за один раз!",
+  "sb3.exploration.train.desc2": "Биомы:\n• Равнины\n• Пышные Пещеры\n• Пустоши Ада\n• Энд\n• Лес",
+
+  "sb3.resources.title": "Ресурсы",
+
+  "sb3.resources.mob_farming.title": "Mob Grinding Utils",
+
+  "sb3.resources.mob_farming.solidifier.title": "Хочешь желейного малыша?",
+  "sb3.resources.mob_farming.solidifier.subtitle": "Получите желейного малыша",
+  "sb3.resources.mob_farming.solidifier.description_1": "Отвердите опыт в маленьких мягких, съедобных малышей!",
+  "sb3.resources.mob_farming.solidifier.description_2": "&Заметка: Не воспроизводит IRL!",
+
+  "sb3.resources.mob_farming.spawner.title": "Спавн Мобов",
+  "sb3.resources.mob_farming.spawner.subtitle": "Создайте Спавнер Существ",
+  "sb3.resources.mob_farming.spawner.description_1": "&bСпавнер существ&r призывет существ. Достаточно просто.",
+  "sb3.resources.mob_farming.spawner.description_2": "Поместите яйцо призыва в верхний слот. Чтобы получить яйцо призыва, покормите курицу &bГМО кормом для куриц&r моба, которого вы хотите призвать.",
+  "sb3.resources.mob_farming.spawner.description_3": "Спавнер заправляется &6Желейными Малышами Опыта&r, которые помещаются в нижний слот.",
+  "sb3.resources.mob_farming.spawner.description_4": "Кнопки справа позволяют вам перемещать место где будут появляться мобы. Слоты в нижней части могут хранить &6Улучшения&r.",
+
+  "sb3.resources.mob_farming.masher.title": "Давилка Мобов",
+  "sb3.resources.mob_farming.masher.subtitle": "Получите Давилку Мобов",
+  "sb3.resources.mob_farming.masher.desc1": "Пришло время перемолоть всех этих мобов с помощью &bДавилки Мобов&r.",
+  "sb3.resources.mob_farming.masher.desc2": "Улучшения позволяют ему быстрее убивать более сильных мобов и получать больше добычи!",
+
+  "sb3.resources.mob_farming.hopper.subtitle": "Сделайте Всасывающую Воронку",
+  "sb3.resources.mob_farming.hopper.description_1": "Ваша ферма мобов в конечном итоге достигнет точки, когда она будет производить больше добычи, чем может собрать.",
+  "sb3.resources.mob_farming.hopper.description_2": "&bВсасывающая Воронка&r может &6собирать предметы и опыт&r в зоне.",
+
+  "sb3.resources.mob_farming.fan.title": "Унесенный ветром",
+  "sb3.resources.mob_farming.fan.subtitle": "Сделайте вентилятор для мобов",
+  "sb3.resources.mob_farming.fan.description_1": "&bВентиляторы для мобов&r будут &6толкать мобов&r прочь от них при подаче сингнала редстоуна.",
+  "sb3.resources.mob_farming.fan.description_2": "Эту область можно увидеть в графическом интерфейсе и увеличить с помощью улучшений.",
+
+  "sb3.resources.mob_farming.chicken_feed_1.title": "Абсолютно этичный",
+  "sb3.resources.mob_farming.chicken_feed_1.subtitle": "Сделайте Питательный Корм для Куриц",
+  "sb3.resources.mob_farming.chicken_feed_1.description": "Щелкните правой кнопкой мыши кормом по курице, но соберитесь с духом.",
+
+  "sb3.resources.mob_farming.golden_egg.title": "Золотой Гусь Продается отдельно",
+  "sb3.resources.mob_farming.golden_egg.subtitle": "Получите Золотое Яйцо",
+  "sb3.resources.mob_farming.golden_egg.description": "Используйте &bЗолотое яйцо&r на дёрне или земле чтобы получить участок &6Восхитительной Земли&r!",
+
+  "sb3.resources.mob_farming.chicken_feed_2.title": "Одобрено Минздравом",
+  "sb3.resources.mob_farming.chicken_feed_2.subtitle": "Сделайте Проклятый ГМО корм для куриц",
+  "sb3.resources.mob_farming.chicken_feed_2.description": "Накормите курицу, чтобы весело провести время.",
+
+  "sb3.resources.mob_farming.rotton_egg.title": "Безвкусный",
+  "sb3.resources.mob_farming.rotton_egg.subtitle": "Получите тухлое яйцо",
+  "sb3.resources.mob_farming.rotton_egg.description": "Используйте &bТухлое яйцо&r на дёрне или траве чтобы получить участок &6Кошмарной земли&r.",
+
+  "sb3.resources.mob_farming.dirt_1.title": "Пацифист",
+  "sb3.resources.mob_farming.dirt_1.subtitle": "Рассмотрите Восхитительную Землю",
+  "sb3.resources.mob_farming.dirt_1.description": "&bВосхитительная земля&r порождает большинство пассивных мобов, от куриц до коров, а также других дружественных мобов из модов.",
+
+  "sb3.resources.mob_farming.dirt_2.title": "Containment Breach!",
+  "sb3.resources.mob_farming.dirt_2.subtitle": "Рассмотрите Ужасную Землю",
+  "sb3.resources.mob_farming.dirt_2.description": "&bУжасная Земля&r порождает все, что происходит ночью.",
+
+  "sb3.resources.mob_farming.upgrades.title": "Улучшения",
+  "sb3.resources.mob_farming.upgrades.subtitle": "Сделайте Улучшение",
+  "sb3.resources.mob_farming.upgrades.desc": "Определенные &bУлучшения&r могут быть вставлены в Вентилятор, Спавнер, Давилку Мобов, Воронку и Отвердитель Опыта.",
+
+  "sb3.resources.mob_farming.xp.title": "Ограбление опыта",
+  "sb3.resources.mob_farming.xp.subtitle": "Пожертвуйте 100 уровней",
+  "sb3.resources.mob_farming.xp.description_1": "У меня совсем закончился опыт, дайте мне 100 уровней, и я дам вам награду.",
+  "sb3.resources.mob_farming.xp.description_2": "С вашей фермой мобов вы наверняка сможете одолжить немного!",
+
+  "sb3.resources.passive.title": "Пассивные ресурсы",
+
+  "sb3.passive.drill.subtitle": "Сделайте установку Лазерной Дрели",
+  "sb3.passive.drill.desc1": "&bЛазерная Основа&r и &bОснова Жидкостного Лазера&r использует FE для получения руд и жидкостей.",
+  "sb3.passive.drill.desc2": "Они не принимают FE сами по себе, они должны питаться от &bЛазерной Дрелей&r.",
+  "sb3.passive.drill.task": "Основы Лазера",
+
+  "sb3.chickens.catcher.title": "Ловец Куриц",
+  "sb3.chickens.catcher.subtitle": "Сделайте Ловец Куриц",
+  "sb3.chickens.catcher.desc": "&bЛовец Куриц&r может быть использован на Курицах, чтобы превратить их в предметы.",
+
+  "sb3.chickens.breeder.subtitle": "Сделайте Бридер",
+  "sb3.chickens.breeder.desc": "&bБридер&r позволяет автоматически разводить Куриц (в виде предметов) используя семяна.",
+
+  "sb3.chickens.roost.subtitle": "Сделайте Насест",
+  "sb3.chickens.roost.desc": "&bНасест&r будет имитировать Куриц (в виде предметов), как если бы они были мобами, медленно генерируя их выпадения.",
+
+  "sb3.chickens.craft.title": "Создаваемые Курицы",
+  "sb3.chickens.craft.subtitle": "Создайте Курицу",
+  "sb3.chickens.craft.desc": "Эти &bКурицы&r могут быть созданы на верстаке.",
+
+  "sb3.chickens.bred.title": "Разводите Куриц",
+  "sb3.chickens.bred.subtitle": "Скрестите Куриц",
+  "sb3.chickens.bred.desc": "Эти &bКурицы&r должны быть скрещены с другими Курицами.",
+
+  "sb3.resources.budding_crystals.title": "Цветущие Кристаллы",
+  "sb3.resources.budding_crystals.subtitle": "Сделайте Цветущий Кристалл",
+  "sb3.resources.budding_crystals.desc": "&bЦветущие Кристаллы&r работают как Цветущий Аметист, но для других ресурсов.",
+
+  "sb3.tech.title": "Технологии",
+
+  "sb3.tech.industrial_forgoing.title": "Industrial Foregoing",
+
+  "sb3.if.fe.subtitle": "Сделайте Жидкостный Экстрактор",
+  "sb3.if.fe.desc": "Когда &bЖидкостный Экстрактор&r направлен на Бревно, он производит &6Латекс&r.",
+
+  "sb3.if.lpu.subtitle": "Сделайте Юнит по Производству Латекса",
+  "sb3.if.lpu.desc": "&bЮнит по Производству Латекса&r потребляет FE и Воду чтобы превратить Латекс в &6Сухой Кусочек Резины&r.",
+
+  "sb3.if.mc.subtitle": "Сделайте Разрушитель Мобов",
+  "sb3.if.mc.desc1": "&bРазрушитель Мобов&r убивает мобов, собирая с них добычу. Опыт собирается в виде Эссенции.",
+  "sb3.if.mc.desc2": "Вы можете настроить его на использование Добычи за счет того, что он не генерирует Эссенцию.",
+
+  "sb3.if.msf.subtitle": "Сделайте Завод-резню мобов",
+  "sb3.if.msf.desc1": "&bЗавод-резня мобов&r убивает мобов, уничтожая их добычу и опыт, вместо этого он генерирует &6Жидкое Мясо&r и &6Розовую Слизь&r.",
+  "sb3.if.msf.desc2": "Пассивные мобы выделяют больше розовой слизи, чем враждебные.",
+
+  "sb3.if.af.title": "Ферма Животных",
+  "sb3.if.af.subtitle": "Создайте Ферму Животных",
+  "sb3.if.af.desc1": "&bКормилка&r будет использовать корм из своего инвентаря для разведения взрослых особей в своей рабочей зоне.",
+  "sb3.if.af.desc2": "&bЖивотный Распределитель&r будет телепортировать детенышей животных перед собой за себя. Можно настроить на перемещение взрослых особей.",
+  "sb3.if.af.desc3": "Вы можете иметь один загон, перемещать детёнышей в загон, где они будут расти, затем использовать другой загон, чтобы перемещать недавно выросших взрослых особей в загон с машиной для убийства.",
+
+  "sb3.if.cf.title": "Ферма Растений",
+  "sb3.if.cf.subtitle": "Создайте Растений",
+  "sb3.if.cf.desc1": "&bСеятель&r высаживает семена в своей рабочей зоне. Вы можете задать отдельные семена для 9 квадратов.",
+  "sb3.if.cf.desc2": "&bСборщик Растений&r собирает урожай и деревья в своей рабочей зоне. &6Эфир&r позволит ему автоматически пересаживать семена/саженцы.",
+
+  "sb3.if.myc.title": "Мицелиевый Генератор",
+  "sb3.if.myc.subtitle": "Сделайте Мицелиевый Генератор",
+  "sb3.if.myc.desc1": "&bМицелиевый Реактор&r генерирует огромное количество FE &6когда все другие генераторы мицелия работают одновременно&r.",
+  "sb3.if.myc.desc2": "Каждый из &bМицелиевый Генераторов&r производит FE, используя уникальные виды топлива, такие как динамит или Дыхание дракона.",
+
+  "sb3.if.wb.subtitle": "Сделайте Постройщик Визеров",
+  "sb3.if.wb.desc1": "&bПостройщик Визеров&r строит и призывает Визеров над ним, с запасным блоком.",
+  "sb3.if.wb.desc2": "Лучше всего использовать в сочетании с &eRFTools&r Щитом, так как он устойчив к Визеру и может его убить.",
+
+  "sb3.if.ra.title": "Улучшения Радиуса",
+  "sb3.if.ra.subtitle": "Сделайте Улучшение Радиуса",
+  "sb3.if.ra.desc": "Большинство машин имеют рабочую зону только 1x1x1. &bУлучшние Радиуса&r увеличивают это.",
+
+  "sb3.if.oa.title": "Улучшение Скорости",
+  "sb3.if.oa.subtitle": "Создайте одно из других Улучшений",
+  "sb3.if.oa.desc": "Эти &bУлучшения&r увеличивают скорость машин несколькими различными способами.",
+
+  "sb3.if.it.subtitle": "Сделайте Предметный Транспортёр",
+  "sb3.if.it.desc": "&bПретметные Транспортёры&r могут использоваться для быстрого перемещения предметов между инвенторями на расстоянии одного блого друг от друга.",
+
+  "sb3.if.ft.subtitle": "Сделайте Жидкостный Транспортёр",
+  "sb3.if.ft.desc": "&bЖидкостные Транспортёры&r могут использоваться для быстрого перемещения жидкостей между резервуарами на расстоянии одного блока друг от друга.",
+
+  "sb3.if.wt.subtitle": "Сделайте Мировой Транспортёр",
+  "sb3.if.wt.desc": "&bМировые Транспортёры&r могут использоваться для быстрого перемещения предметов между инвентарем и миром в форме сущности предмета.",
+
+  "sb3.tech.rftools.title": "RF Tools",
+
+  "sb3.rft.builder.subtitle": "Сделайте Строитель",
+  "sb3.rft.builder.desc": "&bСтроитель&r размещает блоки из инвентаря выше в любой области, заданной &bКартой Формы&r внутри.",
+
+  "sb3.rft.cards.title": "Карты Формы",
+  "sb3.rft.cards.subtitle": "Сделайте продвинутую Карту Формы",
+  "sb3.rft.cards.desc": "Эти продвинутые &bКарты Формы&r могут использоваться для размещения/сбора жидкостей, а также для выкапывания блоков.",
+
+  "sb3.rft.shield.title": "Щиты Силового Поля",
+  "sb3.rft.shield.subtitle": "Сделайте установку Щита",
+  "sb3.rft.shield.desc1": "&bПроекторs Щита&r создают щит, там где присоеденены &bШаблоны Щита&r, при клике гаечным ключом. На рисунке ниже показаны до и после использования гаечного ключа.",
+  "sb3.rft.shield.desc2": "Щитам могут быть даны правила взаимодействия с сущностями, например, наносить урон Визеру, пропуская игроков и мобов и т.д.",
+  "sb3.rft.shield.desc3": "Блоки щита также устойчивы к Визеру! Не забудьте запретить Визеру пролетать сквозь них!",
+  "sb3.rft.shield.task1": "Проекторы Щита",
+  "sb3.rft.shield.task2": "Шаблоны Щита",
+
+  "sb3.rft.spawner.subtitle": "Сделайте Спавнер",
+  "sb3.rft.spawner.desc1": "&bСпарнер&r порождает моба, установленного &bШприцом&r внутри, который заполняется путем нападения на моба.",
+  "sb3.rft.spawner.desc2": "Всем мобам нужны 3 вещи: грязь / гравий / песок, растения и предмет, уникальный для моба. Они предоставляются связанным &bИзлучателем Материи&r.",
+
+  "sb3.tech.powah.title": "Powah!",
+
+  "sb3.powah.thermo.title": "Термогенераторы",
+  "sb3.powah.thermo.subtitle": "Сделайте Термогенератор",
+  "sb3.powah.thermo.desc": "&bТермогенераторы&r генерируют FE, находясь на источниках тепла.",
+
+  "sb3.powah.magmator.title": "Магмагенератор",
+  "sb3.powah.magmator.subtitle": "Сделайте Магмагенератор",
+  "sb3.powah.magmator.desc": "&bМагмагенераторы&r генерируют FE от лавы.",
+
+  "sb3.powah.reactor.title": "Реакторы",
+  "sb3.powah.reactor.subtitle": "Сделайте Реактор",
+  "sb3.powah.reactor.desc": "&bРеакторы&r генерируют FE, используя уранинит. Они должны быть расположены в виде 3x4x3.",
+
+  "sb3.powah.cell.title": "Энергоячейки",
+  "sb3.powah.cell.subtitle": "Сделайте Энергоячейку",
+  "sb3.powah.cell.desc": "&bЭнергоячейки&r хранят FE.",
+
+  "sb3.powah.battery.title": "Аккумуляторы",
+  "sb3.powah.battery.subtitle": "Сделайте Аккумулятор",
+  "sb3.powah.battery.desc": "&bАккумуляторы&r хранят FE, и могёт заряжать предметы из вашего инвентаря.",
+
+  "sb3.powah.cable.title": "Энергокабели",
+  "sb3.powah.cable.subtitle": "Сделайте Энергокабель",
+  "sb3.powah.cable.desc": "&bЭнергокабели&r передают FE.",
+
+  "sb3.powah.ender.title": "Эндер-ячейки",
+  "sb3.powah.ender.subtitle": "Сделайте Эндер-ячейку",
+  "sb3.powah.ender.desc1": "&bЭндер-ячейки&r хранят FE в беспроводной сети, совместно используемой любым количеством Эндер-ячеек.",
+  "sb3.powah.ender.desc2": "Это количество может быть увеличено с помощью Энергоячеек.",
+
+  "sb3.powah.energizing.task2": "Зарядоотводы",
+  "sb3.powah.energizing.subtitle": "Сделайте Зарядную установку",
+  "sb3.powah.energizing.desc": "&bЗарядная сфера&r по беспроводной сети получает питание от расположенных поблизости &bЗарядоотводов&r для создания предметов.",
+
+  "sb3.powah.player.title": "Беспроводные зарядники",
+  "sb3.powah.player.subtitle": "Сделайте Беспроводной Зарядник",
+  "sb3.powah.player.desc": "&bБеспроводной Зарядник&r беспроводно заряжает предметы в инвентаре игрока.",
+
+  "sb3.powah.gate.title": "Эндер-шлюзы",
+  "sb3.powah.gate.subtitle": "Сделайте Эндер-шлюз",
+  "sb3.powah.gate.desc": "&bЭндер-шлюзы&r обеспечивают доступ к сетям Эндер-ячеек.",
+
+  "sb3.tech.thermal.title": "Thermal Series",
+
+  "sb3.thermal.mc.subtitle": "Сделайте Магмовый Тигель",
+  "sb3.thermal.mc.desc": "&bМагмовый Тигель&r плавит предметы в жидкости.",
+
+  "sb3.thermal.bc.subtitle": "Сделайте Шоковый Охладитель",
+  "sb3.thermal.bc.desc": "&bШоковый Охладитель&r преобразует жидкости в предметы.",
+
+  "sb3.thermal.rf.subtitle": "Сделайте Редстоуновую Печь",
+  "sb3.thermal.rf.desc": "&bРедстоуновая Печь&r плавит предметы.",
+
+  "sb3.thermal.pulv.subtitle": "Сделайте Измельчитель",
+  "sb3.thermal.pulv.desc": "&bИзмельчитель&r дробит предметы.",
+
+  "sb3.thermal.aug.title": "Дополнения",
+  "sb3.thermal.aug.subtitle": "Сделайте Дополнение",
+  "sb3.thermal.aug.desc": "&bДополнения&r по сути, обновления, которые меняют способ функционирования инструментов и машин.",
+
+  "sb3.thermal.dynamo.title": "Генераторы",
+  "sb3.thermal.dynamo.subtitle": "Сделайте Генератор",
+  "sb3.thermal.dynamo.desc": "&bГенераторы&r генерируют FE.",
+
+  "sb3.thermal.ic.title": "Интегральные Компоненты",
+  "sb3.thermal.ic.subtitle": "Сделайте Интегральный Компонент",
+  "sb3.thermal.ic.desc": "&bИнтегральные Компоненты&r повышают уровень машины, улучшая базовые атрибуты.",
+
+  "sb3.thermal.msp.subtitle": "Сделайте Мульти-серво Пресс",
+  "sb3.thermal.msp.desc": "&bМельти-серво Пресс&r спрессовывает предметы вместе.",
+
+  "sb3.thermal.rfc.subtitle": "Сделайте Энергетическую Ячейку",
+  "sb3.thermal.rfc.desc": "&bЭнергетические Ячейки&r хранят FE. Хранилище может быть улучшено с помощью дополнений и усовершенствований.",
+
+  "sb3.thermal.is.subtitle": "Сделайте Индукционную Плавильню",
+  "sb3.thermal.is.desc": "&bИндукционная Плавильня&r объединяет элементы в новые.",
+
+  "sb3.thermal.pi.subtitle": "Сделайте Фитогенный Облучатель",
+  "sb3.thermal.pi.desc": "&bФитогенный Облучатель&r выращивает культуры, цветы и деревья.",
+
+  "sb3.thermal.ie.subtitle": "Сделайте Вулчанический Пресс",
+  "sb3.thermal.ie.desc": "&bВулканический Пресс&r может объеденять Воду и Лаву в различные блоки, такие как Камень или Глубокий Сланец.",
+
+  "sb3.tech.immersive_eng.title": "Immersive Engineering",
+
+  "sb3.ie.eh.subtitle": "Сделайте Молот Инженера",
+  "sb3.ie.eh.desc": "&bМолот Инженера&r требуется для создания различных структур в моде.",
+
+  "sb3.ie.ak.title": "Плавильная Печь",
+  "sb3.ie.ak.subtitle": "Сделайте Плавильную Печь",
+  "sb3.ie.ak.desc": "&bПлавильная Печь&r объединяет металлы в сплавы.",
+
+  "sb3.ie.co.title": "Коксовая Печь",
+  "sb3.ie.co.subtitle": "Сделайте Коксовую Печь",
+  "sb3.ie.co.desc": "&bКоксовая Печь&r превращает уголь в Коксовый Уголь и Креозот.",
+
+  "sb3.ie.bo.title": "Доменная Печь",
+  "sb3.ie.bo.subtitle": "Сделайте Доменную Печь",
+  "sb3.ie.bo.desc": "&bДоменная Печь&r производит Сталь.",
+
+  "sb3.ie.ibf.title": "Продвинутая Доменная Печь",
+  "sb3.ie.ibf.subtitle": "Сделайте Продвинутую Доменную Печь",
+  "sb3.ie.ibf.desc": "&bПродвинутая Доменная Печь&r может быть ускоренна с помощью &bВоздухонагревателей Доменной Печи&r.",
+
+  "sb3.ie.mp.title": "Сделайте Металлический Пресс",
+  "sb3.ie.mp.subtitle": "Сделайте Металлический Пресс",
+  "sb3.ie.mp.desc": "&bМеталлический Пресс&r придает металлам форму различных предметов.",
+
+  "sb3.ie.c.title": "Дробитель",
+  "sb3.ie.c.subtitle": "Сделайте Дробитель",
+  "sb3.ie.c.desc": "&bДробитель&r дробит предметы и мобов, попадающих сверху",
+
+  "sb3.ie.gc.subtitle": "Сделайте Садовый Клоше",
+  "sb3.ie.gc.desc": "&bСадовый Клоше&r быстро выращивает культуры в нём",
+
+  "sb3.tech.mekanism.title": "Mekanism",
+
+  "sb3.mek.heat.title":"Горячая штучка",
+  "sb3.mek.heat.subtitle":"Сделайте Устойчивый Нагреватель",
+  "sb3.mek.heat.desc1":"&6Тепло&r - это довольно заброшенная механика в &eMekanism&r. Некоторые машины выделяют тепло, которое может передаваться через &6Теплотрассу&r, и тогда некоторые машины расходуют тепло, чтобы что-то делать.",
+  "sb3.mek.heat.desc2":"Главное, для чего вам понадобилось бы тепло, - это &6Тепловой Испаритель&r. Обычно вы бы использовали 4 солнечных генератора, но... здесь это не совсем вариант.",
+  "sb3.mek.heat.desc3":"Теловой Испаритель питается от тепла, которое обеспечивается либо самим биомом, либо через &6Вентили Теплового Испарителя&r. &bУстойчивый Нагреватель&r может превращать FE в тепло, которое может привести Тепловой Испаритель в действие до такой степени, что он сможет работать.",
+
+  "sb3.mek.vapor.title": "Водяной пар",
+  "sb3.mek.vapor.subtitle": "Сделайте Конденсатор Вращения",
+  "sb3.mek.vapor.desc1": "&6Polonium&r requires Nuclear Waste, which means you need to &6power a Fission Reactor&r.",
+  "sb3.mek.vapor.desc2": "Fission Reactors run on &6Fissile Fuel&r, which has a lengthy, complex recipe.",
+  "sb3.mek.vapor.desc3": "The first step would be to make &6Water Vapor&r in the &bRotary Condensator&r.",
+
+  "sb3.mek.oxygen.title": "Oxygen",
+  "sb3.mek.oxygen.subtitle": "Make an Electrolytic Separator",
+  "sb3.mek.oxygen.desc1": "The &bElectrolytic Separator&r turns one chemical into two others. Here, that would be turning Water into Hydrogen and &6Oxygen&r.",
+  "sb3.mek.oxygen.desc2": "The Hydrogen can be dumped, as it isn't required for Fissile Fuel.",
+
+  "sb3.mek.sdo.title": "Sulfur Dioxide",
+  "sb3.mek.sdo.subtitle": "Make a Chemical Oxidizer",
+  "sb3.mek.sdo.desc": "The &bChemical Oxidizer&r turns solids into chemicals. Here, that would be Sulfur into &6Sulfur Dioxide&r.",
+
+  "sb3.mek.lst.title": "Sulfur Trioxide",
+  "sb3.mek.lst.subtitle": "Make a Chemical Infuser",
+  "sb3.mek.lst.desc": "The &bChemical Infuser&r combines two chemicals to make another. Here, that would be Sulfur Dioxide with Oxygen to make &6Sulfur Trioxide&r.",
+
+  "sb3.mek.sa.title": "Sulfuric Acid",
+  "sb3.mek.sa.subtitle": "Make Sulfuric Acid",
+  "sb3.mek.sa.desc": "&bSulfuric Acid&r can be made by combining Sulfur Trioxide with Water Vapor.",
+
+  "sb3.mek.hfa.title": "Hydrofluoric Acid",
+  "sb3.mek.hfa.subtitle": "Make a Chemical Dissolution Chamber",
+  "sb3.mek.hfa.desc": "The &bChemical Dissolution Chamber&r uses Sulfuric Acid to dissolve items into a new chemical. Here, that would be Fluorite into &6Hydrofluoric Acid&r.",
+
+  "sb3.mek.yc.subtitle": "Get Yellow Cake Uranium",
+  "sb3.mek.yc.desc": "&bYellow Cake Uranium&r is a key ingredient in Fissile Fuel.",
+
+  "sb3.mek.uo.title": "Uranium Oxide",
+  "sb3.mek.uo.subtitle": "Get Uranium Oxide",
+  "sb3.mek.uo.desc": "&bUranium Oxide&r can be created in the &6Chemical Oxidizer&r.",
+
+  "sb3.mek.uhf.title": "Uranium Hexafluoride",
+  "sb3.mek.uhf.subtitle": "Get Uranium Hexafluoride",
+  "sb3.mek.uhf.desc": "&bUranium Hexafluoride&r is the main ingredient in Fissile Fuel.",
+
+  "sb3.mek.ff.title": "Fissile Fuel",
+  "sb3.mek.ff.subtitle": "Make an Isotopic Centrifuge",
+  "sb3.mek.ff.desc": "The &bIsotopic Centrifuge&r turns one chemical into another. Here, that would be Uranium Hexafluoride into &6Fissile Fuel&r.",
+
+  "sb3.mek.fission.title": "Fission Reactor",
+  "sb3.mek.fission.subtitle": "Make a Fission Reactor",
+  "sb3.mek.fission.desc1": "The &bFission Reactor&r is a large multiblock structure that generates a massive amount of heat, which can be used to make an extremely large amount of FE.",
+  "sb3.mek.fission.desc2": "More importantly, however, it makes &6&oNuclear Waste&r.",
+  "sb3.mek.fission.desc3": "Frankly, the Fission Reactor is much too complex to describe here. Luckily, there's a very good wiki page here: ",
+
+  "sb3.mek.nw.title": "Nuclear Waste",
+  "sb3.mek.nw.subtitle": "Make a Pressurized Reaction Chamber",
+  "sb3.mek.nw.desc": "The &bPressurized Reaction Chamber&r combines an item and a chemical into another item and another chemical.",
+
+  "sb3.mek.polonium.subtitle": "Get Polonium",
+  "sb3.mek.polonium.desc1": "&bPolonium&r is a radioactive material that's used in several recipes.",
+  "sb3.mek.polonium.desc2": "None of those are important though. It's needed for the Singularity, and that's what really matters.",
+
+  "sb3.magic.title": "Magic",
+
+  "sb3.magic.ars_nouveau.title": "Ars Nouveau",
+
+  "sb3.ars.nsb.subtitle": "Make a Novice Spell Book",
+  "sb3.ars.nsb.desc1": "The &bNovice Spell Book&r allows you to make spells using Tier 1 Glyphs that you've learned.",
+  "sb3.ars.nsb.desc2": "Make and learn new Glyphs at the &6Scribe's Table&r.",
+
+  "sb3.ars.st.subtitle": "Make a Scribe's Table",
+  "sb3.ars.st.desc": "You can make new &bGlyphs&r at the &bSCribe's Table&r by using a Spell Book on it, then throwing the requested items on top.",
+  "sb3.ars.st.task": "Glyphs",
+
+  "sb3.ars.msb.subtitle": "Make a Mage's Spell Book",
+  "sb3.ars.msb.desc": "The &bMage's Spell Book&r allows you to cast spells using Tier 2 Glpyhs that you've learned.",
+
+  "sb3.ars.asb.subtitle": "Make the Archmage Spell Book",
+  "sb3.ars.asb.desc": "The &bArchmage Spell Book&r allows you to cast spells using Tier 3 Glyphs that you've learned.",
+
+  "sb3.ars.ic.subtitle": "Make an Imbuement Chamber",
+  "sb3.ars.ic.desc1": "The &bImbuement Chamber&r uses Source to craft items.",
+  "sb3.ars.ic.desc2": "While it works faster with Source Jars nearby, it &6slowly generates Source&r on its own.",
+
+  "sb3.ars.sl.title": "Sourcelinks",
+  "sb3.ars.sl.subtitle": "Make a Sourcelink",
+  "sb3.ars.sl.desc": "&bSourcelinks&r generate Source in a variety of ways, depending on the Sourcelink. Source is sent to nearby &bSource Jars&r.",
+
+  "sb3.ars.sr.title": "Source Relays",
+  "sb3.ars.sr.subtitle": "make a Source Relay",
+  "sb3.ars.sr.desc": "&bSource Relays&r transfer Source between Source Jars and other Relays.",
+
+  "sb3.ars.ea.subtitle": "Make an Enchanting Apparatus",
+  "sb3.ars.ea.desc": "The &bEnchanting Apparatus&r uses Source to combine items on nearby &bPedestals&r with an item in its own inventory, making something new.",
+
+  "sb3.ars.charms.title": "Charms",
+  "sb3.ars.charms.subtitle": "Make a Charm",
+  "sb3.ars.charms.desc": "&bCharms&r spawn mobs that perform some sort of automation, depending on the mob.",
+
+  "sb3.ars.rb.subtitle": "Make a Ritual Brazier",
+  "sb3.ars.rb.desc": "The &bRitual Brazier&r uses Source to perform rituals, depending on the &bTablet&r given.",
+  "sb3.ars.rb.task": "Ritual Tablets",
+
+  "sb3.ars.fam.title": "Familiars",
+  "sb3.ars.fam.subtitle": "Get a Familiar",
+  "sb3.ars.fam.desc1": "&bFamiliars&r provide passive or active buffs, depending on the Familiar.",
+  "sb3.ars.fam.desc2": "Get the Scripts using the &bTablet of Binding&r near the appropriate mob.",
+  "sb3.ars.fam.task": "Bound Familiars",
+
+  "sb3.ars.robe.title": "Robes",
+  "sb3.ars.robe.subtitle": "Make some magic armor",
+  "sb3.ars.robe.desc": "&bRobes&r increase your mana capacity, each tier more than the last.",
+
+  "sb3.magic.botania.title": "Botania",
+
+  "sb3.botania.ff.subtitle": "Make Floral Fertilizer",
+  "sb3.botania.ff.desc": "&bFloral Fertilizer&r grows Mystical Flowers when used.",
+
+  "sb3.botania.pa.subtitle": "Make a Petal Apothecary",
+  "sb3.botania.pa.desc": "The &bPetal Apothecary&r combines ingredients with Water to make magic Flowers. ",
+
+  "sb3.botania.pd.subtitle": "Make a Pure Daisy",
+  "sb3.botania.pd.desc": "The &bPure Daisy&r converts Stone and Logs around it into Livingrock and Livingwood.",
+
+  "sb3.botania.mps.subtitle": "Make a Mana Pool and Mana Spreader",
+  "sb3.botania.mps.desc": "The &bMana Pool&r stores Mana, and the Mana Spreader moves it.",
+
+  "sb3.botania.ef.subtitle": "Make an Endoflame",
+  "sb3.botania.ef.desc": "The &bEndoflame&r generates Mana from dropped furnace fuels.",
+
+  "sb3.botania.ra.subtitle": "Make a Runic Altar",
+  "sb3.botania.ra.desc": "The &bRunic Altar&r uses to craft items.",
+
+  "sb3.botania.tap.subtitle": "Make a Terrestrial Agglomeration Plate",
+  "sb3.botania.tap.desc": "The &bTerrestrial Agglomeration Plate&r uses Mana from &bSparks&r (connected to nearby Mana Pools with Sparks) to craft Terrasteel.",
+
+  "sb3.botania.egc.subtitle": "Make an Elven Gateway Core",
+  "sb3.botania.egc.desc": "The &bElven Gateway Core&r is the heart of the &6Portal to Alfheim&r. Throw things in to get things back.",
+
+  "sb3.botania.e.subtitle": "Get Elementium",
+  "sb3.botania.e.desc": "&bElementium&r is made by tossing Manasteel through the Portal to Alfheim.",
+
+  "sb3.botania.st.subtitle": "Make a Spark Tinkerer",
+  "sb3.botania.st.desc": "The &bSpark Tinkerer&r allows you to install &bSpark Augments&r onto Sparks.",
+  "sb3.botania.st.task": "Spark Augments",
+
+  "sb3.botania.gp.subtitle": "Make a Gaia Pylon",
+  "sb3.botania.gp.desc": "The &bGaia Pylon&r is required to spawn and fight the &6Guardian of Gaia&r.",
+
+  "sb3.botania.gog.subtitle": "Kill the Guardian of Gaia",
+  "sb3.botania.gog.desc": "The &bGuardian of Gaia&r is summoned through the Ritual of Gaia. Killing it will be difficult, but its drops are required for progression.",
+
+  "sb3.botania.ems.subtitle": "Make an Elven Mana Spreader",
+  "sb3.botania.ems.desc": "The &bElven Mana Sprader&r is an upgraded version of the Mana Spreader.",
+
+  "sb3.botania.gms.subtitle": "Make a Gaia Mana Spreader",
+  "sb3.botania.gms.desc": "The &bGaia Mana Spreader&r is an upgraded version of the Elven Mana Spreader.",
+
+  "sb3.botania.gs.subtitle": "Get a Gaia Spirit",
+  "sb3.botania.gs.desc": "&bGaia Spirits&r drop from the Guardian of Gaia.",
+
+  "sb3.botania.gsi.subtitle": "Get a Gaia Spirit Ingot",
+  "sb3.botania.gsi.desc1": "A &bGaia Spirit Ingot&r is required to summon and fight the second version of the Guardian of Gaia.",
+  "sb3.botania.gsi.desc2": "This fight is much more difficult, but has even greater rewards.",
+
+  "sb3.botania.dof.subtitle": "Get the Dice of Fate",
+  "sb3.botania.dof.desc": "The &bDice of Fate&r (dropped by the second Guardian of Gaia) will give you a random Relic, which are unique and powerful items.",
+
+  "sb3.magic.blood_magic.title": "Blood Magic",
+
+  "sb3.bm.ba.subtitle": "Make a Blood Altar",
+  "sb3.bm.ba.desc1": "The &bBlood Altar&r stores LP (blood, basically), and uses it to craft items.",
+  "sb3.bm.ba.desc2": "For now, use a &bSacrificial Knife&r to fill it using your own health.",
+
+  "sb3.bm.wbo.subtitle": "Make a Weak Blood Orb",
+  "sb3.bm.wbo.desc1": "&bBlood Orbs&r give you a pool of LP, called a &6Soul Network&r, which is used to power Rituals and Sigils.",
+  "sb3.bm.wbo.desc2": "The &bWeak Blood Orb&r is the first and smallest, holding &65,000 LP&r. Bind and fill it by right-clicking. You can also fill it in the Blood Altar.",
+
+  "sb3.bm.abo.subtitle": "Make an Apprentice Blood Orb",
+  "sb3.bm.abo.desc": "The &bApprentice Blood Orb&r holds &625,000 LP&r.",
+
+  "sb3.bm.mbo.subtitle": "Make a Magician Blood Orb",
+  "sb3.bm.mbo.desc": "The &bMagician Blood Orb&r holds &6150,000 LP&r.",
+
+  "sb3.bm.mbo2.subtitle": "Make a Master Blood Orb",
+  "sb3.bm.mbo2.desc": "The &bMaster Blood Orb&r holds &61,000,000 LP&r.",
+
+  "sb3.bm.abo2.subtitle": "Make an Archmage Blood Orb",
+  "sb3.bm.abo2.desc": "The &bArchmage Blood Orb&r holds &610,000,000 LP&r.",
+
+  "sb3.bm.aa.subtitle": "Make Arcane Ashes",
+  "sb3.bm.aa.desc": "&bArcane Ashes&r are used for &6Alchemy Arrays&r, which craft items or perform other functions.",
+
+  "sb3.bm.sl.subtitle": "Make a Slate",
+  "sb3.bm.sl.desc1": "&bBlank Slates&r are some of the most basic ingredients in the mod. Just place Stone in a Blood Altar with at least 1,000 LP in it.",
+  "sb3.bm.sl.desc2": "If you insert 2 Stone, it'll try to craft both at the same time, costing 2,000 LP. If you don't have 2,000 LP, the craft will fail, and the LP will be wasted.",
+
+  "sb3.bm.ss.subtitle": "Make a Soul Snare",
+  "sb3.bm.ss.desc": "If you throw &bSoul Snares&r at mobs, they have a chance of getting white particles. Killing them will drop &6Demon Will&r.",
+
+  "sb3.bm.dw.subtitle": "Get Demon Will",
+  "sb3.bm.dw.desc": "&bDemon Will&r drops from snared mobs. The Will Quality is random.",
+
+  "sb3.bm.tg.title": "Tartaric Gems",
+  "sb3.bm.tg.subtitle": "Make a Tartaric Gem",
+  "sb3.bm.tg.desc": "&bTartaric Gems&r will absorb and store Demon Will as it is picked up.",
+
+  "sb3.bm.hf.subtitle": "Make a Hellfire Forge",
+  "sb3.bm.hf.desc": "The &bHellfire Forge&r uses Will (either from the Will item itself or a Tartaric Gem) to craft items.",
+
+  "sb3.bm.bat.title": "Blood Altar Tiers",
+  "sb3.bm.bat.subtitle": "Make a Tier 2 Blood Altar",
+  "sb3.bm.bat.desc1": "The &6Blood Altar&r can be upgraded into 5 tiers, by placing certain blocks around it.",
+  "sb3.bm.bat.desc2": "The second tier requires 8 &bRunes&r placed in a circle around it, one block below. Runes double as Altar upgrades, changing their functionality in some way.",
+  "sb3.bm.bat.desc3": "Higher tiers are required for certain crafting recipes. See the &6Sanguine Scientem&r for a full guide of each.",
+  "sb3.bm.bat.task": "8x Runes",
+
+  "sb3.bm.ds.subtitle": "Make a Dagger of Sacrifice",
+  "sb3.bm.ds.desc": "The &bDagger of Sacrifice&r allows you to use a mob's life energy instead of your own to make LP.",
+
+  "sb3.bm.at.subtitle": "Make an Alchemy Table",
+  "sb3.bm.at.desc": "The &bAlchemy Table&r uses LP from your Soul Network to craft items.",
+
+  "sb3.bm.br.subtitle": "Make Binding Reagent",
+  "sb3.bm.br.desc": "&bBinding Reagent&r is used to make &6Living Armor&r, an incredibly powerful set of armor that &6upgrades itself depending on how you use it&r.",
+
+  "sb3.bm.sig.title": "Sigils",
+  "sb3.bm.sig.subtitle": "Make any Sigil",
+  "sb3.bm.sig.desc": "&bSigils&r use LP from your Soul Network to perform a variety of functions, like placing lights or growing crops.",
+
+  "sb3.bm.ritual.title": "Rituals",
+  "sb3.bm.ritual.subtitle": "Get the materials for Rituals",
+  "sb3.bm.ritual.desc1": "&bRituals&r use LP from your Soul Network to perform various tasks. They vary from &6generating ores&r, &6growing crops&r, and &6damaging mobs for LP&r.",
+  "sb3.bm.ritual.desc2": "They are centered on the &bMaster Ritual Stone&r, and a number of &bRitual Stones&r are placed nearby, colored with &bInscription Tools&r, and finally activated with an &bActivation Crystal&r.",
+  "sb3.bm.ritual.desc3": "It is highly suggested to construct the ritual multiblock with a &6Ritual Diviner&r.",
+  "sb3.bm.ritual.task": "Inscription Tools",
+
+  "sb3.bm.rd.subtitle": "Make a Ritual Diviner",
+  "sb3.bm.rd.desc": "With the &bRitual Diviner&r, you can sneak-left- or right-click air to choose a Ritual, then use it on the Master Ritual Stone to place and color the Ritual Stones for that Ritual.",
+
+  "sb3.bm.edge.title": "Edge of the Hidden Realm",
+  "sb3.bm.edge.subtitle": "Visit a Dungeon",
+  "sb3.bm.edge.desc1": "The &bEdge of the Hidden Realm&r Ritual will send you to a &6dungeon dimension&r made of 4 rooms, unlocked with &6Iron Keys&r.",
+  "sb3.bm.edge.desc2": "Using the same Inversion Pillar will always send you to the same dungeon. You have to redo the Ritual to create a new one.",
+
+  "sb3.storage.title": "Storage",
+
+  "sb3.storage.drawers.title": "Functional Storage",
+  "sb3.storage.drawers.subtitle": "Make a Drawer",
+  "sb3.storage.drawers.desc1": "&eFunctional Storage&r is basically an analogue to &eStorage Drawers&r, with some changes.",
+  "sb3.storage.drawers.desc2": "The basics remain the same. &bDrawers&r store a large amount of a single item. &bCompacting Drawers&r show items in their block, ingot, and nugget forms.",
+  "sb3.storage.drawers.task1": "Drawers",
+  "sb3.storage.drawers.task2": "Compacting Drawers",
+
+  "sb3.storage.storagecontroller.subtitle": "Make a Storage Controller",
+  "sb3.storage.storagecontroller.desc1": "The &bStorage Controller&r can connect Drawer inventories &6without touching them&r.",
+  "sb3.storage.storagecontroller.desc2": "To connect the Controller to Drawers, use the &bLinking Tool&r.",
+
+  "sb3.storage.armory.subtitle": "Make an Armory",
+  "sb3.storage.armory.desc1": "The &bArmory&r can store &6up to 4096 unstackable items&r, in any combination.",
+  "sb3.storage.armory.desc2": "You &ccannot open it&r, it has no GUI. You can only insert and extract using automation.",
+
+  "sb3.storage.fcups.title": "Upgrades",
+  "sb3.storage.fcups.subtitle": "Make any Drawer Upgrade",
+  "sb3.storage.fcups.desc1": "&bUpgrades&r upgrade Drawers in some way.",
+  "sb3.storage.fcups.desc2": "They come in two types, and go in different slots. &6Storage&r Upgrades increase the Drawer's storage potential, and &6Utility&r Upgrades change how the Drawer functions.",
+  "sb3.storage.fcups.desc3": "Note that if you are already familiar with &eStorage Drawers&r, you will find that the Storage Upgrades in &eFunctional Storage&r stack &6multiplicatively&r, meaning just two copper upgrades will increase your capacity to &664x&r the base amount!",
+
+  "sb3.storage.bhu.title": "Black Hole Units",
+  "sb3.storage.bhu.subtitle": "Make a Black Hole Unit",
+  "sb3.storage.bhu.desc1": "&bBlack Hole Units&r store a massive amount of a single item.",
+  "sb3.storage.bhu.desc2": "Each tier holds exponentially more than the last.",
+
+  "sb3.storage.bht.title": "Black Hole Tanks",
+  "sb3.storage.bht.subtitle": "Make a Black Hole Tank",
+  "sb3.storage.bht.desc1": "&bBlack Hole Tanks&r store a large amount of a fluid.",
+  "sb3.storage.bht.desc2": "Each tier holds exponentially more than the last.",
+
+  "sb3.storage.bhc.subtitle": "Make a Black Hole Controller",
+  "sb3.storage.bhc.desc1": "The &bBlack Hole Controller&r can store 16 Black Hole Units/Tanks, and will &6consolidate their inventories&r.",
+  "sb3.storage.bhc.desc2": "That is, the Controller will pretend it's every Unit/Tank it holds combined into one inventory.",
+
+  "sb3.rs.c.subtitle": "Make a Controller",
+  "sb3.rs.c.desc": "The &bController&r is the heart of a &eRefined Storage&r network.",
+
+  "sb3.rs.dd.subtitle": "Make a Disk Drive",
+  "sb3.rs.dd.desc": "The &bDisk Drive&r holds Disks, which themselves hold items or fluids.",
+
+  "sb3.rs.id.title": "Item Disks",
+  "sb3.rs.id.subtitle": "Make an Item Disk",
+  "sb3.rs.id.desc": "&bItem Disks&r store items. Contents accessed through Grids.",
+
+  "sb3.rs.fd.title": "Fluid Disks",
+  "sb3.rs.fd.subtitle": "Make a Fluid Disk",
+  "sb3.rs.fd.desc": "&bFluid Disks&r store fluids. Contents accessed through Fluid Grids.",
+
+  "sb3.rs.g.subtitle": "Make a Grid",
+  "sb3.rs.g.desc": "The &bGrid&r allows you to access the contents of Disks in the network.",
+
+  "sb3.rs.cg.subtitle": "Make a Crafting Grid",
+  "sb3.rs.cg.desc": "The &bCrafting Grid&r has a 3x3 crafting gui.",
+
+  "sb3.rs.wg.subtitle": "Make a Wireless Grid",
+  "sb3.rs.wg.desc": "The &bWireless Grid&r can wirelessly access the network.",
+
+  "sb3.rs.wcg.subtitle": "Make a Wireless Crafting Grid",
+  "sb3.rs.wcg.desc": "The &bWireless Crafting Grid&r can wirelessly access the network.",
+
+  "sb3.rs.pg.subtitle": "Make a Pattern Grid",
+  "sb3.rs.pg.desc": "The &bPattern Grid&r can encode &6Patterns&r, which are required for autocrafting.",
+
+  "sb3.rs.cr.subtitle": "Make a Crafter",
+  "sb3.rs.cr.desc": "&bCrafters&r craft using Patterns.",
+
+  "sb3.rs.fg.subtitle": "Make a Fluid Grid",
+  "sb3.rs.fg.desc": "The &bFluid Grid&r provides access to the contents of Fluid Disks in the network.",
+
+  "sb3.rs.r.subtitle": "Make a Requester",
+  "sb3.rs.r.desc": "The &bRequester&r automatically makes autocraft requests when the network has less than a certain amount of a specified item.",
+
+  "sb3.ae2.p.title": "Inscriber Presses",
+  "sb3.ae2.p.subtitle": "Make an Inscriber Press",
+  "sb3.ae2.p.desc": "&bInscriber Presses&r is used to make various &6Circuits&r.",
+
+  "sb3.ae2.c.subtitle": "Make a Controller",
+  "sb3.ae2.c.desc": "The &bController&r is the heart of an &eAE2&r network, providing channels for additional devices.",
+
+  "sb3.ae2.d.subtitle": "Make an ME Drive",
+  "sb3.ae2.d.desc": "The &bME Drive&r holds &6Storage Cells&r.",
+
+  "sb3.ae2.ic.title": "Item Storage Cells",
+  "sb3.ae2.ic.subtitle": "Make an Item Storage Cell",
+  "sb3.ae2.ic.desc1": "&bItem Storage Cells&r store items. Higher tiers can hold more total items, but all tiers can only hold 63 unique items.",
+  "sb3.ae2.ic.desc2": "&bME DISK Drives&r (short for &nD&reep &nI&rtem &nS&rtorage &nD&risk) from &eAE2 Things&r have no unique item limit.",
+
+  "sb3.ae2.fc.title": "Fluid Storage Cells",
+  "sb3.ae2.fc.subtitle": "Make a Fluid Storage Cell",
+  "sb3.ae2.fc.desc": "&bFluid Storage Cells&r store fluids.",
+
+  "sb3.ae2.t.subtitle": "Make an ME Terminal",
+  "sb3.ae2.t.desc": "The &bME Terminal&r allows access to the items and fluids in the network.",
+
+  "sb3.ae2.st.subtitle": "Make an ME Security Terminal",
+  "sb3.ae2.st.desc1": "The &bME Security Terminal&r allows you to choose how other players are allowed to interact with your ME system.",
+  "sb3.ae2.st.desc2": "It is also where &6Wireless Terminals&r are bound to the network.",
+
+  "sb3.ae2.wt.subtitle": "Make a Wireless Terminal",
+  "sb3.ae2.wt.desc": "The &bWireless Terminal&r allows wireless access to the network.",
+
+  "sb3.ae2.ct.subtitle": "Make an ME Crafting Terminal",
+  "sb3.ae2.ct.desc": "The &bME Crafting Terminal&r has a 3x3 crafting gui.",
+
+  "sb3.ae2.wct.subtitle": "Make a Wireless Crafting Terminal",
+  "sb3.ae2.wct.desc": "The &bWireless Crafting Terminal&r has a 3x3 crafting gui.",
+
+  "sb3.ae2.pet.subtitle": "Make an ME Pattern Encoding Terminal",
+  "sb3.ae2.pet.desc": "The &bME Pattern Encoding Terminal&r can encode &6Patterns&r, which are required for autocrafting.",
+
+  "sb3.ae2.pat.subtitle": "Make an ME Pattern Access Terminal",
+  "sb3.ae2.pat.desc": "The &bME Pattern Access Terminal&r allows you to access all Pattern Providers on the network.",
+
+  "sb3.ae2.pp.subtitle": "Make an ME Pattern Provider",
+  "sb3.ae2.pp.desc": "The &bME Pattern Provider&r is where autocraft request ingredients are sent.",
+
+  "sb3.ae2.cs.title": "Crafting CPU",
+  "sb3.ae2.cs.task": "Crafting Storage",
+  "sb3.ae2.cs.subtitle": "Make a Crafting CPU",
+  "sb3.ae2.cs.desc": "&bCrafting Storage&r and &bCrafting Co-Processors&r make a &bCrafting CPU&r when placed adjacent to each other, which are required for autocraft requests.",
+
+  "sb3.ae2.ma.subtitle": "Make a Molecular Assembler",
+  "sb3.ae2.ma.desc": "The &bMolecular Assembler&r will autocraft normal recipes when connected to an ME Pattern Provider.",
+
+  "sb3.storage.modular.subtitle": "Make a Modular Storage",
+  "sb3.storage.modular.task": "Storage Modules",
+  "sb3.storage.modular.desc1": "The &bModular Storage&r can store a single &bStorage Module&r inside.",
+  "sb3.storage.modular.desc2": "Each higher tier of Module can store an additional 100 items.",
+
+  "sb3.storage.scanner.subtitle": "Make a Storage Scanner",
+  "sb3.storage.scanner.desc": "The &bStorage Scanner&r can access the contents of all inventories nearby.",
+
+  "sb3.storage.ps.title": "Pocket Storage",
+  "sb3.storage.ps.subtitle": "Make a Pocket Storage",
+  "sb3.storage.ps.desc1": "&bPocket Storages&r can store only a small amount of unique items, but can store a massive amount of each.",
+  "sb3.storage.ps.desc2": "Each tier holds more unique items, as well as more of each.",
+
+  "sb3.storage.sb.title": "Simply Backpacks",
+  "sb3.storage.sb.subtitle": "Make a Backpack",
+  "sb3.storage.sb.desc": "&bBackpacks&r store items. Each tier holds more. Sneak right-click to edit its settings.",
+
+  "sb3.armour.title": "The Ultimate Armor",
+
+  "sb3.create.title": "Create",
+
+  "sb3.create.ww.subtitle": "Make a Water Wheel",
+  "sb3.create.ww.desc": "&bWater Wheels&r generate rotational energy when spun with a water current.",
+
+  "sb3.create.mp.subtitle": "Make a Mechanical Press",
+  "sb3.create.mp.desc": "The &bMechanical Press&r processes items underneath that are on Depots or Belts.",
+
+  "sb3.create.mix.subtitle": "Make a Mixer",
+  "sb3.create.mix.desc": "The &bMixer&r processes items that are in a Basin below.",
+
+  "sb3.create.wrench.subtitle": "Make a Wrench",
+  "sb3.create.wrench.desc": "The &bWrench&r can configure machines.",
+
+  "sb3.create.bb.subtitle": "Make a Blaze Burner",
+  "sb3.create.bb.desc": "The &bBlaze Burner&r is required for some &6Mixer&r recipes. While it can use any furnace fuel, &bBlaze Cake&r is the most powerful.",
+
+  "sb3.create.ma.subtitle": "Make a Mechanical Arm",
+  "sb3.create.ma.desc": "&bMechanical Arms&r can move items with much more precision than Mechanical Belts.",
+
+  "sb3.create.mc.subtitle": "Make Mechanical Crafters",
+  "sb3.create.mc.desc": "&bMechanical Crafters&r can autocraft recipes, including some that are larger than 3x3.",
+
+  "sb3.create.mb.subtitle": "Make Mechanical Belts",
+  "sb3.create.mb.desc": "&bMechanical Belts&r move items and entities along them.",
+
+  "sb3.create.rl.subtitle": "Make Redstone Links",
+  "sb3.create.rl.desc": "&bRedstone Links&r can wirelessly transmit redstone signals between each other.",
+
+  "sb3.create.se.subtitle": "Make a Steam Engine",
+  "sb3.create.se.desc": "The &bSteam Engine&r, when placed on a Tank full of water with heat below, generates rotational energy.",
+
+  "sb3.create.ts.subtitle": "Make a Train Station",
+  "sb3.create.ts.desc1": "&eCreate&r has an expansive &bTrain&r system.",
+  "sb3.create.ts.desc2": "Frankly, it's too complex to describe here. Use the mod's &6Ponder&r system instead.",
+
+  "sb3.create.em.subtitle": "Make an Electric Motor",
+  "sb3.create.em.desc": "The &bElectric Motor&r converts FE to rotational energy.",
+
+  "sb3.create.alt.subtitle": "Make an Alternator",
+  "sb3.create.alt.desc": "The &bAlternator&r converts rotational energy to FE.",
+
+  "sb3.create.eg.subtitle": "Make some Engineer's Goggles",
+  "sb3.create.eg.desc": "While worn, &bEngineer's Goggles&r will show you details about various machines.",
+
+  "sb3.create.mh.subtitle": "Make a Mechanical Harvester",
+  "sb3.create.mh.desc": "While part of a moving contraption, the &bMechanical Harvester&r will harvest and replant crops.",
+
+  "sb3.misc.title": "Misc",
+
+  "sb3.misc.torch.subtitle": "Make a Mega Torch",
+  "sb3.misc.torch.desc": "The &bMega Torch&r blocks monster spawns in an area.",
+
+  "sb3.misc.dread.subtitle": "Make a Dread Lamp",
+  "sb3.misc.dread.desc": "The &bDread Lamp&r blocks passive spawns in an area.",
+
+  "sb3.misc.feral.subtitle": "Make a Feral Flare Lantern",
+  "sb3.misc.feral.desc": "The &bFeral Flare Lantern&r places invisible lights nearby&r.",
+
+  "sb3.misc.bg.title": "Building Gadgets",
+  "sb3.misc.bg.subtitle": "Make something from Building Gadgets",
+  "sb3.misc.bg.desc": "&eBuilding Gadgets&r has several &bGadgets&r that make building a base much easier.",
+
+  "sb3.misc.cs.subtitle": "Make a Charging Station",
+  "sb3.misc.cs.desc": "You can charge items with FE in the &bCharging Station&r.",
+
+  "sb3.misc.mg.title": "Mining Gadgets",
+  "sb3.misc.mg.subtitle": "Make a Mining Gadget",
+  "sb3.misc.mg.desc1": "&bMining Gadgets&r shoot lasers that mine blocks, with a cost of FE.",
+  "sb3.misc.mg.desc2": "All three types function the same, the difference is only visual.",
+
+  "sb3.misc.mgu.title": "Mining Gadget Upgrades",
+  "sb3.misc.mgu.subtitle": "Make an Upgrade",
+  "sb3.misc.mgu.desc": "&bUpgrades&r can be installed to your Mining Gadget in the &bModification Table&r.",
+  "sb3.misc.mgu.task": "Upgrades",
+
+  "sb3.misc.if.title": "Iron Furnaces",
+  "sb3.misc.if.subtitle": "Make an upgraded Furnace",
+  "sb3.misc.if.desc": "The mod &eIron Furnaces&r adds several tiers of &bFurnace&r that smelt faster.",
+
+  "sb3.misc.temp.subtitle": "Make a Tempad",
+  "sb3.misc.temp.desc1": "&bTempads&r are used to &6teleport from one place to another&r.",
+  "sb3.misc.temp.desc2": "Open the GUI and choose \"RUN PROGRAM.\" Add a location, and you'll be able to teleport to it from anywhere.",
+  "sb3.misc.temp.desc3": "Teleporting is free, but has a 3 minute cooldown.",
+
+  "sb3.misc.pouch.title": "Time in a Pouch",
+  "sb3.misc.pouch.subtitle": "Make a Temporal Pouch",
+  "sb3.misc.pouch.desc": "The &bTemporal Pouch&r slowly collects time as it sits in your inventory. You can use it on machines to speed them up, using the stored time.",
+
+  "sb3.misc.hearthstone.title": "/home but balanced™",
+  "sb3.misc.hearthstone.subtitle": "Make a Hearthstone",
+  "sb3.misc.hearthstone.desc1": "The &bHearthstone &rallows you to quickly teleport to your personal bed or respawn anchor (or the [0, 0] point of your dimension if you don't have either).",
+  "sb3.misc.hearthstone.desc2": "...sure, you &ocould&r just use &6/ftbstoneblock home&r to accomplish the same thing, but where's the fun in that?",
+
+  "sb3.misc.obelisk.title": "EnderIO, anyone?",
+  "sb3.misc.obelisk.subtitle": "Make an Experience Obelisk",
+  "sb3.misc.obelisk.desc1": "The &bExperience Obelisk &ris an &aXP tank&r where you can quickly store or retrieve exactly the amount of XP levels you need at the moment.",
+  "sb3.misc.obelisk.desc2": "It can also be set to automatically absorb nearby XP orbs, and can be set to only work with a redstone signal!",
+
+  "sb3.misc.trash.title": "Trash Cans",
+  "sb3.misc.trash.subtitle": "Make a Trash Can",
+  "sb3.misc.trash.desc": "&bTrash Cans&r destroy what is inserted into them.",
+
+  "sb3.misc.cw.title": "Construction Wands",
+  "sb3.misc.cw.subtitle": "Make a Construction Wand",
+  "sb3.misc.cw.desc": "&bConstruction Wands&r allow you to place a large number of blocks quickly.",
+
+  "sb3.misc.cw.toggle": "Swap between Cores by left-clicking air while sneaking, and holding the Wand.",
+
+  "sb3.misc.ac.subtitle": "Make an Angel Core",
+  "sb3.misc.ac.desc": "The &bAngel Core&r can be installed on the Wand to allow you to place blocks on the side opposite from the one you click.",
+
+  "sb3.misc.dc.subtitle": "Make a Destruction Core",
+  "sb3.misc.dc.desc": "The &bDestruction Core&r can be installed on the Wand to allow you to &cpermanently destroy blocks in an area&r. They will not drop anything.",
+
+  "sb3.misc.ent.subtitle": "Make an Entangled Block",
+  "sb3.misc.ent.desc1": "When you link an &bEntangled Block&r to another block with the &bEntangled Binder&r, the Entangled Block pretends it's that block.",
+  "sb3.misc.ent.desc2": "This means you can pipe things in and out of the EB, and it'll pipe in and out of the linked block instead, even at a distance.",
+
+  "sb3.misc.tess.subtitle": "Make a Tesseract",
+  "sb3.misc.tess.desc": "&bTesseracts&r allow you to teleport items, fluid, and energy.",
+
+  "sb3.misc.compact.subtitle": "Make a Compact Machine",
+  "sb3.misc.compact.desc1": "&bCompact Machines&r contain a small area inside, which you can access with a &bPersonal Shrinking Device&r.",
+  "sb3.misc.compact.desc2": "Each tier has more space than the last. You can use &6Tunnels&r to bring items, fluids, and energy in and out.",
+  "sb3.misc.compact.task": "Compact Machines",
+
+  "sb3.misc.automation_station.title":"Automation Station",
+  "sb3.misc.automation_station.subtitle":"Make an Auto-Hammer and an Automatic Smithing Table",
+  "sb3.misc.automation_station.desc1":"&bAuto-Hammers&r will &6freely and automatically Hammer&r items inserted into it.",
+  "sb3.misc.automation_station.desc2":"Items must be inserted into the blue side, and the output is automatically output from the red side.",
+  "sb3.misc.automation_station.desc3":"The &bSmithing Table (Auto)&r uses FE to automate Smithing Table crafts. Sneak right-click the block's sides to configure where the inputs and outputs are.",
+  "sb3.misc.automation_station.task":"Auto-Hammers",
+
+  "sb3.misc.pp.title": "Pretty Pipes",
+  "sb3.misc.pp.subtitle": "Make a Pipe",
+  "sb3.misc.pp.desc": "&bPipes&r move items. They need &6Modules&r to actually work.",
+
+  "sb3.misc.ppm.title": "Modules",
+  "sb3.misc.ppm.subtitle": "Make a Pipe Module",
+  "sb3.misc.ppm.desc": "&bModules&r can be applied to Pipes to dictate how they work.",
+
+  "sb3.misc.ppt.title": "Terminals",
+  "sb3.misc.ppt.subtitle": "Make a Terminal",
+  "sb3.misc.ppt.desc": "The &bItem Terminal&r shows the contents of all Pipes, and allows you to request the items.",
+
+  "sb3.misc.fp.subtitle": "Make a Fluid Pipe",
+  "sb3.misc.fp.desc": "&bFluid Pipes&r move fluids.",
+
+  "sb3.misc.pz.title": "Pipez",
+  "sb3.misc.pz.subtitle": "Make a Pipe",
+  "sb3.misc.pz.desc": "&bPipes&r move things, depending on the type of Pipe. You have to use a &bConfigurator&r on the Pipe connected to the source.",
+
+  "sb3.misc.pzu.title": "Pipe Upgrades",
+  "sb3.misc.pzu.subtitle": "Make a Pipe Upgrade",
+  "sb3.misc.pzu.desc": "&bPipe Upgrades&r make Pipes work faster.",
+
+  "sb3.endgame.title": "Endgame",
+
+  "sb3.endgame.pe": "ProjectE",
+
+  "sb3.pe.ec.subtitle": "Make an Energy Condenser",
+  "sb3.pe.ec.desc1": "The &bEnergy Condenser&r converts items into EMC, and then EMC into another item.",
+  "sb3.pe.ec.desc2": "Place the item you want in the top left slot, and place the items to destroy in the inventory.",
+
+  "sb3.pe.ec2.subtitle": "Make an Energy Condenser MK2",
+  "sb3.pe.ec2.desc": "The &bEnergy Condenser MK2&r has separate inventories for input and output.",
+
+  "sb3.pe.tt.subtitle": "Make a Transmutation Table",
+  "sb3.pe.tt.desc1": "The &bTransmutation Table&r can deconstruct items, learning them and turning them into EMC (stored in the player).",
+  "sb3.pe.tt.desc2": "Learned items can be created on the right, using up EMC.",
+  "sb3.pe.tt.desc3": "EMC-using items can be charged in the slots on the left.",
+
+  "sb3.pe.tt2.subtitle": "Make a Transmutation Tablet",
+  "sb3.pe.tt2.desc": "The &bTransmutation Tablet&r is a portable Transmutation Table.",
+
+  "sb3.pe.att.subtitle": "Make an Arcane Transmutation Tablet",
+  "sb3.pe.att.desc": "The &bArcane Transmutation Tablet&r is an upgraded Transmutation Tablet, with a better GUI and some nicer features.",
+
+  "sb3.pe.at.subtitle": "Make an Alchemy Table",
+  "sb3.pe.at.desc": "The &bAlchemy Table&r can convert items to other items using EMC, provided by Energy Collectors.",
+
+  "sb3.pe.col.title": "Energy Collectors",
+  "sb3.pe.col.subtitle": "Make an Energy Collector",
+  "sb3.pe.col.desc": "&bEnergy Collectors&r &6passively generate EMC&r, sending it out to adjacent blocks like the Energy Condenser.",
+
+  "sb3.pe.col2.title": "Energy Collectors+",
+  "sb3.pe.col2.subtitle": "Make a higher tier Energy Collectors",
+  "sb3.pe.col2.desc": "&bEnergy Collectors&r from the addon &eExtendedeXchange&r reach much higher tiers, producing exponentially more EMC per second.",
+
+  "sb3.pe.amr.title": "Anti-Matter Relays",
+  "sb3.pe.amr.subtitle": "Make an Anti-Matter Relay",
+  "sb3.pe.amr.desc1": "&bAnti-Matter Relays&r transfer EMC from adjacent Energy Collectors to adjacent Energy Condensers. This way, you can use 18 Collectors instead of 6.",
+  "sb3.pe.amr.desc2": "You can also charge EMC-holding items here.",
+
+  "sb3.pe.amr2.title": "Anti-Matter Relays+",
+  "sb3.pe.amr2.subtitle": "Make a higher tier Anti-Matter Relay",
+  "sb3.pe.amr2.desc": "&bAnti-Matter Relays&r from the addon &eExtendedeXchange&r reach much higher tiers, moving exponentially more EMC per second. They &ccannot charge items&r however.",
+
+  "sb3.pe.tok.subtitle": "Make a Tome of Knowledge",
+  "sb3.pe.tok.desc": "The &bTome of Knowledge&r will &6teach all items&r when put through the Transmutation Tablet.",
+
+  "sb3.pe.eml.subtitle": "Make the Energy EMC Link",
+  "sb3.pe.eml.desc": "The &bEnergy EMC Link&r will take EMC (from Collectors and Relays etc) and insert it into the owner's personal EMC.",
+
+  "sb3.pe.ps.subtitle": "Make a Philosopher's Stone",
+  "sb3.pe.ps.desc": "The &bPhilosopher's Stone&r allows you to convert through equivalent items and blocks, by crafting or by right-clicking.",
+
+  "sb3.pe.woft.subtitle": "Make a Watch of Flowing Time",
+  "sb3.pe.woft.desc1": "The &bWatch of Flowing Time&r will speed up machines nearby you, at the cost of EMC.",
+  "sb3.pe.woft.desc2": "Enable with the \"Change Mode\" keybind, which is unbound by default.",
+
+  "sb3.pe.fuel.title": "Morbius Fuel",
+  "sb3.pe.fuel.subtitle": "Make an alchemical Fuel",
+  "sb3.pe.fuel.desc": "&bAlchemical Fuels&r smelt more items than normal Coal, and are used in certain recipes.",
+
+  "sb3.pe.klein.title": "Klein Stars",
+  "sb3.pe.klein.subtitle": "Make a Klein Stars",
+  "sb3.pe.klein.desc": "&bKlein Stars&r (as well as &bMagnum Stars&r) store EMC in your inventory.",
+
+  "sb3.pe.dm.subtitle": "Make Dark Matter",
+  "sb3.pe.dm.desc": "&bDark Matter&r is used in several crafting recipes.",
+
+  "sb3.pe.rm.subtitle": "Make Red Matter",
+  "sb3.pe.rm.desc": "&bRed Matter&r is used in several crafting recipes.",
+
+  "sb3.pe.dmt.title": "Dark Matter Tools",
+  "sb3.pe.dmt.subtitle": "Make a Dark Matter tool",
+  "sb3.pe.dmt.desc1": "&bDark Matter tools&r are unbreakable, and have special abilities.",
+  "sb3.pe.dmt.desc2": "Their power can be increased using the &6\"Charge\"&r key, and the modes can be changed with the &6\"Change Mode\"&r key.",
+
+  "sb3.pe.rings.title": "Rings of Power",
+  "sb3.pe.rings.subtitle": "Make an alchemical ring",
+  "sb3.pe.rings.desc": "These &balchemical rings&r perform a variety of functions when worn or right-clicked.",
+  "sb3.pe.rings.task": "Alchemical rings",
+
+  "sb3.pe.dma.title": "Dark Matter Armor",
+  "sb3.pe.dma.subtitle": "Make Dark Matter armor",
+  "sb3.pe.dma.desc": "&bDark Matter armor&r is unbreakable and VERY resistant to damage.",
+
+  "sb3.pe.rma.title": "Red Matter Armor",
+  "sb3.pe.rma.subtitle": "Make Red Matter armor",
+  "sb3.pe.rma.desc": "&bRed Matter armor&r is unbreakable and EVEN MORE resistant to damage.",
+
+  "sb3.pe.gma.title": "Gem Armor",
+  "sb3.pe.gma.subtitle": "Make Gem armor",
+  "sb3.pe.gma.desc": "&bGem armor&r is unbreakable, grants you the ability to fly, and VERY VERY resistant to damage.",
+
+  "sb3.pe.rmt.title": "Red Matter Tools",
+  "sb3.pe.rmt.subtitle": "Make a Red Matter tool",
+  "sb3.pe.rmt.desc": "&bRed Matter tools&r are direct upgrades to their Dark Matter versions.",
+
+  "sb3.pe.rmt2.title": "Upgraded Red Matter Tools",
+  "sb3.pe.rmt2.subtitle": "Make a upgraded Red Matter tool",
+  "sb3.pe.rmt2.desc": "The &bRed Morning Star&r is a combination of the Red Matter tools, and the &bRed Katar&r is a combination of the weapons.",
+
+  "sb3.pe.flower.title": "Flower Power",
+  "sb3.pe.flower.subtitle": "Make any tier power flower",
+  "sb3.pe.flower.desc": "The power flower can generate EMC automatically without any input requirement. With 16 tiers available your EMC needs should easily be satisfied",
+  "sb3.pe.flower.desc2": "Try saying power flower, flower power 10 times fast!",
+
+  "sb3.pe.elink.subtitle": "Make a Personal EMC Link",
+  "sb3.pe.elink.desc1": "The &bPersonal EMC Link&r works like an Energy Condenser, but uses your personal EMC.",
+  "sb3.pe.elink.desc2": "Items can be piped in and out.",
+
+  "sb3.pe.elink2.subtitle": "Make a Refined EMC Link",
+  "sb3.pe.elink2.desc1": "The &bRefined EMC Link&r constantly keeps 9 items stocked, using your personal EMC.",
+  "sb3.pe.elink2.desc2": "Teach it an item by inserting it, and it will keep the item stocked.",
+
+  "sb3.pe.elink3.subtitle": "Make a Compressed Refined EMC Link",
+  "sb3.pe.elink3.desc": "Just like the Refined EMC Link, however with &6546r Output slots.",
+
+  "sb3.endgame.avaritia_armor.title": "The Ultimate Armor",
+
+  "sb3.endgame.avaritia_armor.boots.title": "Always in fashion",
+  "sb3.endgame.avaritia_armor.boots.subtitle": "Make Infinity Boots",
+
+  "sb3.endgame.avaritia_armor.leggings.title": "Does my butt look big in these?",
+  "sb3.endgame.avaritia_armor.leggings.subtitle": "Make Infinity Leggings",
+
+  "sb3.endgame.avaritia_armor.chestplate.title": "The Ultimate Armor's Chestplate",
+  "sb3.endgame.avaritia_armor.chestplate.subtitle": "Make an Infinity Chestplate",
+
+  "sb3.endgame.avaritia_armor.helm.title": "I see beyond this reality now",
+  "sb3.endgame.avaritia_armor.helm.subtitle": "Make an Infinity Helmet",
+
+  "sb3.endgame.avaritia_armor.sword.title": "The Ultimate Armor's Sword",
+  "sb3.endgame.avaritia_armor.sword.subtitle": "Hurts more than a stubbed toe",
+  "sb3.endgame.avaritia_armor.sword.description": "",
+
+  "sb3.endgame.avaritia_armor.pickaxe.title": "The Ultimate Armor's Pickaxe",
+  "sb3.endgame.avaritia_armor.pickaxe.subtitle": "Walls crumble like tempered glass",
+  "sb3.endgame.avaritia_armor.pickaxe.description": "",
+
+  "sb3.endgame.avaritia_armor.axe.title": "The Ultimate Armor's Axe",
+  "sb3.endgame.avaritia_armor.axe.subtitle": "Deforester of nations",
+  "sb3.endgame.avaritia_armor.axe.description": "",
+
+  "sb3.endgame.avaritia_armor.shovel.title": "The Ultimate Armor's Shovel",
+  "sb3.endgame.avaritia_armor.shovel.subtitle": "Digger of continents",
+  "sb3.endgame.avaritia_armor.shovel.description": "",
+
+  "sb3.endgame.avaritia_armor.bow.title": "The Ultimate Armor's Bow",
+  "sb3.endgame.avaritia_armor.bow.subtitle": "Unwavering aim",
+  "sb3.endgame.avaritia_armor.bow.description": "",
+
+  "sb3.endgame.singularities.title": "Densitas Infinita",
+
+  "sb3.endgame.singularities.sing_pig_iron.title": "Pig Iron Singularity",
+  "sb3.endgame.singularities.sing_pig_iron.description": "",
+
+  "sb3.endgame.singularities.sing_source_gem.title": "Source Gem Singularity",
+  "sb3.endgame.singularities.sing_source_gem.description": "",
+
+  "sb3.endgame.singularities.sing_train_track.title": "Train Track Singularity",
+  "sb3.endgame.singularities.sing_train_track.description": "",
+
+  "sb3.endgame.singularities.sing_palette.title": "Palette and Brush Singularity",
+  "sb3.endgame.singularities.sing_palette.description": "",
+
+  "sb3.endgame.singularities.sing_balloon.title": "Balloon Singularity",
+  "sb3.endgame.singularities.sing_balloon.description": "",
+
+  "sb3.endgame.singularities.sing_infused_enderpearl.title": "Infused Enderpearl Singularity",
+  "sb3.endgame.singularities.sing_infused_enderpearl.description": "",
+
+  "sb3.endgame.singularities.sing_node_overclocker.title": "Node Overclocker Singularity",
+  "sb3.endgame.singularities.sing_node_overclocker.description": "",
+
+  "sb3.endgame.singularities.sing_etherealslate.title": "Ethereal Slate Singularity",
+  "sb3.endgame.singularities.sing_etherealslate.description": "",
+
+  "sb3.endgame.singularities.sing_mana_steel.title": "Mana Steel Singularity",
+  "sb3.endgame.singularities.sing_mana_steel.description": "",
+
+  "sb3.endgame.singularities.sing_flux_block.title": "Flux Block Singularity",
+  "sb3.endgame.singularities.sing_flux_block.description": "",
+
+  "sb3.endgame.singularities.sing_corrupted.title": "Corrupted Ingot Singularity",
+  "sb3.endgame.singularities.sing_corrupted.description": "",
+
+  "sb3.endgame.singularities.sing_uraninite.title": "Uraninite Singularity",
+  "sb3.endgame.singularities.sing_uraninite.description": "",
+
+  "sb3.endgame.singularities.sing_enderium_block.title": "Enderium Block Singularity",
+  "sb3.endgame.singularities.sing_enderium_block.description": "",
+
+  "sb3.endgame.singularities.sing_pet_filter.title": "Pet Filter Singularity",
+  "sb3.endgame.singularities.sing_pet_filter.description": "",
+
+  "sb3.endgame.singularities.sing_mob_soul.title": "Mob Soul Singularity",
+  "sb3.endgame.singularities.sing_mob_soul.description": "",
+
+  "sb3.endgame.singularities.sing_addon_processing_t2.title": "Addon: Processing Tier 2 Singularity",
+  "sb3.endgame.singularities.sing_addon_processing_t2.description": "",
+
+  "sb3.endgame.singularities.sing_polonium_pelle.titlet": "Polonium Pellet Singularity",
+  "sb3.endgame.singularities.sing_polonium_pelle.description": "",
+
+  "sb3.endgame.singularities.sing_nether_star.title": "Nether Star Singularity",
+  "sb3.endgame.singularities.sing_nether_star.description": "",
+
+  "sb3.endgame.singularities.sing_nitro_crystal.title": "Nitro Crystal Singularity",
+  "sb3.endgame.singularities.sing_nitro_crystal.description": "",
+
+  "sb3.endgame.singularities.sing_magenta_matter.title": "Magenta Matter Singularity",
+  "sb3.endgame.singularities.sing_magenta_matter.description": "",
+
+  "sb3.endgame.singularities.sing_emerald_cluster.title": "Emerald Cluster Singularity",
+  "sb3.endgame.singularities.sing_emerald_cluster.description": "",
+
+  "sb3.endgame.singularities.sing_jelly.title": "XP Jelly Baby Singularity",
+  "sb3.endgame.singularities.sing_jelly.description": "",
+
+  "sb3.endgame.singularities.meatballs.title": "Cosmic Meatballs",
+  "sb3.endgame.singularities.meatballs.subtitle": "Mmmm neutron emitting meatballs",
+  "sb3.endgame.singularities.meatballs.description": "Mmmm neutron emitting meatballs",
+
+  "sb3.endgame.singularities.stew.title": "Ultimate Stew",
+  "sb3.endgame.singularities.stew.subtitle": "Make Ultimate Stew",
+  "sb3.endgame.singularities.stew.description": "Only a god could eat this much",
+
+  "sb3.endgame.singularities.infinity.title": "Infinity Catalyst",
+  "sb3.endgame.singularities.infinity.subtitle": "Make an Infinity Catalyst",
+  "sb3.endgame.singularities.infinity.description": "You're close now.",
+
+  "sb3.endgame.singularities.neutronium_ingot.title": "Neutronium Ingot",
+  "sb3.endgame.singularities.neutronium_ingot.subtitle": "Make a Neutronium Ingot",
+
+  "sb3.endgame.singularities.neutronium_pile.title": "Yo Mama Weighs More!",
+  "sb3.endgame.singularities.neutronium_pile.subtitle": "Make a Neutronium Pile",
+
+  "sb3.endgame.singularities.record_fragment.title": "Record Fragment",
+  "sb3.endgame.singularities.record_fragment.subtitle": "Make a Record Fragment",
+  "sb3.endgame.singularities.record_fragment.description": "Obtain a few record fragments, they're used to craft the infinity catalyst.",
+
+  "sb3.endgame.singularities.endest_pearl.title": "Don't Throw Indoors!",
+  "sb3.endgame.singularities.endest_pearl.subtitle": "Make an Endest Pearl",
+
+  "sb3.endgame.singularities.crystal_matrix.title": "Crystal Matrix",
+  "sb3.endgame.singularities.crystal_matrix.subtitle": "Make a Crystal Matrix Ingot",
+  "sb3.endgame.singularities.crystal_matrix.description": "Spend all your diamonds on crafting these",
+
+  "sb3.endgame.singularities.infinity_ingot.title": "Infinity Ingot",
+  "sb3.endgame.singularities.infinity_ingot.subtitle": "How has this not broken reality?!",
+  "sb3.endgame.singularities.infinity_ingot.description": "Now 136 more!",
+
+  "sb3.endgame.singularities.crafting.title": "The Ultimate Crafting Table",
+  "sb3.endgame.singularities.crafting.subtitle": "Requires 384 diamonds!",
+  "sb3.endgame.singularities.crafting.description": "If you're about to make this, you better be prepared for what's to come...",
+
+  "sb3.endgame.singularities.collect.subtitle": "Make a Neutron Collector",
+  "sb3.endgame.singularities.collect.desc": "Generates a single Tiny Pile of Neutrons every 6 or so minutes.",
+
+  "sb3.endgame.singularities.nug.subtitle": "Make a Neutronium Nugget",
+  "sb3.endgame.singularities.ball.subtitle": "Make Cosmic Meatballs"
+}

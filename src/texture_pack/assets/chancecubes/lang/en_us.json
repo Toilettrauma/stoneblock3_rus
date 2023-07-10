@@ -1,0 +1,48 @@
+// patched original translate
+{
+    "itemGroup.chancecubes": "Chance Cubes",
+
+    "block.chancecubes.chance_cube": "Куб удачи",
+    "block.chancecubes.chance_icosahedron": "Двадцатигранник удачи",
+    "block.chancecubes.giant_chance_cube": "Гигантский куб удачи",
+    "block.chancecubes.compact_giant_chance_cube": "Компактный гигантский куб удачи",
+    "block.chancecubes.cube_dispenser": "Распределитель кубов удачи",
+
+    "item.chancecubes.chance_pendant_tier1": "Кулон удачи 1 уровня",
+    "item.chancecubes.chance_pendant_tier2": "Кулон удачи 2 уровня",
+    "item.chancecubes.chance_pendant_tier3": "Кулон удачи 3 уровня",
+
+    "item.chancecubes.creative_pendant": "Творческий кулон удачи",
+    "item.chancecubes.reward_selector_pendant": "Кулон «Выбор награды»",
+    "item.chancecubes.single_use_reward_selector_pendant": "Одноразовый кулон «Выбор награды»",
+
+    "item.chancecubes.silk_touch_pendant": "Кулон удачи с шёлковым касанием",
+
+    "item.chancecubes.scanner": "Сканер кубов удачи",
+
+    "death.attack.mathdeath": "%1$s's, разум которого взорвался от силы математики",
+    "death.attack.mazedeath": "%1$s был потерян навсегда в лабиринте Куба Удачи.",
+    "death.attack.questiondeath": "%1$s перенес последствия неправильного ответа.",
+    "death.attack.digbuilddeath": "%1$s's, чьи руки, видимо, сломались.",
+    "death.attack.matchingdeath": "%1$s met their match.", // ?
+
+    "advancements.chancecubes:root.desc": "Игра на Удачу и Ловкость",
+    "advancements.chancecubes:chance_icosahedron": "Диско-Шар!",
+    "advancements.chancecubes:chance_icosahedron.desc": "Откройте Двадцатигранник удачи",
+    "advancements.chancecubes:giant_chance_cube": "Бааааммммм!",
+    "advancements.chancecubes:giant_chance_cube.desc": "Разбейте Гигантский куб удачи",
+    "advancements.chancecubes:lonely_dirt": "Одинокая земля", // patched
+    "advancements.chancecubes:lonely_dirt.desc": "Получите кусочек одинокой земли", // patched
+    "advancements.chancecubes:wither": "Это реально??",
+    "advancements.chancecubes:wither.desc": "Have the Kiwi wither actually spawn", // ?
+    "advancements.chancecubes:herobrine": "Он настоящий??", // patched
+    "advancements.chancecubes:herobrine.desc": "Have the Herobrine actually spawn", // ?
+    "advancements.chancecubes:its_a_lie": "Это ложь!", // patched
+    "advancements.chancecubes:its_a_lie.desc": "Да, торт - это ложь", // patched
+
+    "chancecubes.reward.raining_potions": "Это называется искусством! Посмотрите на это!",
+
+    "stat.chancecubes.opened_chance_cube": "Открытых кубов удачи", // patched
+    "stat.chancecubes.opened_giant_chance_cube": "Открытых гигантских кубов удачи", // patched
+    "stat.chancecubes.opened_d20": "Открытых двадцатигранников удачи" // patched
+}

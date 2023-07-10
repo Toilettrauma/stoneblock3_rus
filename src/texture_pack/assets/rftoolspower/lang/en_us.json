@@ -1,0 +1,89 @@
+{
+    "item.rftoolspower.power_core1": "Энергетическое ядро (Слабое)",
+    "item.rftoolspower.power_core2": "Энергетическое ядро (Среднее)",
+    "item.rftoolspower.power_core3": "Энергетическое ядро (Сильное)",
+    "item.rftoolspower.blazing_rod": "Огненный стержень",
+    "item.rftoolspower.powercell_card": "Карта энергетической ячейки",
+
+    "block.rftoolspower.dimensionalcell": "Пространственная камера",
+    "block.rftoolspower.dimensionalcell_simple": "Пространственная камера (Простая)",
+    "block.rftoolspower.dimensionalcell_advanced": "Пространственная камера (Продвинутся)",
+    "block.rftoolspower.dimensionalcell_creative": "Пространственная камера (Креативная)",
+    "block.rftoolspower.cell1": "Энергетическая ячейка (Слабая)",
+    "block.rftoolspower.cell2": "Энергетическая ячейка (Средняя)",
+    "block.rftoolspower.cell3": "Энергетическая ячейка (Сильная)",
+    "block.rftoolspower.coalgenerator": "Угольный генератор",
+    "block.rftoolspower.power_monitor": "Монитор энергии",
+    "block.rftoolspower.power_level": "Уровень энергии",
+    "block.rftoolspower.endergenic": "Эндогенный",
+    "block.rftoolspower.ender_monitor": "Эндер монитор",
+    "block.rftoolspower.pearl_injector": "Инжектор жемчуга",
+    "block.rftoolspower.blazing_generator": "Огненный генератор",
+    "block.rftoolspower.blazing_agitator": "Огненная мешалка",
+    "block.rftoolspower.blazing_infuser": "Огненный наполнитель",
+
+    "itemGroup.rftoolspower": "RFTools Power",
+
+    "message.rftoolspower.shiftmessage": "<Зажмите Shift>",
+
+    "message.rftoolspower.powercell_card.header": "Используется для соединения пространственных ячеек",
+    "message.rftoolspower.powercell_card.info": "Соеденён: ",
+
+    "message.rftoolspower.power_core1.header": "Этот предмет является ингредиентом для изготовления энергетических ячеек",
+    "message.rftoolspower.power_core2.header": "Этот предмет является ингредиентом для изготовления энергетических ячеек",
+    "message.rftoolspower.power_core3.header": "Этот предмет является ингредиентом для изготовления энергетических ячеек",
+
+    "message.rftoolspower.blazing_rod.header": "Этот предмет производится в огненной мешалке и используется в огненном генераторе для выработки энергии",
+    "message.rftoolspower.blazing_rod.time": "Время: ",
+    "message.rftoolspower.blazing_rod.power": "Энергия: ",
+    "message.rftoolspower.blazing_rod.duration": "Продолжительность: ",
+    "message.rftoolspower.blazing_rod.infused": "Наполнение: ",
+
+    "message.rftoolspower.cell1.header": "Этот блок может накапливать энергию и может быть объединен с другими ячейками, образуя большой мультиблок. Щелкните ПКМ гаечным ключом, чтобы переключить режим ввода/вывода для боковой стороны",
+    "message.rftoolspower.cell1.info": "Энергия: ",
+
+    "message.rftoolspower.cell2.header": "Этот блок может накапливать энергию и может быть объединен с другими ячейками, образуя большой мультиблок. Щелкните ПКМ гаечным ключом, чтобы переключить режим ввода/вывода для боковой стороны",
+    "message.rftoolspower.cell2.info": "Энергия: ",
+
+    "message.rftoolspower.cell3.header": "Этот блок может накапливать энергию и может быть объединен с другими ячейками, образуя большой мультиблок. Щелкните ПКМ гаечным ключом, чтобы переключить режим ввода/вывода для боковой стороны",
+    "message.rftoolspower.cell3.info": "Энергия: ",
+
+    "message.rftoolspower.power_monitor.header": "Монитор энергии может посылать сигнал редстоуна в зависимости от количества энергии в заданном блоке",
+
+    "message.rftoolspower.power_level.header": "Блок уровня энергии показывает цифровое воспроизведение количества энергии в чем-либо. Он также отправит сигнал редстоуна с таким же количеством",
+
+    "message.rftoolspower.blazing_generator.header": "Вырабатывайте энергию из огненных стержней. Эти огненные стержни должны быть сначала 'перемешаны' с помощью огненной мешалки",
+    "message.rftoolspower.blazing_generator.gold": "Бонус наполнения: больше выработки электроэнергии",
+
+    "message.rftoolspower.blazing_agitator.header": "Это устройство может 'перемешивать' огненные стержни так, чтобы их можно было использовать для огненного генератора",
+    "message.rftoolspower.blazing_agitator.gold": "Бонус наполнения: пылающие стержни лучшего качества",
+
+    "message.rftoolspower.blazing_infuser.header": "Это устройство может наполнять огненный стержень пространственными осколками, редстоуном или светокаменной пылью. Это улучшит выработку энергии и/или продолжительность выработки электроэнергии при использовании в огненном генераторе",
+
+    "message.rftoolspower.endergenic.header": "Генерируйте энергию из жемчуга эндера. Для этого вам нужно по крайней мере два генератора, а настройка относительно сложная. Выбор времени имеет решающее значение",
+    "message.rftoolspower.endergenic.gold": "Бонус наполнения: увеличение выработки электроэнергии и снижение потерь электроэнергии при хранении жемчуга",
+
+    "message.rftoolspower.ender_monitor.header": "Этот блок может обнаруживать различные изменения в соседнем эндогенном генераторе и посылать сигнал редстоуна на основе этого",
+
+    "message.rftoolspower.pearl_injector.header": "Он позволит ввести жемчуг эндера в соседний эндогенный генератор при приеме сигнала редстоуна",
+
+    "message.rftoolspower.coalgenerator.header": "Эта машина производит RFы/FE из угля или древесного угля",
+    "message.rftoolspower.coalgenerator.gold": "Бонус наполнения: больше вырабатывается энергии и дольше работает на одном топливе",
+    "message.rftoolspower.coalgenerator.info": "Производит: ",
+
+    "message.rftoolspower.dimensionalcell.header": "Этот блок может накапливать энергию. Необязательно в большой многомерной структуре",
+    "message.rftoolspower.dimensionalcell.gold": "Бонус наполнения: снижение затрат на извлечение энергии на большие расстояния и увеличение мощности RF/tick",
+    "message.rftoolspower.dimensionalcell.info": "Энергии: ",
+
+    "message.rftoolspower.dimensionalcell_advanced.header": "Этот блок может накапливать энергию. Необязательно в большой многомерной структуре",
+    "message.rftoolspower.dimensionalcell_advanced.gold": "Бонус наполнения: снижение затрат на извлечение энергии на большие расстояния и увеличение мощности RF/tick",
+    "message.rftoolspower.dimensionalcell_advanced.info": "Энергии: ",
+
+    "message.rftoolspower.dimensionalcell_simple.header": "Этот блок может накапливать энергию. Необязательно в большой многомерной структуре",
+    "message.rftoolspower.dimensionalcell_simple.gold": "Бонус наполнения: снижение затрат на извлечение энергии на большие расстояния и увеличение мощности RF/tick",
+    "message.rftoolspower.dimensionalcell_simple.info": "Энергии: ",
+
+    "message.rftoolspower.dimensionalcell_creative.header": "Этот блок может накапливать энергию. Необязательно в большой многомерной структуре",
+    "message.rftoolspower.dimensionalcell_creative.gold": "Бонус наполнения: снижение затрат на извлечение энергии на большие расстояния и увеличение мощности RF/tick",
+    "message.rftoolspower.dimensionalcell_creative.info": "Энергии: "
+}

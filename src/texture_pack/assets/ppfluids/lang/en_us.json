@@ -1,0 +1,20 @@
+{
+    "block.ppfluids.fluid_pipe": "Жидкостная труба",
+    "item.ppfluids.fluid_item": "Жидкостный резервуар",
+
+    "item.ppfluids.low_fluid_extraction_module": "Модуль низкого извлечения жидкости",
+    "item.ppfluids.medium_fluid_extraction_module": "Модуль среднего извлечения жидкости",
+    "item.ppfluids.high_fluid_extraction_module": "Модуль высокого извлечения жидкости",
+    "item.ppfluids.low_fluid_filter_module": "Модуль низкой жидкостной фильтрации",
+    "item.ppfluids.medium_fluid_filter_module": "Модуль средней жидкостной фильтрациии",
+    "item.ppfluids.high_fluid_filter_module": "Модуль высокой жидкостной фильтрации",
+    "item.ppfluids.low_fluid_retrieval_module": "Модуль низкого жидкостного поиска",
+    "item.ppfluids.medium_fluid_retrieval_module": "Модуль среднего жидкостного поиска",
+    "item.ppfluids.high_fluid_retrieval_module": "Модуль высокого жидкостного поиска",
+    "info.prettypipes.fluid_extraction_module": "Извлекает жидкость из соседних инвентарей\nФильтры и скорость извлечения варьируются в зависимости от уровня\nВысокие уровни предотвращают чрезмерную отправку",
+    "info.prettypipes.fluid_filter_module": "Ограничивает поток из труб в соседние резервуары\nКоличество фильтров зависит от уровня",
+    "info.prettypipes.fluid_retrieval_module": "Забирает жидкость из других резервуаров в сети\фильтрах и скорость забора варьируются в зависимости от уровня\nВысокие уровни предотвращают чрезмерную отправку",
+    "info.ppfluids.fluid_item.usage": "Используй меня на резервуаре для жидкости, чтобы залить в него мое содержимое!",
+    "info.ppfluids.whitelist.description": "Жидкости в слотах фильтра допускаются",
+    "info.ppfluids.blacklist.description": "Жидкости в слотах не допускаются"
+}

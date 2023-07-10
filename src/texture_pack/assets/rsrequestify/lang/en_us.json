@@ -1,0 +1,9 @@
+{
+  "itemGroup.rsrequestify": "RS: Requestify",
+  "block.rsrequestify.requester": "Заказчик",
+  "button.refinedstoragerequestify:requester.save": "Сохранить",
+  "tooltip.refinedstoragerequestify:requester.missing": "Недостаточно ингридиентов",
+  "block.rsrequestify.crafting_emitter": "Излучатель создания",
+  "block.rsrequestify.crafting_emitter.tooltip": "Излучает сигнал красного камня когда любой предмет/жидкость в фильтре создаётся.",
+  "block.rsrequestify.requester.tooltip": "Хранит предмет/жидкость в фильтре в наличии в желаемом количестве."
+}

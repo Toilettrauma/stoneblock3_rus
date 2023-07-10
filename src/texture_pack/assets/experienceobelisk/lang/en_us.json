@@ -1,0 +1,33 @@
+{
+  //items
+  "item.experienceobelisk.steel": "Закаленная сталь",
+  "item.experienceobelisk.raw_experience_bucket": "Ведро опыта",
+
+  //blocks
+  "block.experienceobelisk.experience_obelisk": "Обелиск опыта",
+
+  //tabs
+  "itemGroup.experience_obelisk": "Обелиск опыта",
+
+  //tooltips
+  "tooltip.experienceobelisk.experience_obelisk.add1": "Сохранить §a1§f уровень",
+  "tooltip.experienceobelisk.experience_obelisk.add10": "Сохранить §a10§f уровней",
+  "tooltip.experienceobelisk.experience_obelisk.addAll": "Сохранить §aвсе§f уровни",
+  "tooltip.experienceobelisk.experience_obelisk.drain1": "Получить §c1§f уровень",
+  "tooltip.experienceobelisk.experience_obelisk.drain10": "Получить §c10§f уровней",
+  "tooltip.experienceobelisk.experience_obelisk.drainAll": "Получить §cвсе§f уровни",
+
+  "tooltip.experienceobelisk.experience_obelisk.item_fluid_amount": "§7Количество жидкости:§r %s",
+  "tooltip.experienceobelisk.experience_obelisk.item_levels": "%s §7Уровней§r",
+
+  "tooltip.experienceobelisk.experience_obelisk.radius": "§6Сбрость§f радиус к 'по-умолчанию'",
+  "tooltip.experienceobelisk.experience_obelisk.settings": "Настройки...",
+  "tooltip.experienceobelisk.experience_obelisk.back": "Назад...",
+
+  //buttons
+  "button.experienceobelisk.experience_obelisk.settings": "§l⚙§r",
+
+  //fluid
+  "fluid.experienceobelisk.raw_experience": "Необработанный опыт"
+
+}

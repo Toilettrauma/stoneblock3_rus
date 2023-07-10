@@ -1,0 +1,23 @@
+{
+  "block.stonechest.chest_andesite": "Андезитовый Сундук",
+  "block.stonechest.chest_calcite": "Кальцитовый Сундук",
+  "block.stonechest.chest_cobbled_deepslate": "Сундук из колотого глубинного сланца",
+  "block.stonechest.chest_cobblestone": "Булыжниковый сундук",
+  "block.stonechest.chest_deepslate": "Сундук из глубинного сланца",
+  "block.stonechest.chest_diorite": "Диоритовый сундук",
+  "block.stonechest.chest_granite": "Гранитный сундук",
+  "block.stonechest.chest_prismarine": "Призмариновый сундук",
+  "block.stonechest.chest_stone": "Каменный сундук",
+  "block.stonechest.chest_tuff": "Сундук из туфа",
+
+  "item.stonechest.part_andesite": "Андезитовая часть",
+  "item.stonechest.part_calcite": "Кальцитовая часть",
+  "item.stonechest.part_cobbled_deepslate": "Часть из колотого глубинного сланца",
+  "item.stonechest.part_cobblestone": "Булыжниковая часть",
+  "item.stonechest.part_deepslate": "Часть из глубинного сланца",
+  "item.stonechest.part_diorite": "Диоритовая часть",
+  "item.stonechest.part_granite": "Гранитная часть",
+  "item.stonechest.part_prismarine": "Призмариновая часть",
+  "item.stonechest.part_stone": "Каменная часть",
+  "item.stonechest.part_tuff": "Часть из туфа"
+}

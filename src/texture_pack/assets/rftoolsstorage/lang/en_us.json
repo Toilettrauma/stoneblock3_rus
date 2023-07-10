@@ -1,0 +1,54 @@
+{
+    "item.rftoolsstorage.storage_module0": "Модуль хранения 1 уровня",
+    "item.rftoolsstorage.storage_module1": "Модуль хранения 1 уровня",
+    "item.rftoolsstorage.storage_module2": "Модуль хранения 1 уровня",
+    "item.rftoolsstorage.storage_module3": "Модуль хранения 1 уровня",
+    "item.rftoolsstorage.storage_module6": "Модуль хранения 1 уровня",
+    "item.rftoolsstorage.storage_module_tablet": "Планшет хранения",
+    "item.rftoolsstorage.filter_module": "Модуль фильтра",
+    "item.rftoolsstorage.oredict_module": "Модуль типа словаря руды",
+    "item.rftoolsstorage.generic_module": "Модуль универсального типа",
+    "item.rftoolsstorage.tablet_scanner": "Планшет (Сканер)",
+    "item.rftoolsstorage.storage_control_module": "Модуль экрана управления хранилищем",
+    "item.rftoolsstorage.dump_module": "Модуль экрана дампа",
+
+    "block.rftoolsstorage.modular_storage": "Модульное хранилище",
+    "block.rftoolsstorage.remote_storage": "Удалённое хранилище",
+    "block.rftoolsstorage.storage_scanner": "Сканер хранилища",
+
+    "_comment": "Креативные вкладки",
+    "itemGroup.rftoolsstorage": "RFTools Storage",
+
+    "_comment": "Сообщения",
+    "message.rftoolsstorage.shiftmessage": "<Нажмите Shift>",
+
+    "message.rftoolsstorage.crafting_manager.header": "В разработке! Менеджер крафта в разработке!",
+    "message.rftoolsstorage.crafting_manager.gold": "Это еще не работает",
+
+    "message.rftoolsstorage.tablet_scanner.header": "Планшет, который можно использовать для открытия удаленного графического интерфейса и информации",
+    "message.rftoolsstorage.tablet_scanner.gold": "Планшет содержит ссылку на сканер хранилища: щелкните ПКМ для графического интерфейса сканера, щелкните ПКМ с приседом для графического интерфейса планшета",
+
+    "message.rftoolsstorage.storage_scanner.header": "Этот машина просканирует все близлежащие хранилища и отобразит их в списке. Затем вы можете выполнять поиск предметов из этих хранилищ и получать к ним доступ",
+    "message.rftoolsstorage.storage_scanner.gold": "Бонус наполнения: сниженное энергопотребление",
+
+    "message.rftoolsstorage.storage_control_module.header": "Этот экранный модуль позволяет вам отслеживать 9 различных предметов с помощью сканера хранилища. Этот модуль также может быть объединен с планшетом для удаленного доступа к системе хранения, управляемой сканером",
+    "message.rftoolsstorage.storage_control_module.gold": "ПКМ с приседом на сканере хранилища, чтобы установить цель для этого модуля хранения",
+    "message.rftoolsstorage.storage_control_module.uses": "Потребление энергии: ",
+    "message.rftoolsstorage.storage_control_module.info": "Сканер хранилища: ",
+
+    "message.rftoolsstorage.dump_module.header": "Модуль для экрана, который позволяет загружать большое количество предметов в подключенное хранилище.",
+    "message.rftoolsstorage.dump_module.gold": "ПКМ с приседом на сканере хранилища, чтобы установить цель для этого модуля загрузки",
+    "message.rftoolsstorage.dump_module.uses": "Потребление энергии: ",
+    "message.rftoolsstorage.dump_module.info": "Сканер хранилища: ",
+
+    "message.rftoolsstorage.storage_module.header": "Этот модуль хранения предназначен для модульного блока хранения",
+    "message.rftoolsstorage.storage_module.gold": "Этот модуль поддерживает удаленный инвентарь. Соедените с другим модулем хранения в блоке удаленного хранения",
+    "message.rftoolsstorage.storage_module.info": "Поддерживаемые стаки: ",
+    "message.rftoolsstorage.storage_module.remoteid": "Удалённый айди: ",
+    "message.rftoolsstorage.storage_module.uuid": "UUID: ",
+    "message.rftoolsstorage.storage_module.version": "Версия: ",
+    "message.rftoolsstorage.storage_module.items": "Содержимое: ",
+    "message.rftoolsstorage.storage_module.advanced": "Расширенно: ",
+
+    "message.rftoolsstorage.modular_storage.header": "Эта модульная система хранения может хранить большое количество предметов и обеспечивает легкий поиск и фильтрацию. Вы должны сначала вставить элемент модуля хранения, прежде чем сможете его использовать"
+}
