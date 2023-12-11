@@ -1,7 +1,7 @@
 # О проекте
-Перевот сборки FTB Stoneblock 3 на русский язык.
+Перевод сборки FTB Stoneblock 3 на русский язык.
 
-## Переведёно
+## Переведено
 ### моды
 * appbot
 * ars creo
@@ -9,12 +9,14 @@
 * avaritia (Перенесено со старой версии. Переводчик Byteg)
 * budding crystals
 * building gadgets
+* blood magic (Взято https://lastrium.com/files/file/118-minecraft-rus-modpack-1165-sbornik-rusifikacij-dlja-modov/?tab=details и изменено)
 * chance cubes
 * charging gadgets
 * chickens
 * cobble for days
 * compact machines (Исправлен оригинальный перевод)
 * constructions wand
+* dark utils
 * entangled
 * experience obelisk
 * ftb mods
@@ -23,6 +25,7 @@
 * industrial foregoing (Исправлено)
 * iron furnaces
 * jags
+* laserio
 * mining gadgets
 * mob grinding utils (todo информация предметов)
 * pocket storage
@@ -31,11 +34,13 @@
 * REI (Исправлено)
 * rs requestify
 * simply backpacks
+* soul shards
 * stone chest
-* tempad (Сломанное название предмета)
+* super circuit maker
+* tempad
 * xnet
 
-### Страцины квест бука
+### Страницы квест бука
 * Добро пожаловать
 * Начинаем!
 * Исследование
@@ -55,19 +60,14 @@
 * Магия
   * Ars Nouveau
   * Botania
+  * Blood magic
 * Конец игры
-  * ProjectE (Частично)
+  * ProjectE
+  * Densitas Infinita
+  * The Ultimate Armor
 ### События сервера
 
 ## Будет переведено
- ### Квест бук
-* Магия
-  * Blood magic
-* Конец игры
-  * Densitas Infinita
-  * The Ultimate Armor
  ### моды
-* Blood magic
-* rf tools
-* laser io
+* rf tools utility
  ### Интерфейс главного меню

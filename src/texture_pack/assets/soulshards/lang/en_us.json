@@ -1,0 +1,40 @@
+{
+  "itemGroup.soulshards": "Soul Shards Respawn",
+
+  "item.soulshards.soul_shard": "Осколок души",
+  "item.soulshards.soul_shard_unbound": "Несвязанный осколок Души",
+  "item.soulshards.corrupted_ingot": "Испорченный слиток",
+  "item.soulshards.corrupted_essence": "Испорченная сущность",
+  "item.soulshards.vile_dust": "Мерзкая пыль",
+  "item.soulshards.vile_sword": "Мерзкий меч",
+
+  "block.soulshards.soul_cage": "Клетка души",
+
+  "tooltip.soulshards.bound": "Привязан к: %s",
+  "tooltip.soulshards.kills": "Души: %d",
+  "tooltip.soulshards.tier": "Уровень: %d",
+  "tooltip.soulshards.owner": "Владелец: %s",
+  "tooltip.soulshards.cage_born": "Рожденный в клетке",
+
+  "enchantment.soulshards.soul_stealer": "Похититель душ",
+
+  "chat.soulshards.absorb_disabled": "§cОсколок, кажется, отказывается от пойманной в ловушку души...",
+  "chat.soulshards.command_killed": "§2Убито §2%d §2Сущностей",
+  "chat.soulshards.command_not_found": "§cНе найдено ни одной сущности",
+
+  "commands.soulshards.usage": "/soulshards [setEnt|setKills|setOwner|killall]",
+  "commands.soulshards.set_ent.usage": "/soulshards setEnt <entityId>",
+  "commands.soulshards.set_ent.success": "Set bound entity of held shard to %s.",
+  "commands.soulshards.set_kills.usage": "/soulshards setKills <killCount>",
+  "commands.soulshards.set_kills.success": "Set kill count of held shard to %d.",
+  "commands.soulshards.set_owner.usage": "/soulshards setOwner [owner]",
+  "commands.soulshards.set_owner.success": "Set owner of held shard to %s.",
+  "commands.soulshards.kill_all.usage": "/soulshards killall",
+  "commands.soulshards.kill_all.success": "Убито %d рождённых в клеток сущностей.",
+  "commands.soulshards.error.not_a_shard": "Удерживаемый предмет не является осколком Души.",
+  "commands.soulshards.error.not_a_entity": "%s недействителен или не зарегистрирован.",
+
+  "enchantment.soulshards.soul_stealer.desc": "Увеличивает количество душ, собранных за убийство, на одну душу за уровень.",
+
+  "jei.soulshards.soul_shard.desc": "Сосуд для душ убитых.\\n\\nПолучается путем создания структуры в мире и использования %s в исходном блоке."
+}

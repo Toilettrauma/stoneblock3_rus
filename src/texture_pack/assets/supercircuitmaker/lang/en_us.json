@@ -1,0 +1,51 @@
+{
+  "itemGroup.supercircuitmaker": "Super Circuit Maker",
+
+  "block.supercircuitmaker.circuit": "Микросхема",
+  "block.supercircuitmaker.inspector": "Инспектор",
+  "item.supercircuitmaker.screwdriver": "Отвёртка",
+  "item.supercircuitmaker.palette": "Палитра и кисть",
+  "item.supercircuitmaker.tiny_redstone": "Крошечная кучка редстоуна",
+  "item.supercircuitmaker.tiny_rgb_redstone": "Крошечная кучка RGB редстоуна",
+  "item.supercircuitmaker.randomizer": "Возбудитель светящегося камня",
+  "item.supercircuitmaker.delay": "Кварцевый резонатор",
+  "item.supercircuitmaker.pulsar": "Пульсатор Эндера",
+  "item.supercircuitmaker.note": "Бупер",
+  "item.supercircuitmaker.lamp": "Миниатюрная лампа",
+  "item.supercircuitmaker.button": "Миниатюрная кнопка",
+  "item.supercircuitmaker.adder": "Сумматор",
+  "item.supercircuitmaker.subtractor": "Вычитатель",
+  "item.supercircuitmaker.multiplier": "Умножитель",
+  "item.supercircuitmaker.divider": "Делитель",
+  "item.supercircuitmaker.constant": "Константа",
+  "item.supercircuitmaker.platform": "Платформа поддержки",
+  "item.supercircuitmaker.redstone_stick": "Палочка, покрытая редстоуном",
+  "item.supercircuitmaker.rgb_redstone_stick": "Палочка, покрытая RGB редстоуном",
+
+  "container.supercircuitmaker.delay": "Кварцевый резонатор: ",
+  "container.supercircuitmaker.pulsar": "Пульсатор Эндера: ",
+  "container.supercircuitmaker.timing.dec_10s": "-10s",
+  "container.supercircuitmaker.timing.dec_1s": "-1s",
+  "container.supercircuitmaker.timing.inc_1s": "+1s",
+  "container.supercircuitmaker.timing.inc_10s": "+10s",
+  "container.supercircuitmaker.timing.dec_10t": "-10t",
+  "container.supercircuitmaker.timing.dec_1t": "-1t",
+  "container.supercircuitmaker.timing.inc_1t": "+1t",
+  "container.supercircuitmaker.timing.inc_10t": "+10t",
+
+  "container.supercircuitmaker.constant": "Костанта: ",
+  "container.supercircuitmaker.constant.dec_20": "-20",
+  "container.supercircuitmaker.constant.dec_1": "-1",
+  "container.supercircuitmaker.constant.inc_1": "+1",
+  "container.supercircuitmaker.constant.inc_20": "+20",
+
+  "subtitles.supercircuitmaker.place": "BOOP",
+
+  "key.supercircuitmaker": "Super Circuit Maker",
+  "key.supercircuitmaker.open_palette": "Открыть палитра",
+  "key.supercircuitmaker.component_placement_modifier": "Модификатор размещения компонентов",
+
+  "msg.supercircuitmaker.inspector.learned": "Изучено!",
+  "msg.supercircuitmaker.inspector.mode_state": "Выбранный режим: Соответствие состоянию блока",
+  "msg.supercircuitmaker.inspector.mode_block": "Выбранный режим: Соответствие типу блока"
+}
