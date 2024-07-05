@@ -55,233 +55,233 @@ onEvent("rei.group", (event) => {
   ae2Cables.forEach((type) => {
     event.groupItemsByTag(
       `ae2:rei_groups/${type}_cables`,
-      `${toMultiTitleCase(type)} Cables`,
+      Component.string(toMultiTitleCase(type)).append(" ").append(Component.translate("sb3.rei_groups.cables.subname")),
       `ae2:${type}_cable`
     );
   });
 
   event.groupItemsByTag(
     `ae2:rei_groups/memory_cards`,
-    `Карты памяти`,
+    Component.translate("sb3.rei_groups.memory_cards.name"),
     `ae2:memory_cards`
   );
 
   event.groupItemsByTag(
     `tconstruct:rei_groups/single_use`,
-    `Одноразовые формы`,
+    Component.translate("sb3.rei_groups.single_use.name"),
     `tconstruct:casts/single_use`
   );
 
   event.groupItemsByTag(
     `tconstruct:rei_groups/multi_use`,
-    `Многоразовые формы`,
+    Component.translate("sb3.rei_groups.multi_use.name"),
     `tconstruct:casts/multi_use`
   );
 
   event.groupItems(
     `ftbstoneblock:rei_groups/spawn_eggs`,
-    `Яйца призыва`,
+    Component.translate("sb3.rei_groups.spawn_eggs.name"),
     /.*spawn_egg/
   );
 
-  event.groupItems("minecraft:rei_groups/buckets", "Ведра с чем-то :)", [
+  event.groupItems("minecraft:rei_groups/buckets", Component.translate("sb3.rei_groups.buckets.name"), [
     /.*_bucket/,
     /.*:bucket_of.*/,
   ]);
 
   event.groupItems(
     "ae2:rei_groups/paint_balls",
-    "Шарики с краской",
+    Component.translate("sb3.rei_groups.paint_balls.name"),
     /^ae2:.*_paint_ball$/
   );
 
   event.groupItems(
     "refinedstorage:rei_groups/grid",
-    "Цветные терминалы",
+    Component.translate("sb3.rei_groups.grid.name"),
     /refinedstorage:(?!.*(wireless|pattern|crafting|fluid|portable)).*_grid/
   );
 
   event.groupItems(
     "refinedstorage:rei_groups/pattern_grid",
-    "Цветные терминалы с кодировщиком шаблонов",
+    Component.translate("sb3.rei_groups.pattern_grid.name"),
     /refinedstorage:(?!.*(wireless)).*_pattern_grid/
   );
 
   event.groupItems(
     "refinedstorage:rei_groups/crafting_grid",
-    "Цветные терминалы создания",
+    Component.translate("sb3.rei_groups.crafting_grid.name"),
     /refinedstorage:(?!.*(wireless)).*_crafting_grid/
   );
 
   event.groupItems(
     "refinedstorage:rei_groups/fluid_grid",
-    "Цветные жидкостные терминалы",
+    Component.translate("sb3.rei_groups.fluid_grid.name"),
     /refinedstorage:(?!.*(wireless)).*_fluid_grid/
   );
 
   event.groupItems(
     "refinedstorage:rei_groups/crafting_monitor",
-    "Цветные мониторы создания",
+    Component.translate("sb3.rei_groups.crafting_monitor.name"),
     /refinedstorage:(?!.*(wireless)).*_crafting_monitor/
   );
 
   event.groupItems(
     "mcwwindows:rei_groups/windows",
-    "Macaw's Windows' Окна",
+    Component.translate("sb3.rei_groups.windows.name"),
     [/mcw.*window$/, /mcw.*window2$/]
   );
 
   event.groupItems(
     "mcwwindows:rei_groups/parapets",
-    "Macaw's Windows' Перила",
+    Component.translate("sb3.rei_groups.parapets.name"),
     /mcw.*parapet$/
   );
 
-  event.groupItems("mcwdoors:rei_groups/doors", "Macaw's Doors", /mcw.*door$/);
+  event.groupItems("mcwdoors:rei_groups/doors", Component.translate("sb3.rei_groups.doors.name"), /mcw.*door$/);
 
   event.groupItems(
     "mcwbridges:rei_groups/bridges",
-    "Macaw's Bridges",
+    Component.translate("sb3.rei_groups.bridges.name"),
     /mcwbridges.*bridge/
   );
 
   event.groupItems(
     "mcwtrapdoors:rei_groups/trapdoors",
-    "Macaw's Trapdoors",
+    Component.translate("sb3.rei_groups.trapdoors.name"),
     /mcw.*trapdoor$/
   );
 
-  event.groupItems("mcwroofs:rei_groups/roofs", "Macaw's Roofs", /mcw.*roof$/);
+  event.groupItems("mcwroofs:rei_groups/roofs", Component.translate("sb3.rei_groups.roofs.name"), /mcw.*roof$/);
 
   event.groupItems(
     "mcwfences:rei_groups/fences",
-    "Macaw's Fences",
+    Component.translate("sb3.rei_groups.fences.name"),
     "@mcwfences"
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/wardrobes",
-    "Macaw's Furniture's Шкафы",
+    Component.translate("sb3.rei_groups.wardrobes.name"),
     /mcw.*wardrobe$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/bookshelves",
-    "Macaw's Furniture's Книжные полки",
+    Component.translate("sb3.rei_groups.bookshelves.name"),
     /mcw.*bookshelf$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/drawers",
-    "Macaw's Furniture's Ящики",
+    Component.translate("sb3.rei_groups.drawers.name"),
     /mcw.*drawer$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/desks",
-    "Macaw's Furniture's Письменные столы",
+    Component.translate("sb3.rei_groups.desks.name"),
     /mcw.*desk$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/tables",
-    "Macaw's Furniture's Столы",
+    Component.translate("sb3.rei_groups.tables.name"),
     /mcw.*table$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/chairs",
-    "Macaw's Furniture's Стулья",
+    Component.translate("sb3.rei_groups.chairs.name"),
     /mcw.*chair$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/counters",
-    "Macaw's Furniture's Комоды",
+    Component.translate("sb3.rei_groups.counters.name"),
     /mcw.*counter$/
   );
 
   event.groupItems(
     "mcwfurniture:rei_groups/cupboards",
-    "Macaw's Furniture's Шкафы книжные полки",
+    Component.translate("sb3.rei_groups.cupboards.name"),
     /mcw.*cupboard$/
   );
 
   event.groupItems(
     "industrialforegoing:rei_groups/item_bh",
-    "Юниты чёрной дыры",
+    Component.translate("sb3.rei_groups.item_bh.name"),
     /indus.*hole_unit/
   );
 
   event.groupItems(
     "industrialforegoing:rei_groups/tank_bh",
-    "Жидкостные чёрные дыры",
+    Component.translate("sb3.rei_groups.tank_bh.name"),
     /indus.*hole_tank/
   );
 
   event.groupItems(
     "mcwpaths:rei_groups/paths_and_pavings",
-    "Macaw's Paths and Pavings",
+    Component.translate("sb3.rei_groups.paths_and_pavings.name"),
     "@mcwpaths"
   );
 
   event.groupItems(
     "functionalstorage:rei_groups/drawers",
-    "Functional Storage's Выдвижные ящики",
+    Component.translate("sb3.rei_groups.drawers.name"),
     "#functionalstorage:drawer"
   );
 
   let RSmachines = {
-    "_controller" : "Контроллеры",
-    "_network_receiver" : "Сетевые Приёмники",
-    "_network_transmitter" : "Сетевые Приёмники",
-    "_relay" : "Реле",
-    "_detector" : "Детекторы",
-    "_security_manager" : "Менеджеры Безопасности",
-    "_wireless_transmitter" : "Беспроводные Передатчики",
-    "_disk_manipulator" : "Дисковые манипуляторы",
-    "_crafter" : "Сборщики",
-    "_crafter_manager" : "Менеджеры создания",
+    "_controller" : Component.translate("sb3.rei_groups.rsmachines._controller.name").toString(),
+    "_network_receiver" : Component.translate("sb3.rei_groups.rsmachines._network_receiver.name").toString(),
+    "_network_transmitter" : Component.translate("sb3.rei_groups.rsmachines._network_receiver.name").toString(),
+    "_relay" : Component.translate("sb3.rei_groups.rsmachines._relay.name").toString(),
+    "_detector" : Component.translate("sb3.rei_groups.rsmachines._detector.name").toString(),
+    "_security_manager" : Component.translate("sb3.rei_groups.rsmachines._security_manager.name").toString(),
+    "_wireless_transmitter" : Component.translate("sb3.rei_groups.rsmachines._wireless_transmitter.name").toString(),
+    "_disk_manipulator" : Component.translate("sb3.rei_groups.rsmachines._disk_manipulator.name").toString(),
+    "_crafter" : Component.translate("sb3.rei_groups.rsmachines._crafter.name").toString(),
+    "_crafter_manager" : Component.translate("sb3.rei_groups.rsmachines._crafter_manager.name").toString()
   };
   Object.entries(RSmachines).forEach(([type, name]) => {
     var rsRegex = new RegExp(`refinedstorage:.*${type}$`);
     event.groupItems(
       `refinedstorage:rei_groups/colored${type}`,
-      `Цветные ${name}`,
+      Component.translate("sb3.rei_groups.colored.name").append(" ").append(name),
       rsRegex
     );
   });
 
   let rechiseledBlocks = {
-    "acacia_planks" : "Акациевые Доски",
-    "andesite" : "Андезит",
-    "blackstone" : "Чернит",
-    "cobbled" : "Колотый Глубинный Сланец",
-    "birch_planks" : "Берёзовые Доски",
-    "cobblestone" : "Булыжник",
-    "crimson_planks" : "Багровые Доски",
-    "dark_oak_planks" : "Доски из Тёмного Дуба",
-    "dark_prismarine" : "Тёмный Призмарин",
-    "diorite" : "Диорит",
-    "dirt" : "Земля",
-    "end_stone" : "Эндерняк",
-    "glowstone" : "Светокамень",
-    "granite" : "Гранит",
-    "jungle_planks" : "Доски из Тропического Дерева",
-    "mossy_cobblestone" : "Замшелый Булыжник",
-    "netherrack" : "Незерит",
-    "nether_bricks" : "Незеритовые кирпичи",
-    "oak_planks" : "Дубовые Доски",
-    "obsidian" : "Обсидиан",
-    "prismarine_bricks" : "Призмариновые кирпичи",
-    "purpur" : "Пурпур",
-    "quartz_block" : "Кварцевые блоки",
-    "red_nether_bricks" : "Красные незеритовые кирпичи",
-    "red_sandstone" : "Красный песчаник",
-    "sandstone" : "Песчаник",
-    "spruce_planks" : "Еловые доски",
-    "stone" : "Камень",
-    "warped_planks" : "Искажённые доски",
+    "acacia_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.acacia_planks.name").toString(),
+    "andesite" : Component.translate("sb3.rei_groups.rechiseledblocks.andesite.name").toString(),
+    "blackstone" : Component.translate("sb3.rei_groups.rechiseledblocks.blackstone.name").toString(),
+    "cobbled" : Component.translate("sb3.rei_groups.rechiseledblocks.cobbled.name").toString(),
+    "birch_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.birch_planks.name").toString(),
+    "cobblestone" : Component.translate("sb3.rei_groups.rechiseledblocks.cobblestone.name").toString(),
+    "crimson_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.crimson_planks.name").toString(),
+    "dark_oak_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.dark_oak_planks.name").toString(),
+    "dark_prismarine" : Component.translate("sb3.rei_groups.rechiseledblocks.dark_prismarine.name").toString(),
+    "diorite" : Component.translate("sb3.rei_groups.rechiseledblocks.diorite.name").toString(),
+    "dirt" : Component.translate("sb3.rei_groups.rechiseledblocks.dirt.name").toString(),
+    "end_stone" : Component.translate("sb3.rei_groups.rechiseledblocks.end_stone.name").toString(),
+    "glowstone" : Component.translate("sb3.rei_groups.rechiseledblocks.glowstone.name").toString(),
+    "granite" : Component.translate("sb3.rei_groups.rechiseledblocks.granite.name").toString(),
+    "jungle_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.jungle_planks.name").toString(),
+    "mossy_cobblestone" : Component.translate("sb3.rei_groups.rechiseledblocks.mossy_cobblestone.name").toString(),
+    "netherrack" : Component.translate("sb3.rei_groups.rechiseledblocks.netherrack.name").toString(),
+    "nether_bricks" : Component.translate("sb3.rei_groups.rechiseledblocks.nether_bricks.name").toString(),
+    "oak_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.oak_planks.name").toString(),
+    "obsidian" : Component.translate("sb3.rei_groups.rechiseledblocks.obsidian.name").toString(),
+    "prismarine_bricks" : Component.translate("sb3.rei_groups.rechiseledblocks.prismarine_bricks.name").toString(),
+    "purpur" : Component.translate("sb3.rei_groups.rechiseledblocks.purpur.name").toString(),
+    "quartz_block" : Component.translate("sb3.rei_groups.rechiseledblocks.quartz_block.name").toString(),
+    "red_nether_bricks" : Component.translate("sb3.rei_groups.rechiseledblocks.red_nether_bricks.name").toString(),
+    "red_sandstone" : Component.translate("sb3.rei_groups.rechiseledblocks.red_sandstone.name").toString(),
+    "sandstone" : Component.translate("sb3.rei_groups.rechiseledblocks.sandstone.name").toString(),
+    "spruce_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.spruce_planks.name").toString(),
+    "stone" : Component.translate("sb3.rei_groups.rechiseledblocks.stone.name").toString(),
+    "warped_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.warped_planks.name").toString()
   };
   Object.entries(rechiseledBlocks).forEach(([type, name]) => {
     var rsRegex = new RegExp(`rechiseled:${type}.*`);
@@ -302,262 +302,262 @@ onEvent("rei.group", (event) => {
   });
 
   let chippedBlocks = {
-    "amethyst_block" : "Аметистовый Блок",
-    "ancient_debris" : "Древние Обломки",
-    "andesite" : "Андезит",
-    "barrel" : "Бочки",
-    "basalt" : "Базальт",
-    "blackstone" : "Чернит",
-    "blue_ice" : "Синий Лёд",
-    "bone_block" : "Костяной Блок",
-    "bookshelf" : "Книжные Полки",
-    "bricks" : "Кирпичи",
-    "brown_mushroom_block" : "Блок Коричневого Гриба",
-    "calcite" : "Кальцит",
-    "carved_pumpkin" : "Вырезанная Тыква",
-    "clay" : "Глина",
-    "coal_block" : "Угольный Блок",
-    "cobblestone" : "Булыжник",
-    "crying_obsidian" : "Плачущий Обсидиан",
-    "dark_prismarine" : "Тёмный Призмарин",
-    "deepslate" : "Глубинный Сланец",
-    "diamond_block" : "Алмазный Блок",
-    "diorite" : "Диорит",
-    "dirt" : "Земля",
-    "dried_kelp_block" : "Блок Сушёной Ламинарии",
-    "dripstone_block" : "Натёчный Камень",
-    "emerald_block" : "Изумрудный Блок",
-    "end_stone" : "Эндерняк",
-    "gilded_blackstone" : "Золочёный Чернит",
-    "glowstone" : "Светокамень",
-    "gold_block" : "Золотой Блок",
-    "granite" : "Гранит",
-    "gravel" : "Гравий",
-    "hay_block" : "Сноп Сен",
-    "ice" : "Лёд",
-    "iron_bars" : "Железные Прутья",
-    "iron_block" : "Железный Блок",
-    "jack_o_lantern" : "Светильник Джек",
-    "ladder" : "Лестница",
-    "lapis_block" : "Лазуритовый Блок",
-    "lodestone" : "Магнетит",
-    "magma_block" : "Магма",
-    "melon" : "Арбуз",
-    "moss_block" : "Блок Мха",
-    "mossy_cobblestone" : "Замшелый Булыжник",
-    "mushroom_stem" : "Ножка Гриба",
-    "nether_bricks" : "Незеритовые Кирпичи",
-    "nether_wart_block" : "Блок Нароста из Незера",
-    "netherrack" : "Незерит",
-    "obsidian" : "Обсидиан",
-    "packed_ice" : "Плотный Лёд",
-    "prismarine" : "Призмарин",
-    "pumpkin" : "Тыква",
-    "purpur_block" : "Пурпур",
-    "quartz_block" : "Кварцевый Блок",
-    "raw_copper_block" : "Блок Рудной Меди",
-    "raw_gold_block" : "Блок Рудного Золота",
-    "raw_iron_block" : "Блок Рудного Железа",
-    "red_mushroom_block" : "Блок Красного Гриба",
-    "red_nether_bricks" : "Красные Незеритовые Кирпичи",
-    "red_sandstone" : "Красный Песчаник",
-    "redstone_block" : "Редстоуновый Блок",
-    "redstone_lamp" : "Редстоуновый Фонарь",
-    "sand" : "Песок",
-    "sandstone" : "Песчаник",
-    "sea_lantern" : "Морской Фонарь",
-    "shroomlight" : "Грибосвет",
-    "smooth_stone" : "Гладкий Камень",
-    "snow_block" : "Блок Снега",
-    "soul_sand" : "Песок Душ",
-    "sponge" : "Губка",
-    "stone" : "Камень",
-    "tuff" : "Туф",
-    "warped_wart_block" : "Блок Искажённого Нароста",
-    "waxed_copper_block" : "Вощёный Медный Блок",
-    "waxed_oxidized_copper" : "Вощёный Окисленный Медный Блок",
-    "waxed_exposed_copper" : "Вощёный Потемневший Медный Блок",
-    "waxed_weathered_copper" : "Вощёный Состаренный Медный Блок",
-    "glass" : "Стекло",
-    "glass_pane" : "Стеклянная Панель",
-    "white_stained_glass" : "Белое Стекло",
-    "white_stained_glass_pane" : "Белая Стеклянная Панель",
-    "orange_stained_glass" : "Оранжевое Стекло",
-    "orange_stained_glass_pane" : "Оранжевая Стеклянная Панель",
-    "magenta_stained_glass" : "Пурпурное Стекло",
-    "magenta_stained_glass_pane" : "Пурпурная Стеклянная Панель",
-    "light_blue_stained_glass" : "Светло-синее Стекло",
-    "light_blue_stained_glass_pane" : "Светло-синяя Стеклянная Панель",
-    "yellow_stained_glass" : "Жёлтое Стекло",
-    "yellow_stained_glass_pane" : "Жёлтая Стеклянная Панель",
-    "lime_stained_glass" : "Лаймовое Стекло",
-    "lime_stained_glass_pane" : "Лаймовая Стеклянная Панель",
-    "pink_stained_glass" : "Розовое Стекло",
-    "pink_stained_glass_pane" : "Розовая Стеклянная Панель",
-    "gray_stained_glass" : "Серое Стекло",
-    "gray_stained_glass_pane" : "Серая Стеклянная Панель",
-    "light_gray_stained_glass" : "Светло-серое Стекло",
-    "light_gray_stained_glass_pane" : "Светло-серая Стеклянная Панель",
-    "cyan_stained_glass" : "Голубое Стекло",
-    "cyan_stained_glass_pane" : "Голубая Стеклянная Панель",
-    "purple_stained_glass" : "Фиолетовое Стекло",
-    "purple_stained_glass_pane" : "Фиолетовая Стеклянная Панель",
-    "blue_stained_glass" : "Синее Стекло",
-    "blue_stained_glass_pane" : "Синяя Стеклянная Панель",
-    "brown_stained_glass" : "Коричневое Стекло",
-    "brown_stained_glass_pane" : "Коричневая Стеклянная Панель",
-    "green_stained_glass" : "Зелёное Стекло",
-    "green_stained_glass_pane" : "Зелёная Стеклянная Панель",
-    "red_stained_glass" : "Красное Стекло",
-    "red_stained_glass_pane" : "Красная Стеклянная Панель",
-    "black_stained_glass" : "Чёрное Стекло",
-    "black_stained_glass_pane" : "Чёрная Стеклянная Панель",
-    "acacia_planks" : "Акациевые Доски",
-    "birch_planks" : "Берёзовые Доски",
-    "crimson_planks" : "Багровые Доски",
-    "dark_oak_planks" : "Доски из Тёмного Дуба",
-    "jungle_planks" : "Доспи из Тропического Дерева",
-    "oak_planks" : "Дубовые Доски",
-    "spruce_planks" : "Еловые Доски",
-    "warped_planks" : "Искажённый Доски",
-    "acacia_log" : "Акациевое Бревно",
-    "birch_log" : "Берёзовое Бревно",
-    "crimson_stem" : "Багровый Стебель",
-    "dark_oak_log" : "Бревно Тёмного Дуба",
-    "jungle_log" : "Бревно Тропического Дерева",
-    "oak_log" : "Дубовое Бревно",
-    "spruce_log" : "Еловое Бревно",
-    "warped_stem" : "Искажённый Стебель",
-    "stripped_acacia_log" : "Обтёсанное Бревно Акации",
-    "stripped_birch_log" : "Обтёсанное Берёзовое Бревно",
-    "stripped_crimson_stem" : "Обтёсанный Багровый Стебель",
-    "stripped_dark_oak_log" : "Обтёсанное Бревного Тёмного Дуба",
-    "stripped_jungle_log" : "Обтёсанное Бревно Тропического Дерева",
-    "stripped_oak_log" : "Обтёсанное Дубовое Бревно",
-    "stripped_spruce_log" : "Обтёсанное Еловое Бревно",
-    "stripped_warped_stem" : "Обтёсанный Искажённый Стебель",
-    "acacia_leaves" : "Листья Акации",
-    "birch_leaves" : "Берёзовые Листья",
-    "dark_oak_leaves" : "Листья Тёмного Дуба",
-    "jungle_leaves" : "Листья Тропического Дерева",
-    "oak_leaves" : "Дубовые Листья",
-    "spruce_leaves" : "Еловые Листья",
-    "white_terracotta" : "Белая Керамика",
-    "orange_terracotta" : "Оранжевая Керамика",
-    "magenta_terracotta" : "Пурпурная Керамика",
-    "light_blue_terracotta" : "Светло-синяя Керамика",
-    "yellow_terracotta" : "Жёлтая Керамика",
-    "lime_terracotta" : "Лаймовая Керамика",
-    "pink_terracotta" : "Розовая Керамика",
-    "gray_terracotta" : "Серая Керамика",
-    "light_gray_terracotta" : "Светло-серая Керамика",
-    "cyan_terracotta" : "Голубая Керамика",
-    "purple_terracotta" : "Фиолетовая Керамика",
-    "blue_terracotta" : "Синяя Керамика",
-    "brown_terracotta" : "Коричневая Керамика",
-    "green_terracotta" : "Зелёная Керамика",
-    "red_terracotta" : "Красная Керамика",
-    "black_terracotta" : "Чёрная Керамика",
-    "white_glazed_terracotta" : "Белая Глазурованная Керамика",
-    "orange_glazed_terracotta" : "Оранжевая Глазурованная Керамика",
-    "magenta_glazed_terracotta" : "Пурпурная Глазурованная Керамика",
-    "light_blue_glazed_terracotta" : "Светло-синяя Глазурованная Керамика",
-    "yellow_glazed_terracotta" : "Жёлтая Глазурованная Керамика",
-    "lime_glazed_terracotta" : "Лаймовая Глазурованная Керамика",
-    "pink_glazed_terracotta" : "Розовая Глазурованная Керамика",
-    "gray_glazed_terracotta" : "Серая Глазурованная Керамика",
-    "light_gray_glazed_terracotta" : "Светло-серая Глазурованная Керамика",
-    "cyan_glazed_terracotta" : "Голубая Глазурованная Керамика",
-    "purple_glazed_terracotta" : "Фиолетовая Глазурованная Керамика",
-    "blue_glazed_terracotta" : "Синяя Глазурованная Керамика",
-    "brown_glazed_terracotta" : "Коричневая Глазурованная Керамика",
-    "green_glazed_terracotta" : "Зелёная Глазурованная Керамика",
-    "red_glazed_terracotta" : "Красная Глазурованная Керамика",
-    "black_glazed_terracotta" : "Чёрная Глазурованная Керамика",
-    "white_concrete" : "Белый Бетон",
-    "black_concrete" : "Чёрный Бетон",
-    "blue_concrete" : "Синий Бетон",
-    "brown_concrete" : "Коричневый Бетон",
-    "cyan_concrete" : "Голубой Бетон",
-    "gray_concrete" : "Серый Бетон",
-    "green_concrete" : "Зелёный Бетон",
-    "light_blue_concrete" : "Светло-синий Бетон",
-    "light_gray_concrete" : "Светло-серый Бетон",
-    "lime_concrete" : "Лаймовый Бетон",
-    "magenta_concrete" : "Пурпурный Бетон",
-    "orange_concrete" : "Оранжевый Бетон",
-    "pink_concrete" : "Розовый Бетон",
-    "purple_concrete" : "Фиолетовый Бетон",
-    "red_concrete"  : "Красный Бетон",
-    "yellow_concrete" : "Жёлтый Бетон",
-    "white_wool" : "Белая Шерсть",
-    "white_carpet" : "Белый Ковёр",
-    "orange_wool" : "Оранжевый Шерсть",
-    "orange_carpet" : "Оранженый Ковёр",
-    "magenta_wool" : "Пурпурная Шерсть",
-    "magenta_carpet" : "Пурпурный Ковёр",
-    "light_blue_wool" : "Светло-синяя Шерсть",
-    "light_blue_carpet" : "Светло-синий Ковёр",
-    "yellow_wool" : "Жёлтая Шерсть",
-    "yellow_carpet" : "Жёлтый Ковёр",
-    "lime_wool" : "Лаймовая Шерсть",
-    "lime_carpet" : "Лаймовый Ковёр",
-    "pink_wool" : "Розовая Шерсть",
-    "pink_carpet" : "Розовый Ковёр",
-    "gray_wool" : "Серая Шерсть",
-    "gray_carpet" : "Серый Ковёр",
-    "light_gray_wool" : "Светло-серая Шерсть",
-    "light_gray_carpet" : "Светло-серый Ковёр",
-    "cyan_wool" : "Голубая Шерсть",
-    "cyan_carpet" : "Голубой Ковёр",
-    "purple_wool" : "Фиолетовая Шерсть",
-    "purple_carpet" : "Фиолетовый Ковёр",
-    "blue_carpet" : "Синий Ковёр",
-    "brown_wool" : "Синяя Шерсть",
-    "brown_carpet" : "Коричневый Ковёр",
-    "green_wool" : "Зелёная Шерсть",
-    "green_carpet" : "Зелёный Ковёр",
-    "red_wool" : "Красная Шерсть",
-    "red_carpet" : "Красный Ковёр",
-    "black_wool" : "Чёрная Шерсть",
-    "black_carpet" : "Чёрный Ковёр",
-    "acacia_door" : "Акациевая Дверь",
-    "dark_oak_door" : "Дверь из Тёмного Дуба",
-    "birch_door" : "Берёзовая Дверь",
-    "jungle_door" : "Дверь из Тропического Дерева",
-    "oak_door" : "Дубовая Дверь",
-    "spruce_door" : "Еловая Дверь",
-    "crimson_door" : "Багровая Дверь",
-    "warped_door" : "Искажённая Дверь",
-    "acacia_trapdoor" : "Акациевый Люк",
-    "dark_oak_trapdoor" : "Люк из Тёмного Дуба",
-    "birch_trapdoor" : "Берёзовый Люк",
-    "jungle_trapdoor" : "Люк из Тропического Дерева",
-    "oak_trapdoor" : "Дубовый Люк",
-    "spruce_trapdoor" : "Еловый Люк",
-    "crimson_trapdoor" : "Багровый Люк",
-    "warped_trapdoor" : "Искажённый Люк",
-    "brown_mushroom" : "Коричневый Гриб",
-    "cobweb" : "Паутина",
-    "crimson_fungus" : "Багровый Гриб",
-    "pointed_dripstone" : "Капельник",
-    "lily_pad" : "Кувшинка",
-    "nether_sprouts" : "Незеритовые Ростки",
-    "red_mushroom" : "Красный Гриб",
-    "vine" : "Лианы",
-    "warped_fungus" : "Искажённый Гриб",
-    "torch" : "Факел",
-    "lantern" : "Фонарь",
-    "soul_lantern" : "Фонарь Душ",
-    "special_lantern" : "Особенный Фонарь",
-    "special_soul_lantern" : "Особенный Фонарь Душ",
-    "mossy_stone_bricks" : "Замшелые Каменные Кирпичи",
-    "netherite_block" : "Незеритовый Блок",
-    "blue_wool" : "Синяя Шерсть",
-    "crimson_roots" : "Багровые Корни",
-    "warped_roots" : "Искажённые Корни",
-    "redstone_torch" : "Редстоун Факел",
-    "terracotta" : "Керамика"
+    "amethyst_block" : Component.translate("sb3.rei_groups.chippedblocks.amethyst_block.name").toString(),
+    "ancient_debris" : Component.translate("sb3.rei_groups.chippedblocks.ancient_debris.name").toString(),
+    "andesite" : Component.translate("sb3.rei_groups.rechiseledblocks.andesite.name").toString(),
+    "barrel" : Component.translate("sb3.rei_groups.chippedblocks.barrel.name").toString(),
+    "basalt" : Component.translate("sb3.rei_groups.chippedblocks.basalt.name").toString(),
+    "blackstone" : Component.translate("sb3.rei_groups.rechiseledblocks.blackstone.name").toString(),
+    "blue_ice" : Component.translate("sb3.rei_groups.chippedblocks.blue_ice.name").toString(),
+    "bone_block" : Component.translate("sb3.rei_groups.chippedblocks.bone_block.name").toString(),
+    "bookshelf" : Component.translate("sb3.rei_groups.chippedblocks.bookshelf.name").toString(),
+    "bricks" : Component.translate("sb3.rei_groups.chippedblocks.bricks.name").toString(),
+    "brown_mushroom_block" : Component.translate("sb3.rei_groups.chippedblocks.brown_mushroom_block.name").toString(),
+    "calcite" : Component.translate("sb3.rei_groups.chippedblocks.calcite.name").toString(),
+    "carved_pumpkin" : Component.translate("sb3.rei_groups.chippedblocks.carved_pumpkin.name").toString(),
+    "clay" : Component.translate("sb3.rei_groups.chippedblocks.clay.name").toString(),
+    "coal_block" : Component.translate("sb3.rei_groups.chippedblocks.coal_block.name").toString(),
+    "cobblestone" : Component.translate("sb3.rei_groups.rechiseledblocks.cobblestone.name").toString(),
+    "crying_obsidian" : Component.translate("sb3.rei_groups.chippedblocks.crying_obsidian.name").toString(),
+    "dark_prismarine" : Component.translate("sb3.rei_groups.rechiseledblocks.dark_prismarine.name").toString(),
+    "deepslate" : Component.translate("sb3.rei_groups.chippedblocks.deepslate.name").toString(),
+    "diamond_block" : Component.translate("sb3.rei_groups.chippedblocks.diamond_block.name").toString(),
+    "diorite" : Component.translate("sb3.rei_groups.rechiseledblocks.diorite.name").toString(),
+    "dirt" : Component.translate("sb3.rei_groups.rechiseledblocks.dirt.name").toString(),
+    "dried_kelp_block" : Component.translate("sb3.rei_groups.chippedblocks.dried_kelp_block.name").toString(),
+    "dripstone_block" : Component.translate("sb3.rei_groups.chippedblocks.dripstone_block.name").toString(),
+    "emerald_block" : Component.translate("sb3.rei_groups.chippedblocks.emerald_block.name").toString(),
+    "end_stone" : Component.translate("sb3.rei_groups.rechiseledblocks.end_stone.name").toString(),
+    "gilded_blackstone" : Component.translate("sb3.rei_groups.chippedblocks.gilded_blackstone.name").toString(),
+    "glowstone" : Component.translate("sb3.rei_groups.rechiseledblocks.glowstone.name").toString(),
+    "gold_block" : Component.translate("sb3.rei_groups.chippedblocks.gold_block.name").toString(),
+    "granite" : Component.translate("sb3.rei_groups.rechiseledblocks.granite.name").toString(),
+    "gravel" : Component.translate("sb3.rei_groups.chippedblocks.gravel.name").toString(),
+    "hay_block" : Component.translate("sb3.rei_groups.chippedblocks.hay_block.name").toString(),
+    "ice" : Component.translate("sb3.rei_groups.chippedblocks.ice.name").toString(),
+    "iron_bars" : Component.translate("sb3.rei_groups.chippedblocks.iron_bars.name").toString(),
+    "iron_block" : Component.translate("sb3.rei_groups.chippedblocks.iron_block.name").toString(),
+    "jack_o_lantern" : Component.translate("sb3.rei_groups.chippedblocks.jack_o_lantern.name").toString(),
+    "ladder" : Component.translate("sb3.rei_groups.chippedblocks.ladder.name").toString(),
+    "lapis_block" : Component.translate("sb3.rei_groups.chippedblocks.lapis_block.name").toString(),
+    "lodestone" : Component.translate("sb3.rei_groups.chippedblocks.lodestone.name").toString(),
+    "magma_block" : Component.translate("sb3.rei_groups.chippedblocks.magma_block.name").toString(),
+    "melon" : Component.translate("sb3.rei_groups.chippedblocks.melon.name").toString(),
+    "moss_block" : Component.translate("sb3.rei_groups.chippedblocks.moss_block.name").toString(),
+    "mossy_cobblestone" : Component.translate("sb3.rei_groups.rechiseledblocks.mossy_cobblestone.name").toString(),
+    "mushroom_stem" : Component.translate("sb3.rei_groups.chippedblocks.mushroom_stem.name").toString(),
+    "nether_bricks" : Component.translate("sb3.rei_groups.chippedblocks.nether_bricks.name").toString(),
+    "nether_wart_block" : Component.translate("sb3.rei_groups.chippedblocks.nether_wart_block.name").toString(),
+    "netherrack" : Component.translate("sb3.rei_groups.rechiseledblocks.netherrack.name").toString(),
+    "obsidian" : Component.translate("sb3.rei_groups.rechiseledblocks.obsidian.name").toString(),
+    "packed_ice" : Component.translate("sb3.rei_groups.chippedblocks.packed_ice.name").toString(),
+    "prismarine" : Component.translate("sb3.rei_groups.chippedblocks.prismarine.name").toString(),
+    "pumpkin" : Component.translate("sb3.rei_groups.chippedblocks.pumpkin.name").toString(),
+    "purpur_block" : Component.translate("sb3.rei_groups.rechiseledblocks.purpur.name").toString(),
+    "quartz_block" : Component.translate("sb3.rei_groups.chippedblocks.quartz_block.name").toString(),
+    "raw_copper_block" : Component.translate("sb3.rei_groups.chippedblocks.raw_copper_block.name").toString(),
+    "raw_gold_block" : Component.translate("sb3.rei_groups.chippedblocks.raw_gold_block.name").toString(),
+    "raw_iron_block" : Component.translate("sb3.rei_groups.chippedblocks.raw_iron_block.name").toString(),
+    "red_mushroom_block" : Component.translate("sb3.rei_groups.chippedblocks.red_mushroom_block.name").toString(),
+    "red_nether_bricks" : Component.translate("sb3.rei_groups.chippedblocks.red_nether_bricks.name").toString(),
+    "red_sandstone" : Component.translate("sb3.rei_groups.chippedblocks.red_sandstone.name").toString(),
+    "redstone_block" : Component.translate("sb3.rei_groups.chippedblocks.redstone_block.name").toString(),
+    "redstone_lamp" : Component.translate("sb3.rei_groups.chippedblocks.redstone_lamp.name").toString(),
+    "sand" : Component.translate("sb3.rei_groups.chippedblocks.sand.name").toString(),
+    "sandstone" : Component.translate("sb3.rei_groups.rechiseledblocks.sandstone.name").toString(),
+    "sea_lantern" : Component.translate("sb3.rei_groups.chippedblocks.sea_lantern.name").toString(),
+    "shroomlight" : Component.translate("sb3.rei_groups.chippedblocks.shroomlight.name").toString(),
+    "smooth_stone" : Component.translate("sb3.rei_groups.chippedblocks.smooth_stone.name").toString(),
+    "snow_block" : Component.translate("sb3.rei_groups.chippedblocks.snow_block.name").toString(),
+    "soul_sand" : Component.translate("sb3.rei_groups.chippedblocks.soul_sand.name").toString(),
+    "sponge" : Component.translate("sb3.rei_groups.chippedblocks.sponge.name").toString(),
+    "stone" : Component.translate("sb3.rei_groups.rechiseledblocks.stone.name").toString(),
+    "tuff" : Component.translate("sb3.rei_groups.chippedblocks.tuff.name").toString(),
+    "warped_wart_block" : Component.translate("sb3.rei_groups.chippedblocks.warped_wart_block.name").toString(),
+    "waxed_copper_block" : Component.translate("sb3.rei_groups.chippedblocks.waxed_copper_block.name").toString(),
+    "waxed_oxidized_copper" : Component.translate("sb3.rei_groups.chippedblocks.waxed_oxidized_copper.name").toString(),
+    "waxed_exposed_copper" : Component.translate("sb3.rei_groups.chippedblocks.waxed_exposed_copper.name").toString(),
+    "waxed_weathered_copper" : Component.translate("sb3.rei_groups.chippedblocks.waxed_weathered_copper.name").toString(),
+    "glass" : Component.translate("sb3.rei_groups.chippedblocks.glass.name").toString(),
+    "glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.glass_pane.name").toString(),
+    "white_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.white_stained_glass.name").toString(),
+    "white_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.white_stained_glass_pane.name").toString(),
+    "orange_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.orange_stained_glass.name").toString(),
+    "orange_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.orange_stained_glass_pane.name").toString(),
+    "magenta_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.magenta_stained_glass.name").toString(),
+    "magenta_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.magenta_stained_glass_pane.name").toString(),
+    "light_blue_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_stained_glass.name").toString(),
+    "light_blue_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_stained_glass_pane.name").toString(),
+    "yellow_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.yellow_stained_glass.name").toString(),
+    "yellow_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.yellow_stained_glass_pane.name").toString(),
+    "lime_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.lime_stained_glass.name").toString(),
+    "lime_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.lime_stained_glass_pane.name").toString(),
+    "pink_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.pink_stained_glass.name").toString(),
+    "pink_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.pink_stained_glass_pane.name").toString(),
+    "gray_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.gray_stained_glass.name").toString(),
+    "gray_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.gray_stained_glass_pane.name").toString(),
+    "light_gray_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_stained_glass.name").toString(),
+    "light_gray_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_stained_glass_pane.name").toString(),
+    "cyan_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.cyan_stained_glass.name").toString(),
+    "cyan_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.cyan_stained_glass_pane.name").toString(),
+    "purple_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.purple_stained_glass.name").toString(),
+    "purple_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.purple_stained_glass_pane.name").toString(),
+    "blue_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.blue_stained_glass.name").toString(),
+    "blue_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.blue_stained_glass_pane.name").toString(),
+    "brown_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.brown_stained_glass.name").toString(),
+    "brown_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.brown_stained_glass_pane.name").toString(),
+    "green_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.green_stained_glass.name").toString(),
+    "green_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.green_stained_glass_pane.name").toString(),
+    "red_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.red_stained_glass.name").toString(),
+    "red_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.red_stained_glass_pane.name").toString(),
+    "black_stained_glass" : Component.translate("sb3.rei_groups.chippedblocks.black_stained_glass.name").toString(),
+    "black_stained_glass_pane" : Component.translate("sb3.rei_groups.chippedblocks.black_stained_glass_pane.name").toString(),
+    "acacia_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.acacia_planks.name").toString(),
+    "birch_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.birch_planks.name").toString(),
+    "crimson_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.crimson_planks.name").toString(),
+    "dark_oak_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.dark_oak_planks.name").toString(),
+    "jungle_planks" : Component.translate("sb3.rei_groups.chippedblocks.jungle_planks.name").toString(),
+    "oak_planks" : Component.translate("sb3.rei_groups.rechiseledblocks.oak_planks.name").toString(),
+    "spruce_planks" : Component.translate("sb3.rei_groups.chippedblocks.spruce_planks.name").toString(),
+    "warped_planks" : Component.translate("sb3.rei_groups.chippedblocks.warped_planks.name").toString(),
+    "acacia_log" : Component.translate("sb3.rei_groups.chippedblocks.acacia_log.name").toString(),
+    "birch_log" : Component.translate("sb3.rei_groups.chippedblocks.birch_log.name").toString(),
+    "crimson_stem" : Component.translate("sb3.rei_groups.chippedblocks.crimson_stem.name").toString(),
+    "dark_oak_log" : Component.translate("sb3.rei_groups.chippedblocks.dark_oak_log.name").toString(),
+    "jungle_log" : Component.translate("sb3.rei_groups.chippedblocks.jungle_log.name").toString(),
+    "oak_log" : Component.translate("sb3.rei_groups.chippedblocks.oak_log.name").toString(),
+    "spruce_log" : Component.translate("sb3.rei_groups.chippedblocks.spruce_log.name").toString(),
+    "warped_stem" : Component.translate("sb3.rei_groups.chippedblocks.warped_stem.name").toString(),
+    "stripped_acacia_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_acacia_log.name").toString(),
+    "stripped_birch_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_birch_log.name").toString(),
+    "stripped_crimson_stem" : Component.translate("sb3.rei_groups.chippedblocks.stripped_crimson_stem.name").toString(),
+    "stripped_dark_oak_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_dark_oak_log.name").toString(),
+    "stripped_jungle_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_jungle_log.name").toString(),
+    "stripped_oak_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_oak_log.name").toString(),
+    "stripped_spruce_log" : Component.translate("sb3.rei_groups.chippedblocks.stripped_spruce_log.name").toString(),
+    "stripped_warped_stem" : Component.translate("sb3.rei_groups.chippedblocks.stripped_warped_stem.name").toString(),
+    "acacia_leaves" : Component.translate("sb3.rei_groups.chippedblocks.acacia_leaves.name").toString(),
+    "birch_leaves" : Component.translate("sb3.rei_groups.chippedblocks.birch_leaves.name").toString(),
+    "dark_oak_leaves" : Component.translate("sb3.rei_groups.chippedblocks.dark_oak_leaves.name").toString(),
+    "jungle_leaves" : Component.translate("sb3.rei_groups.chippedblocks.jungle_leaves.name").toString(),
+    "oak_leaves" : Component.translate("sb3.rei_groups.chippedblocks.oak_leaves.name").toString(),
+    "spruce_leaves" : Component.translate("sb3.rei_groups.chippedblocks.spruce_leaves.name").toString(),
+    "white_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.white_terracotta.name").toString(),
+    "orange_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.orange_terracotta.name").toString(),
+    "magenta_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.magenta_terracotta.name").toString(),
+    "light_blue_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_terracotta.name").toString(),
+    "yellow_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.yellow_terracotta.name").toString(),
+    "lime_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.lime_terracotta.name").toString(),
+    "pink_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.pink_terracotta.name").toString(),
+    "gray_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.gray_terracotta.name").toString(),
+    "light_gray_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_terracotta.name").toString(),
+    "cyan_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.cyan_terracotta.name").toString(),
+    "purple_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.purple_terracotta.name").toString(),
+    "blue_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.blue_terracotta.name").toString(),
+    "brown_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.brown_terracotta.name").toString(),
+    "green_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.green_terracotta.name").toString(),
+    "red_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.red_terracotta.name").toString(),
+    "black_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.black_terracotta.name").toString(),
+    "white_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.white_glazed_terracotta.name").toString(),
+    "orange_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.orange_glazed_terracotta.name").toString(),
+    "magenta_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.magenta_glazed_terracotta.name").toString(),
+    "light_blue_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_glazed_terracotta.name").toString(),
+    "yellow_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.yellow_glazed_terracotta.name").toString(),
+    "lime_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.lime_glazed_terracotta.name").toString(),
+    "pink_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.pink_glazed_terracotta.name").toString(),
+    "gray_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.gray_glazed_terracotta.name").toString(),
+    "light_gray_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_glazed_terracotta.name").toString(),
+    "cyan_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.cyan_glazed_terracotta.name").toString(),
+    "purple_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.purple_glazed_terracotta.name").toString(),
+    "blue_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.blue_glazed_terracotta.name").toString(),
+    "brown_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.brown_glazed_terracotta.name").toString(),
+    "green_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.green_glazed_terracotta.name").toString(),
+    "red_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.red_glazed_terracotta.name").toString(),
+    "black_glazed_terracotta" : Component.translate("sb3.rei_groups.chippedblocks.black_glazed_terracotta.name").toString(),
+    "white_concrete" : Component.translate("sb3.rei_groups.chippedblocks.white_concrete.name").toString(),
+    "black_concrete" : Component.translate("sb3.rei_groups.chippedblocks.black_concrete.name").toString(),
+    "blue_concrete" : Component.translate("sb3.rei_groups.chippedblocks.blue_concrete.name").toString(),
+    "brown_concrete" : Component.translate("sb3.rei_groups.chippedblocks.brown_concrete.name").toString(),
+    "cyan_concrete" : Component.translate("sb3.rei_groups.chippedblocks.cyan_concrete.name").toString(),
+    "gray_concrete" : Component.translate("sb3.rei_groups.chippedblocks.gray_concrete.name").toString(),
+    "green_concrete" : Component.translate("sb3.rei_groups.chippedblocks.green_concrete.name").toString(),
+    "light_blue_concrete" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_concrete.name").toString(),
+    "light_gray_concrete" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_concrete.name").toString(),
+    "lime_concrete" : Component.translate("sb3.rei_groups.chippedblocks.lime_concrete.name").toString(),
+    "magenta_concrete" : Component.translate("sb3.rei_groups.chippedblocks.magenta_concrete.name").toString(),
+    "orange_concrete" : Component.translate("sb3.rei_groups.chippedblocks.orange_concrete.name").toString(),
+    "pink_concrete" : Component.translate("sb3.rei_groups.chippedblocks.pink_concrete.name").toString(),
+    "purple_concrete" : Component.translate("sb3.rei_groups.chippedblocks.purple_concrete.name").toString(),
+    "red_concrete"  : Component.translate("sb3.rei_groups.chippedblocks.red_concrete.name").toString(),
+    "yellow_concrete" : Component.translate("sb3.rei_groups.chippedblocks.yellow_concrete.name").toString(),
+    "white_wool" : Component.translate("sb3.rei_groups.chippedblocks.white_wool.name").toString(),
+    "white_carpet" : Component.translate("sb3.rei_groups.chippedblocks.white_carpet.name").toString(),
+    "orange_wool" : Component.translate("sb3.rei_groups.chippedblocks.orange_wool.name").toString(),
+    "orange_carpet" : Component.translate("sb3.rei_groups.chippedblocks.orange_carpet.name").toString(),
+    "magenta_wool" : Component.translate("sb3.rei_groups.chippedblocks.magenta_wool.name").toString(),
+    "magenta_carpet" : Component.translate("sb3.rei_groups.chippedblocks.magenta_carpet.name").toString(),
+    "light_blue_wool" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_wool.name").toString(),
+    "light_blue_carpet" : Component.translate("sb3.rei_groups.chippedblocks.light_blue_carpet.name").toString(),
+    "yellow_wool" : Component.translate("sb3.rei_groups.chippedblocks.yellow_wool.name").toString(),
+    "yellow_carpet" : Component.translate("sb3.rei_groups.chippedblocks.yellow_carpet.name").toString(),
+    "lime_wool" : Component.translate("sb3.rei_groups.chippedblocks.lime_wool.name").toString(),
+    "lime_carpet" : Component.translate("sb3.rei_groups.chippedblocks.lime_carpet.name").toString(),
+    "pink_wool" : Component.translate("sb3.rei_groups.chippedblocks.pink_wool.name").toString(),
+    "pink_carpet" : Component.translate("sb3.rei_groups.chippedblocks.pink_carpet.name").toString(),
+    "gray_wool" : Component.translate("sb3.rei_groups.chippedblocks.gray_wool.name").toString(),
+    "gray_carpet" : Component.translate("sb3.rei_groups.chippedblocks.gray_carpet.name").toString(),
+    "light_gray_wool" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_wool.name").toString(),
+    "light_gray_carpet" : Component.translate("sb3.rei_groups.chippedblocks.light_gray_carpet.name").toString(),
+    "cyan_wool" : Component.translate("sb3.rei_groups.chippedblocks.cyan_wool.name").toString(),
+    "cyan_carpet" : Component.translate("sb3.rei_groups.chippedblocks.cyan_carpet.name").toString(),
+    "purple_wool" : Component.translate("sb3.rei_groups.chippedblocks.purple_wool.name").toString(),
+    "purple_carpet" : Component.translate("sb3.rei_groups.chippedblocks.purple_carpet.name").toString(),
+    "blue_carpet" : Component.translate("sb3.rei_groups.chippedblocks.blue_carpet.name").toString(),
+    "brown_wool" : Component.translate("sb3.rei_groups.chippedblocks.brown_wool.name").toString(),
+    "brown_carpet" : Component.translate("sb3.rei_groups.chippedblocks.brown_carpet.name").toString(),
+    "green_wool" : Component.translate("sb3.rei_groups.chippedblocks.green_wool.name").toString(),
+    "green_carpet" : Component.translate("sb3.rei_groups.chippedblocks.green_carpet.name").toString(),
+    "red_wool" : Component.translate("sb3.rei_groups.chippedblocks.red_wool.name").toString(),
+    "red_carpet" : Component.translate("sb3.rei_groups.chippedblocks.red_carpet.name").toString(),
+    "black_wool" : Component.translate("sb3.rei_groups.chippedblocks.black_wool.name").toString(),
+    "black_carpet" : Component.translate("sb3.rei_groups.chippedblocks.black_carpet.name").toString(),
+    "acacia_door" : Component.translate("sb3.rei_groups.chippedblocks.acacia_door.name").toString(),
+    "dark_oak_door" : Component.translate("sb3.rei_groups.chippedblocks.dark_oak_door.name").toString(),
+    "birch_door" : Component.translate("sb3.rei_groups.chippedblocks.birch_door.name").toString(),
+    "jungle_door" : Component.translate("sb3.rei_groups.chippedblocks.jungle_door.name").toString(),
+    "oak_door" : Component.translate("sb3.rei_groups.chippedblocks.oak_door.name").toString(),
+    "spruce_door" : Component.translate("sb3.rei_groups.chippedblocks.spruce_door.name").toString(),
+    "crimson_door" : Component.translate("sb3.rei_groups.chippedblocks.crimson_door.name").toString(),
+    "warped_door" : Component.translate("sb3.rei_groups.chippedblocks.warped_door.name").toString(),
+    "acacia_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.acacia_trapdoor.name").toString(),
+    "dark_oak_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.dark_oak_trapdoor.name").toString(),
+    "birch_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.birch_trapdoor.name").toString(),
+    "jungle_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.jungle_trapdoor.name").toString(),
+    "oak_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.oak_trapdoor.name").toString(),
+    "spruce_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.spruce_trapdoor.name").toString(),
+    "crimson_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.crimson_trapdoor.name").toString(),
+    "warped_trapdoor" : Component.translate("sb3.rei_groups.chippedblocks.warped_trapdoor.name").toString(),
+    "brown_mushroom" : Component.translate("sb3.rei_groups.chippedblocks.brown_mushroom.name").toString(),
+    "cobweb" : Component.translate("sb3.rei_groups.chippedblocks.cobweb.name").toString(),
+    "crimson_fungus" : Component.translate("sb3.rei_groups.chippedblocks.crimson_fungus.name").toString(),
+    "pointed_dripstone" : Component.translate("sb3.rei_groups.chippedblocks.pointed_dripstone.name").toString(),
+    "lily_pad" : Component.translate("sb3.rei_groups.chippedblocks.lily_pad.name").toString(),
+    "nether_sprouts" : Component.translate("sb3.rei_groups.chippedblocks.nether_sprouts.name").toString(),
+    "red_mushroom" : Component.translate("sb3.rei_groups.chippedblocks.red_mushroom.name").toString(),
+    "vine" : Component.translate("sb3.rei_groups.chippedblocks.vine.name").toString(),
+    "warped_fungus" : Component.translate("sb3.rei_groups.chippedblocks.warped_fungus.name").toString(),
+    "torch" : Component.translate("sb3.rei_groups.chippedblocks.torch.name").toString(),
+    "lantern" : Component.translate("sb3.rei_groups.chippedblocks.lantern.name").toString(),
+    "soul_lantern" : Component.translate("sb3.rei_groups.chippedblocks.soul_lantern.name").toString(),
+    "special_lantern" : Component.translate("sb3.rei_groups.chippedblocks.special_lantern.name").toString(),
+    "special_soul_lantern" : Component.translate("sb3.rei_groups.chippedblocks.special_soul_lantern.name").toString(),
+    "mossy_stone_bricks" : Component.translate("sb3.rei_groups.chippedblocks.mossy_stone_bricks.name").toString(),
+    "netherite_block" : Component.translate("sb3.rei_groups.chippedblocks.netherite_block.name").toString(),
+    "blue_wool" : Component.translate("sb3.rei_groups.chippedblocks.brown_wool.name").toString(),
+    "crimson_roots" : Component.translate("sb3.rei_groups.chippedblocks.crimson_roots.name").toString(),
+    "warped_roots" : Component.translate("sb3.rei_groups.chippedblocks.warped_roots.name").toString(),
+    "redstone_torch" : Component.translate("sb3.rei_groups.chippedblocks.redstone_torch.name").toString(),
+    "terracotta" : Component.translate("sb3.rei_groups.chippedblocks.terracotta.name").toString()
   };
 
   Object.entries(chippedBlocks).forEach(([type, name]) => {
@@ -588,7 +588,7 @@ onEvent("rei.group", (event) => {
 
   event.groupFluids(
     "kubejs:rei_groups/fluids",
-    "Жидкости",
+    Component.translate("sb3.rei_groups.fluids.name"),
     Ku.Fluids.getFluidsByNamespaces(modFluidsToHide).toArray()
   );
 
@@ -629,7 +629,7 @@ onEvent("rei.group", (event) => {
   ];
   event.groupEntries(
     `mekanism:rei_groups/gas`,
-    "Газ!",
+    Component.translate("sb3.rei_groups.gas.name"),
     "mekanism:jei_plugin_jei_compat_gasstack",
     mekGas
   );
@@ -646,7 +646,7 @@ onEvent("rei.group", (event) => {
   ];
   event.groupEntries(
     `mekanism:rei_groups/infuse`,
-    "Жижы!",
+    Component.translate("sb3.rei_groups.infuse.name"),
     "mekanism:jei_plugin_jei_compat_infusionstack",
     mekInfuse
   );
@@ -673,7 +673,7 @@ onEvent("rei.group", (event) => {
   ];
   event.groupEntries(
     `mekanism:rei_groups/pigment`,
-    "Пигменты!",
+    Component.translate("sb3.rei_groups.pigment.name"),
     "mekanism:jei_plugin_jei_compat_pigmentstack",
     mekpigment
   );
@@ -696,14 +696,14 @@ onEvent("rei.group", (event) => {
   ];
   event.groupEntries(
     `mekanism:rei_groups/slurry`,
-    "Взвеси!",
+    Component.translate("sb3.rei_groups.slurry.name"),
     "mekanism:jei_plugin_jei_compat_slurrystack",
     mekslurry
   );
 
   event.groupEntries(
     `tconstruct:rei_groups/tcon_modifier`,
-    "Tinkers Construct Модификаторы",
+    Component.translate("sb3.rei_groups.tcon_modifier.name"),
     "tconstruct:jei_plugin_jei_compat_modifierentry",
     asd
   );

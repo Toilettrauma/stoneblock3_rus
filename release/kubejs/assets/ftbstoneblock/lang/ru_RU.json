@@ -1,0 +1,1730 @@
+{
+  "sb3.tooltips.inscriber.description1": "Высекатели были отключены и заменены на Последовательную сборку.",
+  "sb3.tooltips.inscriber.description2": "Если у вас уже есть, он все равно будет работать, но вы больше не сможете его создавать.",
+  "sb3.rei_groups.cables.subname": "Кабели",
+  "sb3.rei_groups.memory_cards.name": "Карты памяти",
+  "sb3.rei_groups.single_use.name": "Одноразовые формы",
+  "sb3.rei_groups.multi_use.name": "Многоразовые формы",
+  "sb3.rei_groups.spawn_eggs.name": "Яйца призыва",
+  "sb3.rei_groups.buckets.name": "Ведра с чем-то :)",
+  "sb3.rei_groups.paint_balls.name": "Шарики с краской",
+  "sb3.rei_groups.grid.name": "Цветные терминалы",
+  "sb3.rei_groups.pattern_grid.name": "Цветные терминалы с кодировщиком шаблонов",
+  "sb3.rei_groups.crafting_grid.name": "Цветные терминалы создания",
+  "sb3.rei_groups.fluid_grid.name": "Цветные жидкостные терминалы",
+  "sb3.rei_groups.crafting_monitor.name": "Цветные мониторы создания",
+  "sb3.rei_groups.windows.name": "Macaw's Windows' Окна",
+  "sb3.rei_groups.parapets.name": "Macaw's Windows' Перила",
+  "sb3.rei_groups.doors.name": "Macaw's Doors",
+  "sb3.rei_groups.bridges.name": "Macaw's Bridges",
+  "sb3.rei_groups.trapdoors.name": "Macaw's Trapdoors",
+  "sb3.rei_groups.roofs.name": "Macaw's Roofs",
+  "sb3.rei_groups.fences.name": "Macaw's Fences",
+  "sb3.rei_groups.wardrobes.name": "Macaw's Furniture's Шкафы",
+  "sb3.rei_groups.bookshelves.name": "Macaw's Furniture's Книжные полки",
+  "sb3.rei_groups.drawers.name": "Macaw's Furniture's Ящики",
+  "sb3.rei_groups.desks.name": "Macaw's Furniture's Письменные столы",
+  "sb3.rei_groups.tables.name": "Macaw's Furniture's Столы",
+  "sb3.rei_groups.chairs.name": "Macaw's Furniture's Стулья",
+  "sb3.rei_groups.counters.name": "Macaw's Furniture's Комоды",
+  "sb3.rei_groups.cupboards.name": "Macaw's Furniture's Шкафы книжные полки",
+  "sb3.rei_groups.paths_and_pavings.name": "Macaw's Paths and Pavings",
+  "sb3.rei_groups.drawers.name": "Functional Storage's Выдвижные ящики",
+  "sb3.rei_groups.fluids.name": "Жидкости",
+  "sb3.rei_groups.gas.name": "Газ!",
+  "sb3.rei_groups.infuse.name": "Жижы!",
+  "sb3.rei_groups.pigment.name": "Пигменты!",
+  "sb3.rei_groups.slurry.name": "Взвеси!",
+  "sb3.rei_groups.item_bh.name": "Юниты чёрной дыры",
+  "sb3.rei_groups.tank_bh.name": "Жидкостные чёрные дыры",
+  "sb3.rei_groups.tcon_modifier.name": "Tinkers Construct Модификаторы",
+  "sb3.rei_groups.colored.name": "Цветные",
+  "sb3.rei_groups.rsmachines._controller.name": "Контроллеры",
+  "sb3.rei_groups.rsmachines._network_receiver.name": "Сетевые Приёмники",
+  "sb3.rei_groups.rsmachines._network_transmitter.name": "Сетевые Приёмники",
+  "sb3.rei_groups.rsmachines._relay.name": "Реле",
+  "sb3.rei_groups.rsmachines._detector.name": "Детекторы",
+  "sb3.rei_groups.rsmachines._security_manager.name": "Менеджеры Безопасности",
+  "sb3.rei_groups.rsmachines._wireless_transmitter.name": "Беспроводные Передатчики",
+  "sb3.rei_groups.rsmachines._disk_manipulator.name": "Дисковые манипуляторы",
+  "sb3.rei_groups.rsmachines._crafter.name": "Сборщики",
+  "sb3.rei_groups.rsmachines._crafter_manager.name": "Менеджеры создания",
+  "sb3.rei_groups.rechiseledblocks.acacia_planks.name": "Акациевые Доски",
+  "sb3.rei_groups.rechiseledblocks.andesite.name": "Андезит",
+  "sb3.rei_groups.rechiseledblocks.blackstone.name": "Чернит",
+  "sb3.rei_groups.rechiseledblocks.cobbled.name": "Колотый Глубинный Сланец",
+  "sb3.rei_groups.rechiseledblocks.birch_planks.name": "Берёзовые Доски",
+  "sb3.rei_groups.rechiseledblocks.cobblestone.name": "Булыжник",
+  "sb3.rei_groups.rechiseledblocks.crimson_planks.name": "Багровые Доски",
+  "sb3.rei_groups.rechiseledblocks.dark_oak_planks.name": "Доски из Тёмного Дуба",
+  "sb3.rei_groups.rechiseledblocks.dark_prismarine.name": "Тёмный Призмарин",
+  "sb3.rei_groups.rechiseledblocks.diorite.name": "Диорит",
+  "sb3.rei_groups.rechiseledblocks.dirt.name": "Земля",
+  "sb3.rei_groups.rechiseledblocks.end_stone.name": "Эндерняк",
+  "sb3.rei_groups.rechiseledblocks.glowstone.name": "Светокамень",
+  "sb3.rei_groups.rechiseledblocks.granite.name": "Гранит",
+  "sb3.rei_groups.rechiseledblocks.jungle_planks.name": "Доски из Тропического Дерева",
+  "sb3.rei_groups.rechiseledblocks.mossy_cobblestone.name": "Замшелый Булыжник",
+  "sb3.rei_groups.rechiseledblocks.netherrack.name": "Незерит",
+  "sb3.rei_groups.rechiseledblocks.nether_bricks.name": "Незеритовые кирпичи",
+  "sb3.rei_groups.rechiseledblocks.oak_planks.name": "Дубовые Доски",
+  "sb3.rei_groups.rechiseledblocks.obsidian.name": "Обсидиан",
+  "sb3.rei_groups.rechiseledblocks.prismarine_bricks.name": "Призмариновые кирпичи",
+  "sb3.rei_groups.rechiseledblocks.purpur.name": "Пурпур",
+  "sb3.rei_groups.rechiseledblocks.quartz_block.name": "Кварцевые блоки",
+  "sb3.rei_groups.rechiseledblocks.red_nether_bricks.name": "Красные незеритовые кирпичи",
+  "sb3.rei_groups.rechiseledblocks.red_sandstone.name": "Красный песчаник",
+  "sb3.rei_groups.rechiseledblocks.sandstone.name": "Песчаник",
+  "sb3.rei_groups.rechiseledblocks.spruce_planks.name": "Еловые доски",
+  "sb3.rei_groups.rechiseledblocks.stone.name": "Камень",
+  "sb3.rei_groups.rechiseledblocks.warped_planks.name": "Искажённые доски",
+  "sb3.rei_groups.chippedblocks.amethyst_block.name": "Аметистовый Блок",
+  "sb3.rei_groups.chippedblocks.ancient_debris.name": "Древние Обломки",
+  "sb3.rei_groups.chippedblocks.andesite.name": "Андезит",
+  "sb3.rei_groups.chippedblocks.barrel.name": "Бочки",
+  "sb3.rei_groups.chippedblocks.basalt.name": "Базальт",
+  "sb3.rei_groups.chippedblocks.blackstone.name": "Чернит",
+  "sb3.rei_groups.chippedblocks.blue_ice.name": "Синий Лёд",
+  "sb3.rei_groups.chippedblocks.bone_block.name": "Костяной Блок",
+  "sb3.rei_groups.chippedblocks.bookshelf.name": "Книжные Полки",
+  "sb3.rei_groups.chippedblocks.bricks.name": "Кирпичи",
+  "sb3.rei_groups.chippedblocks.brown_mushroom_block.name": "Блок Коричневого Гриба",
+  "sb3.rei_groups.chippedblocks.calcite.name": "Кальцит",
+  "sb3.rei_groups.chippedblocks.carved_pumpkin.name": "Вырезанная Тыква",
+  "sb3.rei_groups.chippedblocks.clay.name": "Глина",
+  "sb3.rei_groups.chippedblocks.coal_block.name": "Угольный Блок",
+  "sb3.rei_groups.chippedblocks.cobblestone.name": "Булыжник",
+  "sb3.rei_groups.chippedblocks.crying_obsidian.name": "Плачущий Обсидиан",
+  "sb3.rei_groups.chippedblocks.dark_prismarine.name": "Тёмный Призмарин",
+  "sb3.rei_groups.chippedblocks.deepslate.name": "Глубинный Сланец",
+  "sb3.rei_groups.chippedblocks.diamond_block.name": "Алмазный Блок",
+  "sb3.rei_groups.chippedblocks.diorite.name": "Диорит",
+  "sb3.rei_groups.chippedblocks.dirt.name": "Земля",
+  "sb3.rei_groups.chippedblocks.dried_kelp_block.name": "Блок Сушёной Ламинарии",
+  "sb3.rei_groups.chippedblocks.dripstone_block.name": "Натёчный Камень",
+  "sb3.rei_groups.chippedblocks.emerald_block.name": "Изумрудный Блок",
+  "sb3.rei_groups.chippedblocks.end_stone.name": "Эндерняк",
+  "sb3.rei_groups.chippedblocks.gilded_blackstone.name": "Золочёный Чернит",
+  "sb3.rei_groups.chippedblocks.glowstone.name": "Светокамень",
+  "sb3.rei_groups.chippedblocks.gold_block.name": "Золотой Блок",
+  "sb3.rei_groups.chippedblocks.granite.name": "Гранит",
+  "sb3.rei_groups.chippedblocks.gravel.name": "Гравий",
+  "sb3.rei_groups.chippedblocks.hay_block.name": "Сноп Сен",
+  "sb3.rei_groups.chippedblocks.ice.name": "Лёд",
+  "sb3.rei_groups.chippedblocks.iron_bars.name": "Железные Прутья",
+  "sb3.rei_groups.chippedblocks.iron_block.name": "Железный Блок",
+  "sb3.rei_groups.chippedblocks.jack_o_lantern.name": "Светильник Джек",
+  "sb3.rei_groups.chippedblocks.ladder.name": "Лестница",
+  "sb3.rei_groups.chippedblocks.lapis_block.name": "Лазуритовый Блок",
+  "sb3.rei_groups.chippedblocks.lodestone.name": "Магнетит",
+  "sb3.rei_groups.chippedblocks.magma_block.name": "Магма",
+  "sb3.rei_groups.chippedblocks.melon.name": "Арбуз",
+  "sb3.rei_groups.chippedblocks.moss_block.name": "Блок Мха",
+  "sb3.rei_groups.chippedblocks.mossy_cobblestone.name": "Замшелый Булыжник",
+  "sb3.rei_groups.chippedblocks.mushroom_stem.name": "Ножка Гриба",
+  "sb3.rei_groups.chippedblocks.nether_bricks.name": "Незеритовые Кирпичи",
+  "sb3.rei_groups.chippedblocks.nether_wart_block.name": "Блок Нароста из Незера",
+  "sb3.rei_groups.chippedblocks.netherrack.name": "Незерит",
+  "sb3.rei_groups.chippedblocks.obsidian.name": "Обсидиан",
+  "sb3.rei_groups.chippedblocks.packed_ice.name": "Плотный Лёд",
+  "sb3.rei_groups.chippedblocks.prismarine.name": "Призмарин",
+  "sb3.rei_groups.chippedblocks.pumpkin.name": "Тыква",
+  "sb3.rei_groups.chippedblocks.purpur_block.name": "Пурпур",
+  "sb3.rei_groups.chippedblocks.quartz_block.name": "Кварцевый Блок",
+  "sb3.rei_groups.chippedblocks.raw_copper_block.name": "Блок Рудной Меди",
+  "sb3.rei_groups.chippedblocks.raw_gold_block.name": "Блок Рудного Золота",
+  "sb3.rei_groups.chippedblocks.raw_iron_block.name": "Блок Рудного Железа",
+  "sb3.rei_groups.chippedblocks.red_mushroom_block.name": "Блок Красного Гриба",
+  "sb3.rei_groups.chippedblocks.red_nether_bricks.name": "Красные Незеритовые Кирпичи",
+  "sb3.rei_groups.chippedblocks.red_sandstone.name": "Красный Песчаник",
+  "sb3.rei_groups.chippedblocks.redstone_block.name": "Редстоуновый Блок",
+  "sb3.rei_groups.chippedblocks.redstone_lamp.name": "Редстоуновый Фонарь",
+  "sb3.rei_groups.chippedblocks.sand.name": "Песок",
+  "sb3.rei_groups.chippedblocks.sandstone.name": "Песчаник",
+  "sb3.rei_groups.chippedblocks.sea_lantern.name": "Морской Фонарь",
+  "sb3.rei_groups.chippedblocks.shroomlight.name": "Грибосвет",
+  "sb3.rei_groups.chippedblocks.smooth_stone.name": "Гладкий Камень",
+  "sb3.rei_groups.chippedblocks.snow_block.name": "Блок Снега",
+  "sb3.rei_groups.chippedblocks.soul_sand.name": "Песок Душ",
+  "sb3.rei_groups.chippedblocks.sponge.name": "Губка",
+  "sb3.rei_groups.chippedblocks.stone.name": "Камень",
+  "sb3.rei_groups.chippedblocks.tuff.name": "Туф",
+  "sb3.rei_groups.chippedblocks.warped_wart_block.name": "Блок Искажённого Нароста",
+  "sb3.rei_groups.chippedblocks.waxed_copper_block.name": "Вощёный Медный Блок",
+  "sb3.rei_groups.chippedblocks.waxed_oxidized_copper.name": "Вощёный Окисленный Медный Блок",
+  "sb3.rei_groups.chippedblocks.waxed_exposed_copper.name": "Вощёный Потемневший Медный Блок",
+  "sb3.rei_groups.chippedblocks.waxed_weathered_copper.name": "Вощёный Состаренный Медный Блок",
+  "sb3.rei_groups.chippedblocks.glass.name": "Стекло",
+  "sb3.rei_groups.chippedblocks.glass_pane.name": "Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.white_stained_glass.name": "Белое Стекло",
+  "sb3.rei_groups.chippedblocks.white_stained_glass_pane.name": "Белая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.orange_stained_glass.name": "Оранжевое Стекло",
+  "sb3.rei_groups.chippedblocks.orange_stained_glass_pane.name": "Оранжевая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.magenta_stained_glass.name": "Пурпурное Стекло",
+  "sb3.rei_groups.chippedblocks.magenta_stained_glass_pane.name": "Пурпурная Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.light_blue_stained_glass.name": "Светло-синее Стекло",
+  "sb3.rei_groups.chippedblocks.light_blue_stained_glass_pane.name": "Светло-синяя Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.yellow_stained_glass.name": "Жёлтое Стекло",
+  "sb3.rei_groups.chippedblocks.yellow_stained_glass_pane.name": "Жёлтая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.lime_stained_glass.name": "Лаймовое Стекло",
+  "sb3.rei_groups.chippedblocks.lime_stained_glass_pane.name": "Лаймовая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.pink_stained_glass.name": "Розовое Стекло",
+  "sb3.rei_groups.chippedblocks.pink_stained_glass_pane.name": "Розовая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.gray_stained_glass.name": "Серое Стекло",
+  "sb3.rei_groups.chippedblocks.gray_stained_glass_pane.name": "Серая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.light_gray_stained_glass.name": "Светло-серое Стекло",
+  "sb3.rei_groups.chippedblocks.light_gray_stained_glass_pane.name": "Светло-серая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.cyan_stained_glass.name": "Голубое Стекло",
+  "sb3.rei_groups.chippedblocks.cyan_stained_glass_pane.name": "Голубая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.purple_stained_glass.name": "Фиолетовое Стекло",
+  "sb3.rei_groups.chippedblocks.purple_stained_glass_pane.name": "Фиолетовая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.blue_stained_glass.name": "Синее Стекло",
+  "sb3.rei_groups.chippedblocks.blue_stained_glass_pane.name": "Синяя Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.brown_stained_glass.name": "Коричневое Стекло",
+  "sb3.rei_groups.chippedblocks.brown_stained_glass_pane.name": "Коричневая Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.green_stained_glass.name": "Зелёное Стекло",
+  "sb3.rei_groups.chippedblocks.green_stained_glass_pane.name": "Зелёная Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.red_stained_glass.name": "Красное Стекло",
+  "sb3.rei_groups.chippedblocks.red_stained_glass_pane.name": "Красная Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.black_stained_glass.name": "Чёрное Стекло",
+  "sb3.rei_groups.chippedblocks.black_stained_glass_pane.name": "Чёрная Стеклянная Панель",
+  "sb3.rei_groups.chippedblocks.acacia_planks.name": "Акациевые Доски",
+  "sb3.rei_groups.chippedblocks.birch_planks.name": "Берёзовые Доски",
+  "sb3.rei_groups.chippedblocks.crimson_planks.name": "Багровые Доски",
+  "sb3.rei_groups.chippedblocks.dark_oak_planks.name": "Доски из Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.jungle_planks.name": "Доспи из Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.oak_planks.name": "Дубовые Доски",
+  "sb3.rei_groups.chippedblocks.spruce_planks.name": "Еловые Доски",
+  "sb3.rei_groups.chippedblocks.warped_planks.name": "Искажённый Доски",
+  "sb3.rei_groups.chippedblocks.acacia_log.name": "Акациевое Бревно",
+  "sb3.rei_groups.chippedblocks.birch_log.name": "Берёзовое Бревно",
+  "sb3.rei_groups.chippedblocks.crimson_stem.name": "Багровый Стебель",
+  "sb3.rei_groups.chippedblocks.dark_oak_log.name": "Бревно Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.jungle_log.name": "Бревно Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.oak_log.name": "Дубовое Бревно",
+  "sb3.rei_groups.chippedblocks.spruce_log.name": "Еловое Бревно",
+  "sb3.rei_groups.chippedblocks.warped_stem.name": "Искажённый Стебель",
+  "sb3.rei_groups.chippedblocks.stripped_acacia_log.name": "Обтёсанное Бревно Акации",
+  "sb3.rei_groups.chippedblocks.stripped_birch_log.name": "Обтёсанное Берёзовое Бревно",
+  "sb3.rei_groups.chippedblocks.stripped_crimson_stem.name": "Обтёсанный Багровый Стебель",
+  "sb3.rei_groups.chippedblocks.stripped_dark_oak_log.name": "Обтёсанное Бревного Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.stripped_jungle_log.name": "Обтёсанное Бревно Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.stripped_oak_log.name": "Обтёсанное Дубовое Бревно",
+  "sb3.rei_groups.chippedblocks.stripped_spruce_log.name": "Обтёсанное Еловое Бревно",
+  "sb3.rei_groups.chippedblocks.stripped_warped_stem.name": "Обтёсанный Искажённый Стебель",
+  "sb3.rei_groups.chippedblocks.acacia_leaves.name": "Листья Акации",
+  "sb3.rei_groups.chippedblocks.birch_leaves.name": "Берёзовые Листья",
+  "sb3.rei_groups.chippedblocks.dark_oak_leaves.name": "Листья Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.jungle_leaves.name": "Листья Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.oak_leaves.name": "Дубовые Листья",
+  "sb3.rei_groups.chippedblocks.spruce_leaves.name": "Еловые Листья",
+  "sb3.rei_groups.chippedblocks.white_terracotta.name": "Белая Керамика",
+  "sb3.rei_groups.chippedblocks.orange_terracotta.name": "Оранжевая Керамика",
+  "sb3.rei_groups.chippedblocks.magenta_terracotta.name": "Пурпурная Керамика",
+  "sb3.rei_groups.chippedblocks.light_blue_terracotta.name": "Светло-синяя Керамика",
+  "sb3.rei_groups.chippedblocks.yellow_terracotta.name": "Жёлтая Керамика",
+  "sb3.rei_groups.chippedblocks.lime_terracotta.name": "Лаймовая Керамика",
+  "sb3.rei_groups.chippedblocks.pink_terracotta.name": "Розовая Керамика",
+  "sb3.rei_groups.chippedblocks.gray_terracotta.name": "Серая Керамика",
+  "sb3.rei_groups.chippedblocks.light_gray_terracotta.name": "Светло-серая Керамика",
+  "sb3.rei_groups.chippedblocks.cyan_terracotta.name": "Голубая Керамика",
+  "sb3.rei_groups.chippedblocks.purple_terracotta.name": "Фиолетовая Керамика",
+  "sb3.rei_groups.chippedblocks.blue_terracotta.name": "Синяя Керамика",
+  "sb3.rei_groups.chippedblocks.brown_terracotta.name": "Коричневая Керамика",
+  "sb3.rei_groups.chippedblocks.green_terracotta.name": "Зелёная Керамика",
+  "sb3.rei_groups.chippedblocks.red_terracotta.name": "Красная Керамика",
+  "sb3.rei_groups.chippedblocks.black_terracotta.name": "Чёрная Керамика",
+  "sb3.rei_groups.chippedblocks.white_glazed_terracotta.name": "Белая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.orange_glazed_terracotta.name": "Оранжевая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.magenta_glazed_terracotta.name": "Пурпурная Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.light_blue_glazed_terracotta.name": "Светло-синяя Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.yellow_glazed_terracotta.name": "Жёлтая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.lime_glazed_terracotta.name": "Лаймовая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.pink_glazed_terracotta.name": "Розовая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.gray_glazed_terracotta.name": "Серая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.light_gray_glazed_terracotta.name": "Светло-серая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.cyan_glazed_terracotta.name": "Голубая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.purple_glazed_terracotta.name": "Фиолетовая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.blue_glazed_terracotta.name": "Синяя Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.brown_glazed_terracotta.name": "Коричневая Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.green_glazed_terracotta.name": "Зелёная Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.red_glazed_terracotta.name": "Красная Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.black_glazed_terracotta.name": "Чёрная Глазурованная Керамика",
+  "sb3.rei_groups.chippedblocks.white_concrete.name": "Белый Бетон",
+  "sb3.rei_groups.chippedblocks.black_concrete.name": "Чёрный Бетон",
+  "sb3.rei_groups.chippedblocks.blue_concrete.name": "Синий Бетон",
+  "sb3.rei_groups.chippedblocks.brown_concrete.name": "Коричневый Бетон",
+  "sb3.rei_groups.chippedblocks.cyan_concrete.name": "Голубой Бетон",
+  "sb3.rei_groups.chippedblocks.gray_concrete.name": "Серый Бетон",
+  "sb3.rei_groups.chippedblocks.green_concrete.name": "Зелёный Бетон",
+  "sb3.rei_groups.chippedblocks.light_blue_concrete.name": "Светло-синий Бетон",
+  "sb3.rei_groups.chippedblocks.light_gray_concrete.name": "Светло-серый Бетон",
+  "sb3.rei_groups.chippedblocks.lime_concrete.name": "Лаймовый Бетон",
+  "sb3.rei_groups.chippedblocks.magenta_concrete.name": "Пурпурный Бетон",
+  "sb3.rei_groups.chippedblocks.orange_concrete.name": "Оранжевый Бетон",
+  "sb3.rei_groups.chippedblocks.pink_concrete.name": "Розовый Бетон",
+  "sb3.rei_groups.chippedblocks.purple_concrete.name": "Фиолетовый Бетон",
+  "sb3.rei_groups.chippedblocks.red_concrete.name": "Красный Бетон",
+  "sb3.rei_groups.chippedblocks.yellow_concrete.name": "Жёлтый Бетон",
+  "sb3.rei_groups.chippedblocks.white_wool.name": "Белая Шерсть",
+  "sb3.rei_groups.chippedblocks.white_carpet.name": "Белый Ковёр",
+  "sb3.rei_groups.chippedblocks.orange_wool.name": "Оранжевый Шерсть",
+  "sb3.rei_groups.chippedblocks.orange_carpet.name": "Оранженый Ковёр",
+  "sb3.rei_groups.chippedblocks.magenta_wool.name": "Пурпурная Шерсть",
+  "sb3.rei_groups.chippedblocks.magenta_carpet.name": "Пурпурный Ковёр",
+  "sb3.rei_groups.chippedblocks.light_blue_wool.name": "Светло-синяя Шерсть",
+  "sb3.rei_groups.chippedblocks.light_blue_carpet.name": "Светло-синий Ковёр",
+  "sb3.rei_groups.chippedblocks.yellow_wool.name": "Жёлтая Шерсть",
+  "sb3.rei_groups.chippedblocks.yellow_carpet.name": "Жёлтый Ковёр",
+  "sb3.rei_groups.chippedblocks.lime_wool.name": "Лаймовая Шерсть",
+  "sb3.rei_groups.chippedblocks.lime_carpet.name": "Лаймовый Ковёр",
+  "sb3.rei_groups.chippedblocks.pink_wool.name": "Розовая Шерсть",
+  "sb3.rei_groups.chippedblocks.pink_carpet.name": "Розовый Ковёр",
+  "sb3.rei_groups.chippedblocks.gray_wool.name": "Серая Шерсть",
+  "sb3.rei_groups.chippedblocks.gray_carpet.name": "Серый Ковёр",
+  "sb3.rei_groups.chippedblocks.light_gray_wool.name": "Светло-серая Шерсть",
+  "sb3.rei_groups.chippedblocks.light_gray_carpet.name": "Светло-серый Ковёр",
+  "sb3.rei_groups.chippedblocks.cyan_wool.name": "Голубая Шерсть",
+  "sb3.rei_groups.chippedblocks.cyan_carpet.name": "Голубой Ковёр",
+  "sb3.rei_groups.chippedblocks.purple_wool.name": "Фиолетовая Шерсть",
+  "sb3.rei_groups.chippedblocks.purple_carpet.name": "Фиолетовый Ковёр",
+  "sb3.rei_groups.chippedblocks.blue_carpet.name": "Синий Ковёр",
+  "sb3.rei_groups.chippedblocks.brown_wool.name": "Синяя Шерсть",
+  "sb3.rei_groups.chippedblocks.brown_carpet.name": "Коричневый Ковёр",
+  "sb3.rei_groups.chippedblocks.green_wool.name": "Зелёная Шерсть",
+  "sb3.rei_groups.chippedblocks.green_carpet.name": "Зелёный Ковёр",
+  "sb3.rei_groups.chippedblocks.red_wool.name": "Красная Шерсть",
+  "sb3.rei_groups.chippedblocks.red_carpet.name": "Красный Ковёр",
+  "sb3.rei_groups.chippedblocks.black_wool.name": "Чёрная Шерсть",
+  "sb3.rei_groups.chippedblocks.black_carpet.name": "Чёрный Ковёр",
+  "sb3.rei_groups.chippedblocks.acacia_door.name": "Акациевая Дверь",
+  "sb3.rei_groups.chippedblocks.dark_oak_door.name": "Дверь из Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.birch_door.name": "Берёзовая Дверь",
+  "sb3.rei_groups.chippedblocks.jungle_door.name": "Дверь из Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.oak_door.name": "Дубовая Дверь",
+  "sb3.rei_groups.chippedblocks.spruce_door.name": "Еловая Дверь",
+  "sb3.rei_groups.chippedblocks.crimson_door.name": "Багровая Дверь",
+  "sb3.rei_groups.chippedblocks.warped_door.name": "Искажённая Дверь",
+  "sb3.rei_groups.chippedblocks.acacia_trapdoor.name": "Акациевый Люк",
+  "sb3.rei_groups.chippedblocks.dark_oak_trapdoor.name": "Люк из Тёмного Дуба",
+  "sb3.rei_groups.chippedblocks.birch_trapdoor.name": "Берёзовый Люк",
+  "sb3.rei_groups.chippedblocks.jungle_trapdoor.name": "Люк из Тропического Дерева",
+  "sb3.rei_groups.chippedblocks.oak_trapdoor.name": "Дубовый Люк",
+  "sb3.rei_groups.chippedblocks.spruce_trapdoor.name": "Еловый Люк",
+  "sb3.rei_groups.chippedblocks.crimson_trapdoor.name": "Багровый Люк",
+  "sb3.rei_groups.chippedblocks.warped_trapdoor.name": "Искажённый Люк",
+  "sb3.rei_groups.chippedblocks.brown_mushroom.name": "Коричневый Гриб",
+  "sb3.rei_groups.chippedblocks.cobweb.name": "Паутина",
+  "sb3.rei_groups.chippedblocks.crimson_fungus.name": "Багровый Гриб",
+  "sb3.rei_groups.chippedblocks.pointed_dripstone.name": "Капельник",
+  "sb3.rei_groups.chippedblocks.lily_pad.name": "Кувшинка",
+  "sb3.rei_groups.chippedblocks.nether_sprouts.name": "Незеритовые Ростки",
+  "sb3.rei_groups.chippedblocks.red_mushroom.name": "Красный Гриб",
+  "sb3.rei_groups.chippedblocks.vine.name": "Лианы",
+  "sb3.rei_groups.chippedblocks.warped_fungus.name": "Искажённый Гриб",
+  "sb3.rei_groups.chippedblocks.torch.name": "Факел",
+  "sb3.rei_groups.chippedblocks.lantern.name": "Фонарь",
+  "sb3.rei_groups.chippedblocks.soul_lantern.name": "Фонарь Душ",
+  "sb3.rei_groups.chippedblocks.special_lantern.name": "Особенный Фонарь",
+  "sb3.rei_groups.chippedblocks.special_soul_lantern.name": "Особенный Фонарь Душ",
+  "sb3.rei_groups.chippedblocks.mossy_stone_bricks.name": "Замшелые Каменные Кирпичи",
+  "sb3.rei_groups.chippedblocks.netherite_block.name": "Незеритовый Блок",
+  "sb3.rei_groups.chippedblocks.blue_wool.name": "Синяя Шерсть",
+  "sb3.rei_groups.chippedblocks.crimson_roots.name": "Багровые Корни",
+  "sb3.rei_groups.chippedblocks.warped_roots.name": "Искажённые Корни",
+  "sb3.rei_groups.chippedblocks.redstone_torch.name": "Редстоун Факел",
+  "sb3.rei_groups.chippedblocks.terracotta.name": "Керамика",
+	
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.25": "XXV",
+  "sdrp.sbd.in": "In StoneBlock Dimension",
+  "sdrp.sbd": "StoneBlock Dimension",
+  "ftbquests.task.ftbquests.checkmark": "Нажми меня!",
+
+  "sb3.tips.1": "Пчёлка добычи ваш друг. Не убивайте её, но соберите добычу перед тем, как она пропадёт!",
+  "sb3.tips.2": "Multiminer требует наличия инструмента в вашей руке и не может быть использован на камне.",
+  "sb3.tips.3": "Картонные коробки можно использовать для сбора спавнеров!",
+  "sb3.tips.4": "Большинству культур для выращивания требуется уровень освещенности 8 или выше; некоторым требуется еще выше.",
+  "sb3.tips.5": "Держите клавишу 'W' когда наведены на предмет мода Create чтобы открыть окно размышления, оно покажет вам много информации о нём.",
+  "sb3.tips.6": "Ответы на большинство ваших вопросов могут быть где-то в книге квестов!",
+  "sb3.tips.7": "Нажмите Y, чтобы найти предметы в ближайших сундуках.",
+  "sb3.tips.8": "Кубы удачи. являются злом. Открывайте их ПОДАЛЬШЕ от своей базы, если осмелитесь...",
+  "sb3.tips.9": "Пассивным мобам требуется трава, высокий уровень освещенности, условие что поблизости нет других пассивных мобов, также игрок должен находиться в 24 блоках от них.",
+  "sb3.tips.10": "Используя крюк на любом типе земли, песка и листьев, вы получите предметы.",
+  "sb3.tips.11": "Используйте костную муку на дёрне и сломайте траву для получения семян конопли.",
+
+  "entity.chickens.bronze_chicken": "Бронзовая курица",
+  "entity.chickens.lead_chicken": "Свинцовая Курица",
+  "entity.chickens.lumium_chicken": "Люмиевая Курица",
+  "entity.chickens.brass_chicken": "Латунная Курица",
+  "entity.chickens.zinc_chicken": "Цинковая Курица",
+  "entity.chickens.pigiron_chicken": "Курица Свинного Железа",
+  "entity.chickens.constantan_chicken": "Константановая Курица",
+  "entity.chickens.nickel_chicken": "Никелевая Курица",
+  "entity.chickens.terrasteel_chicken": "Террасталь Курица",
+  "entity.chickens.uranium_chicken": "Урановая Курица",
+  "entity.chickens.netherite_chicken": "Незеритовая Курица",
+  "entity.chickens.copper_chicken": "Медная Курица",
+  "entity.chickens.electrum_chicken": "Электрумовая Курица",
+  "entity.chickens.tin_chicken": "Оловянная Курица",
+  "entity.chickens.aluminum_chicken": "Алюминиевая Курица",
+  "entity.chickens.osmium_chicken": "Осмиевая Курица",
+  "entity.chickens.manyullyn_chicken": "Маньюлиновая Курица",
+  "entity.chickens.signalum_chicken": "Сигналовая Курица",
+  "entity.chickens.cobalt_chicken": "Кобальтовая Курица",
+  "entity.chickens.silver_chicken": "Серебряная Курица",
+  "entity.chickens.steel_chicken": "Стальная Курица",
+  "entity.chickens.elementium_chicken": "Элементиевая Курица",
+  "entity.chickens.manasteel_chicken": "Манасталь Курица",
+  "entity.chickens.enderium_chicken": "Эндериумная Курица",
+
+  "sb3.welcome.title": "Добро пожаловать",
+
+  "sb3.welcome.welcome.title": "Добро пожаловать в &5FTB StoneBlock 3&r!",
+  "sb3.welcome.welcome.subtitle": "Вступление и информация",
+  "sb3.welcome.welcome.reward": "Еще главы квестов!",
+  "sb3.welcome.welcome.description_1": "В этой сборке вы расположены в &bполностью подземном мире&r, без поверхности.",
+  "sb3.welcome.welcome.description_2": "По мере того, как вы будете &6передвигаться дальше от своей точки возрождения&r, вы будете натыкаться на подземелья, пещеры и, в конечном счете, на кольцо Ада и Энда.",
+  "sb3.welcome.welcome.description_3": "У каждого игрока есть своё собственное измерение, появляющееся на &60,0&r, и имеющее собственные кольца.",
+  "sb3.welcome.welcome.description_4": "Вы можете телепортироваться к другому игроку, использую команду &6/tpa&r.",
+
+  "sb3.welcome.servers.title": "Начало",
+  "sb3.welcome.servers.subtitle": "Как на самом деле начать",
+  "sb3.welcome.servers.desc1": "Мировая/серверная точка возрождения находится в лобби. Все появляются здесь, но вам не следует &oоставаться&r здесь.",
+  "sb3.welcome.servers.desc2": "Чтобы &6создать своё измерение&r, пройдите через портал в центре. Там вы можете выбрать стартовую пещеру вашего измерения. Это также создаёт &eFTB Teams&r группу.",
+  "sb3.welcome.servers.desc3": "Присоединение к группе другого игрока отправит вас в их измерение!",
+  "sb3.welcome.servers.desc4": "Как только вы окажетесь в группе, вы можете использовать команду &6/ftbstoneblock home&r чтобы телепортироваться в своё измерение.",
+  "sb3.welcome.servers.desc5": "You can use the command &6/ftbstoneblock lobby&r to teleport to the lobby.",
+
+  "sb3.welcome.events.title": "События",
+  "sb3.welcome.events.subtitle": "Иногда вещи просто случаются",
+  "sb3.welcome.events.desc1": "В вашем путешествии по StoneBlock 3 вы время от времени будете сталкиваться со случайным &6специальными событиями&r происходящих с вами.",
+  "sb3.welcome.events.desc2": "Мы не хотим портить их сразу, но они могут варьироваться от того, чтобы дарить вам &eшикарную добычу&r, до того, чтобы быть просто &eзабавными&r или &eужасно раздражающими&r шутками (В зависимости от того, кого вы спросите).",
+  "sb3.welcome.events.desc3": "Если вы хотите отключить отдельные события, или просмотреть список всех из них, вы можете с помощью команды &6/events toggle &e<название события>&r.",
+
+  "sb3.getting_started.title": "Начинаем!",
+
+  "sb3.getting_started.stonepebbles.title": "Камень и палка!",
+  "sb3.getting_started.stonepebbles.subtitle": "Сломайте немного Камня голыми руками",
+  "sb3.getting_started.stonepebbles.task": "Соберите каменную гальку",
+  "sb3.getting_started.stonepebbles.reward": "Каменная Галька",
+  "sb3.getting_started.stonepebbles.description_1": "Один в пещере, где нет ничего, кроме камней, что может быть лучше, чем бить по ним кулаками?",
+  "sb3.getting_started.stonepebbles.description_2": "Добыча Камня кулаками приводит к выпадению &bКаменной Гальки&r, которая используется для &6крафта Булыжника&r.",
+  "sb3.getting_started.stonepebbles.description_3": "Можно употреблять в пищу, если по какой-либо причине вам этого захочется.",
+
+  "sb3.getting_started.craftingtable.title": "Верстак",
+  "sb3.getting_started.craftingtable.subtitle": "Сделайте верстак",
+  "sb3.getting_started.craftingtable.description_1": "Без дерева обходитесь камнем!",
+  "sb3.getting_started.craftingtable.description_2": "Четыре Булыжника могут быть использованы для крафта &bВерстака&r.",
+
+  "sb3.getting_started.hammer.title": "Молот вниз!",
+  "sb3.getting_started.hammer.subtitle": "Сделайте Каменный Молот",
+  "sb3.getting_started.hammer.task": "Молоты",
+  "sb3.getting_started.hammer.description_1": "&bКаменный Молот&r дробит вскопанные блоки, с выпадением более дробленного блока.",
+  "sb3.getting_started.hammer.description_2": "Вы можете посмотреть выпадение в &eREI&r проверя его использование в рецептах.",
+
+  "sb3.getting_started.chest.title": "Сундук",
+  "sb3.getting_started.chest.subtitle": "Сделайте Каменный Сундук",
+  "sb3.getting_started.chest.task": "Каменные Сундуки",
+  "sb3.getting_started.chest.description_1": "Мод &eStone Chest&r добавляет &bКаменные Сундуки&r. Абсолютно завораживающе.",
+  "sb3.getting_started.chest.description_2": "Все Каменные Сундуки работают так же, как и обычные Сундуки.",
+
+  "sb3.getting_started.saplings.title": "Саженцы",
+  "sb3.getting_started.saplings.subtitle": "Получите саженец",
+  "sb3.getting_started.saplings.task": "Саженцы",
+  "sb3.getting_started.saplings.description_1": "Вы можете получить &bСаженцы&r &6вскапав землю Крюком&r.",
+
+  "sb3.getting_started.wood.title": "Дерево!",
+  "sb3.getting_started.wood.subtitle": "Вырастите и срубите дерево",
+  "sb3.getting_started.wood.task": "Брёвна",
+  "sb3.getting_started.wood.description_1": "Убедитесь, что у вас достаточно места для роста дерева!",
+  "sb3.getting_started.wood.description_2": "Вы можете заставить саженец расти быстрее &6бегая, прыгая, и крадясь&r возле него!",
+
+  "sb3.getting_started.ticon.title": "Инструменты из Tinkers",
+  "sb3.getting_started.ticon.subtitle": "Сделайте базовый Tinker столы",
+  "sb3.getting_started.ticon.desc": "&bЛитейная станция&r может изготавливать базовые модульные инструменты, используя детали, изготовленные в &bФормирователе частей&r.",
+
+  "sb3.getting_started.melter.title": "Плавильная печь",
+  "sb3.getting_started.melter.subtitle": "Сделайте плавильную печь",
+  "sb3.getting_started.melter.desc1": "&bПлавильная печь&r это мультиблок, который позволяет вам &6плавить металлы в жидкости&r.",
+  "sb3.getting_started.melter.desc2": "Поместите &bОбожженный нагреватель&r, заправьте его твердым топливом, затем поставьте сверху &bОбожённую плавильную печь&r.",
+
+  "sb3.getting_started.casting.title": "Литейные формы",
+  "sb3.getting_started.casting.subtitle": "Отлейте что-нибудь",
+  "sb3.getting_started.casting.desc1": "Чтобы превратить расплавленные металлы обратно в изделия, вам необходимо использовать &bКран для Литья&r и &bЛитейный Стол/Резервуар&r.",
+  "sb3.getting_started.casting.desc2": "Чтобы выбрать форму, которую примет металл (слиток, головка кирки и т.д.), вам нужно использовать &bЛитейную Форму&r. Песочные Литейные Формы &cуничтожаются после использования&r, в то время как Золотые Литейные Формы используются многократно.",
+  "sb3.getting_started.casting.desc3": "Чтобы сделать Песочную Литейную Форму, поместите Пустую Песочную Литейную Форму на Литейный Стол, затем щелкните по ней той деталью, из которой вы хотите сделать слепок.",
+  "sb3.getting_started.casting.desc4": "Кран может быть активирован щелчком мыши или сигналом редстоуна. По сути, он действует как труба, перемещая жидкость из блока позади него в блок ниже. При желании его можно заменить настоящей трубой.",
+  "sb3.getting_started.casting.task1": "Литейный Стол/Резервуар",
+  "sb3.getting_started.casting.task2": "Формы",
+
+  "sb3.getting_started.smeltery.title": "Плавильня",
+  "sb3.getting_started.smeltery.subtitle": "Сделайте Плавильню",
+  "sb3.getting_started.smeltery.desc1": "&bПлавильня&r это структура которая &6плавит металлы&r и &6комбинирует расплавленные металлы в сплавы&r.",
+  "sb3.getting_started.smeltery.desc2": "Его форма гораздо более свободная для изменения, чем у Плавильной Печи. Смотрите &6Тяжёлую Металлургию&r для получения руководства о том, как его построить.",
+  "sb3.getting_started.smeltery.desc3": "&6Некоторые расплавленные металлы смешиваются, образуя сплавы&r. Это происходит только в том случае, если у вас есть топливо, поэтому массивная Плавильня без топлива будет функционировать как безопасный резервуар для хранения расплавленных металлов.",
+  "sb3.getting_started.smeltery.desc4": "Чем больше обожженных блоков, из которых состоит Плавильня, тем больше расходуется топлива и тем больше предметов и жидкостей она может хранить.",
+  "sb3.getting_started.smeltery.desc8": "Руды (и необработанные руды), расплавленные в Плавильне, дают больше материала, чем в печи.",
+  "sb3.getting_started.smeltery.task1": "Обожженные резервуары",
+  "sb3.getting_started.smeltery.task2": "Обожженные блоки",
+
+  "sb3.getting_started.crook.title": "Wololo",
+  "sb3.getting_started.crook.subtitle": "Сделайте Крюк",
+  "sb3.getting_started.crook.description_1": "Добыча определенных блоков с помощью &bКрюка&r  приведет к выпадению из них таких предметов, как &6Саженцы и Семена&r.",
+  "sb3.getting_started.crook.description_2": "Вы можете посмотреть его дроп в &eREI&r проверив его использование в рецептах.",
+
+  "sb3.getting_started.seeds.title": "СЕМЕНА?",
+  "sb3.getting_started.seeds.subtitle": "Получите семена",
+  "sb3.getting_started.seeds.task": "Семена",
+  "sb3.getting_started.seeds.description_1": "Используя &6Крюк&r на земле может привести к выпадению &bлюбых семян из этих&r.",
+  "sb3.getting_started.seeds.description_2": "Вы можете увидеть шанс для каждого в &eREI&r.",
+
+  "sb3.getting_started.gravel.title": "Гравий",
+  "sb3.getting_started.gravel.subtitle": "Получите Гравий",
+  "sb3.getting_started.gravel.description_1": "&6Раздробите Камень&r чтобы получить &bГравий&r.",
+
+  "sb3.getting_started.dirt.title": "Земля",
+  "sb3.getting_started.dirt.subtitle": "Получите Землю",
+  "sb3.getting_started.dirt.description_1": "&6Раздробите Гравий&r чтобы получить &bЗемлю&r.",
+
+  "sb3.getting_started.sand.title": "Песок",
+  "sb3.getting_started.sand.subtitle": "Получите Песок",
+  "sb3.getting_started.sand.description_1": "&6Раздробите Землю&r чтобы получить &bПесок&r.",
+
+  "sb3.getting_started.dust.title": "Пыль",
+  "sb3.getting_started.dust.subtitle": "Получите Пыль",
+  "sb3.getting_started.dust.description_1": "&6Раздробите Песок&r чтобы получить &bПыль&r.",
+
+  "sb3.getting_started.millstone.title": "Сита? Никогда о них не слышал",
+  "sb3.getting_started.millstone.subtitle": "Сделайте Установку для Жёрнова",
+  "sb3.getting_started.millstone.description_1": "Вы можете получить базовые ресурсы, такие как железо, используя &bЖёрнов&r.Более продвинутые ресурсы будут доступны позже.",
+  "sb3.getting_started.millstone.description_2": "Как и всё в &eCreate&r моде, Жёрнов приводятся в действие силой вращения.",
+  "sb3.getting_started.millstone.description_3": "Аналогично, вы можете удерживать &6[w]&r при наведении курсора мыши на любой предмет Create, чтобы увидеть короткую анимацию, объясняющую, как это работает, включая способ его питания.",
+
+  "sb3.getting_started.millgravel.title": "Ресурсы",
+  "sb3.getting_started.millgravel.subtitle": "Просейте немного Гравия",
+  "sb3.getting_started.millgravel.task": "Продукты просеивания",
+  "sb3.getting_started.millgravel.description_1": "&6Просеивание Гравия&r имеет шанс произвести &bЖелезо&r, &bЦинк&r, and &bУголь&r.",
+
+  "sb3.getting_started.lava.title": "Лава",
+  "sb3.getting_started.lava.subtitle": "Получите Лаву",
+  "sb3.getting_started.lava.description_1": "Вы можете сделать &bЛаву&r импользуя &bПалки для розжига&r на Камне в течении некоторого времени",
+
+  "sb3.getting_started.water.title": "Вода",
+  "sb3.getting_started.water.subtitle": "Получите Воду",
+  "sb3.getting_started.water.description_1": "Вы можете получить &bВоду&r нажав правой кнопкой мыши на &bКотёл&r Листьями или Саженцами.",
+
+  "sb3.getting_started.dripper.title": "Ультра Капстинкт",
+  "sb3.getting_started.dripper.subtitle": "Сделайте Капельную Воронку",
+  "sb3.getting_started.dripper.desc1": "&bКапельная Воронка&r капает жидкостью на блок ниже, чтобы превратить его в другие блоки.",
+  "sb3.getting_started.dripper.desc2": "&6Смотрите REI чтобы узнать какие блоки она может преобразовать.",
+
+  "sb3.getting_started.cobble_gen1.subtitle": "Сделайте Генератор Булыжника 1 уровня",
+  "sb3.getting_started.cobble_gen1.desc": "&bГенератор Булыжника 1 уровня&r производит 1 булыжник каждые 2 секунды.",
+  "sb3.getting_started.cobble_gen1.desc2": "Булыжник автоматически перемещается хранилище сверху.",
+
+  "sb3.getting_started.cobble_gen2.subtitle": "Сделайте Генератор Булыжника 2 уровня",
+  "sb3.getting_started.cobble_gen2.desc": "&bГенератор Булыжника 2 уровня&r производит 1 булыжник каждую секунду.",
+
+  "sb3.getting_started.cobble_gen3.subtitle": "Сделайте Генератор Булыжника 3 уровня",
+  "sb3.getting_started.cobble_gen3.desc": "&bГенератор Булыжника 3 уровня&r производит 1 булыжник каждые 0.5 секунд.",
+
+  "sb3.getting_started.cobble_gen4.subtitle": "Сделайте Генератор Булыжника 4 уровня",
+  "sb3.getting_started.cobble_gen4.desc": "&bГенератор Булыжника 4 уровня&r производит 1 булыжник каждые 0.25 секунд.",
+
+  "sb3.getting_started.cobble_gen5.subtitle": "Сделайте Генератор Булыжника 5 уровня",
+  "sb3.getting_started.cobble_gen5.desc": "&bГенератор Булыжника 5 уровня&r производит 1 булыжник каждые 0.05 секунд.",
+
+  "sb3.getting_started.soulsand.subtitle": "Получить Песок Душ",
+  "sb3.getting_started.soulsand.desc1": "Вы можете получить &bПесок душ&r совместив Песок, Душу Моба, и немного Воды в &6Смешивателе&r.",
+  "sb3.getting_started.soulsand.decs2": "После, вы можете сделать ещё &6Призрачным Наполнение&r на Вентиляторе.",
+
+  "sb3.getting_started.mobsoul.subtitle": "Получите Душу Моба",
+  "sb3.getting_started.mobsoul.desc": "&bДуша Моба&r имеет 20% шанс выпадения из моба.",
+
+  "sb3.getting_started.encased_fan.title": "Вымойте руки",
+  "sb3.getting_started.encased_fan.subtitle": "Сделайте Вентилятор в корпусе",
+  "sb3.getting_started.encased_fan.desc1": "&bВентилятор в Корпусе&r использует вращательную силу для создания воздушного потока.",
+  "sb3.getting_started.encased_fan.desc2": "Если воздушный поток проходит через определенные блоки (например, воду и лаву), воздушный поток можно использовать в качестве механики крафта.",
+  "sb3.getting_started.encased_fan.desc3": "В частности, вода будет &6промывать предметы&r, создавая другие. Лава будет &6жарить предметы&r, готовя их, как в Печи.",
+
+  "sb3.getting_started.washing.title": "Промывка",
+  "sb3.getting_started.washing.subtitle": "Промойте ваши ресурсы",
+  "sb3.getting_started.washing.task1": "Песок",
+  "sb3.getting_started.washing.task2": "Гравий",
+  "sb3.getting_started.washing.task3": "Другое",
+  "sb3.getting_started.washing.description_1": "Вы можете получить много ресурсов &bпромывая Гравий, Песок, Пыль, и Песок Душ&r.",
+
+  "sb3.getting_started.nosolic.subtitle": "Сделайте знак 'Посторонним вход воспрещён!'",
+  "sb3.getting_started.nosolic.desc": "&bзнак 'Посторонним вход воспрещён!'&r предотвращает появление поблизости странствующих торговцев.",
+
+  "sb3.getting_started.crushing_wheel.subtitle": "Сделайте Колесо дробления",
+  "sb3.getting_started.crushing_wheel.desc1": "Когда два &bКолеса Дробления&r вращаются друг на друга, они &6дробят то, что проходит в них&r.",
+  "sb3.getting_started.crushing_wheel.desc2": "Хотя это может быть использовано для переработки руд и тому подобного, это также способ сбора некоторых из них.",
+
+  "sb3.getting_started.crushing.title": "Дробление",
+  "sb3.getting_started.crushing.subtitle": "Раздробите немного Гравия",
+  "sb3.getting_started.crushing.desc": "&bДробление Гравия&r приводит к выпадению этих предметов.",
+  "sb3.getting_started.crushing.task": "Предметы Дробления",
+
+  "sb3.getting_started.andesite.subtitle": "Получите Андезит",
+  "sb3.getting_started.andesite.desc1": "Если вы будете копать достаточно далеко вверх или вниз, вы достигнете слоя &bАндезита&r. За ним находится &6Глубинный Сланец&r, а далее находится бедрок.",
+  "sb3.getting_started.andesite.desc2": "Нажмите здесь, чтобы увидеть больше информации",
+
+  "sb3.exploration.title": "Исследование",
+
+  "sb3.exploration.layers.title": "Каменные слои",
+  "sb3.exploration.layers.subtitle": "Исследуйте каменные слои",
+  "sb3.exploration.layers.task_1": "Посмотрите на камень",
+  "sb3.exploration.layers.task_2": "Посмотрите на Андезит",
+  "sb3.exploration.layers.task_3": "Посмотрите на Глубинный Сланец",
+  "sb3.exploration.layers.desc1": "Часть карты верхнего мира разделена на 5 слоёв, разделенных по y-уровням.",
+  "sb3.exploration.layers.desc2": "Центральный слой из &bКамня&r, &655 блоков высотой&r выше и ниже y0.",
+  "sb3.exploration.layers.desc3": "Выше и ниже него есть &620 блоков высотой&r, слой из &bАндезита&r.",
+  "sb3.exploration.layers.desc4": "Выше и ниже &oнего&r, есть &653 блоков высотой&r, слой из &bГлубинного сланца&r.",
+
+  "sb3.exploration.stone_dungeon.title": "Каменное Подземелье",
+  "sb3.exploration.stone_dungeon.subtitle": "Посетите Каменное Подземелье",
+  "sb3.exploration.stone_dungeon.desc": "&bКаменное Подземелье&r это массивное подземелье, которое можно найти во внешней половине Каменного круга.",
+
+  "sb3.exploration.spawner_dungeon.title": "Подземелье Спавнера",
+  "sb3.exploration.spawner_dungeon.subtitle": "Посетите Подземелье Спавнера",
+  "sb3.exploration.spawner_dungeon.desc": "&bПодземелье Спавнера&r это гораздо меньшее подземелье, состоящее из одной комнаты.",
+
+  "sb3.exploration.nether.title": "Ад",
+  "sb3.exploration.nether.subtitle": "Достигните Адского Кольца",
+  "sb3.exploration.nether.desc": "Начинается примерно в &61,000 блоков от спавна&r.",
+
+  "sb3.exploration.nether_dungeon.title": "Адские Подземелья",
+  "sb3.exploration.nether_dungeon.subtitle": "Посетите Адское Подземелье",
+  "sb3.exploration.nether_dungeon.desc": "&bАдское Подземелье&r это массивное подземелье, которое можно найти в кольце Адском кольце.",
+
+  "sb3.exploration.end.title": "Энд",
+  "sb3.exploration.end.subtitle": "Достигните Кольцо Энда",
+  "sb3.exploration.end.desc1": "Начинается примерно в &61,600 блоков от спавна&r.",
+  "sb3.exploration.end.desc2": "Продолжая ещё дальше, кольцо &6заканчивается примерно в 2,200 от спавна&r. Дальше него только бесконечный Камень, с уникальными подземельями, разбросанными вокруг.",
+
+  "sb3.exploration.end_city.title": "Город Энда",
+  "sb3.exploration.end_city.subtitle": "Посетите Город Энда",
+  "sb3.exploration.end_city.desc": "&bГорода Края&r могут быть найдены в кольце Энда",
+
+  "sb3.exploration.boss_dungeon.title": "Подземелье Босса",
+  "sb3.exploration.boss_dungeon.subtitle": "Посетите Подземелье Босса",
+  "sb3.exploration.boss_dungeon.desc1": "&bПодземелье Босса&r может быть найдено &6за Кольцом Энда&r.",
+  "sb3.exploration.boss_dungeon.desc2": "Внутри может быть найде &6Алтарь Призыва&r, который можно использовать для вызова босса сборки.",
+
+  "sb3.exploration.mother_silverfish.subtitle": "Призовите и убейте Мать Чешуйницу",
+  "sb3.exploration.mother_silverfish.desc1": "&bМать Чешуйница&r вызывается в Подземельях Босса, найденных за пределами кольца Энда. Призовите её на Алтаре Призыва и победите её!",
+  "sb3.exploration.mother_silverfish.desc2": "Будьте осторожны, так как Мать Чешуйница обладает несколькими особыми атаками и может вызывать &6несколько типов приспешников&r.",
+  "sb3.exploration.mother_silverfish.desc3": "Возможны призывы таких чешуйниц, как &6Лич&r, &6Ядовитая&r, и &6Вор&r Чешуйницы. Последняя особенно опасена, так что будьте осторожны!",
+
+  "sb3.exploration.silverfish_farm.title": "Фарм Сердец Чешуйницы",
+  "sb3.exploration.silverfish_farm.desc1": "Вы можете легко &6фармить бесконечные Сердца Чешууницы&r из Матери Чешуйницы, используя несколько модов в тандеме.",
+  "sb3.exploration.silverfish_farm.desc2": "&bТалисман Дрыгма&r использует Источник для &6сбора добычи с мобов, не убивая их&r. ",
+  "sb3.exploration.silverfish_farm.desc3": "Источник можно легко сделать, используя &6Вулканическое сочетание&r, работающий на угле из &6Куриц&r (или любого другого источника).",
+  "sb3.exploration.silverfish_farm.desc4": "Чтобы Мать Чешуйница оставалась неподвижной, вы можете разместить &bКамеру Стазиса&r &6прямо под Алтарём Призыва&r.",
+  "sb3.exploration.silverfish_farm.desc5": "Уголь также мог бы питать генератор, обеспечивая FE. Обязательно сделайте ограждение, чтобы &6держать Дрыгма вне рабочей зоны Стазис Камеры&r!",
+
+  "sb3.exploration.train.title": "Путешествие через мир!",
+  "sb3.exploration.train.subtitle": "Чух-чух",
+  "sb3.exploration.train.desc1": "Прокатитесь на поезде через все 5 биомов за один раз!",
+  "sb3.exploration.train.desc2": "Биомы:\n• Равнины\n• Пышные Пещеры\n• Пустоши Ада\n• Энд\n• Лес",
+
+  "sb3.resources.title": "Ресурсы",
+
+  "sb3.resources.mob_farming.title": "Mob Grinding Utils",
+
+  "sb3.resources.mob_farming.solidifier.title": "Хочешь желейного малыша?",
+  "sb3.resources.mob_farming.solidifier.subtitle": "Получите желейного малыша",
+  "sb3.resources.mob_farming.solidifier.description_1": "Отвердите опыт в маленьких мягких, съедобных малышей!",
+  "sb3.resources.mob_farming.solidifier.description_2": "&oЗаметка: Не воспроизводит IRL!",
+
+  "sb3.resources.mob_farming.spawner.title": "Спавн Мобов",
+  "sb3.resources.mob_farming.spawner.subtitle": "Создайте Спавнер Существ",
+  "sb3.resources.mob_farming.spawner.description_1": "&bСпавнер существ&r призывет существ. Достаточно просто.",
+  "sb3.resources.mob_farming.spawner.description_2": "Поместите яйцо призыва в верхний слот. Чтобы получить яйцо призыва, покормите курицу &bГМО кормом для куриц&r моба, которого вы хотите призвать.",
+  "sb3.resources.mob_farming.spawner.description_3": "Спавнер заправляется &6Желейными Малышами Опыта&r, которые помещаются в нижний слот.",
+  "sb3.resources.mob_farming.spawner.description_4": "Кнопки справа позволяют вам перемещать место где будут появляться мобы. Слоты в нижней части могут хранить &6Улучшения&r.",
+
+  "sb3.resources.mob_farming.masher.title": "Давилка Мобов",
+  "sb3.resources.mob_farming.masher.subtitle": "Получите Давилку Мобов",
+  "sb3.resources.mob_farming.masher.desc1": "Пришло время перемолоть всех этих мобов с помощью &bДавилки Мобов&r.",
+  "sb3.resources.mob_farming.masher.desc2": "Улучшения позволяют ему быстрее убивать более сильных мобов и получать больше добычи!",
+
+  "sb3.resources.mob_farming.hopper.subtitle": "Сделайте Всасывающую Воронку",
+  "sb3.resources.mob_farming.hopper.description_1": "Ваша ферма мобов в конечном итоге достигнет точки, когда она будет производить больше добычи, чем может собрать.",
+  "sb3.resources.mob_farming.hopper.description_2": "&bВсасывающая Воронка&r может &6собирать предметы и опыт&r в зоне.",
+
+  "sb3.resources.mob_farming.fan.title": "Унесенный ветром",
+  "sb3.resources.mob_farming.fan.subtitle": "Сделайте вентилятор для мобов",
+  "sb3.resources.mob_farming.fan.description_1": "&bВентиляторы для мобов&r будут &6толкать мобов&r прочь от них при подаче сингнала редстоуна.",
+  "sb3.resources.mob_farming.fan.description_2": "Эту область можно увидеть в графическом интерфейсе и увеличить с помощью улучшений.",
+
+  "sb3.resources.mob_farming.chicken_feed_1.title": "Абсолютно этичный",
+  "sb3.resources.mob_farming.chicken_feed_1.subtitle": "Сделайте Питательный Корм для Куриц",
+  "sb3.resources.mob_farming.chicken_feed_1.description": "Щелкните правой кнопкой мыши кормом по курице, но соберитесь с духом.",
+
+  "sb3.resources.mob_farming.golden_egg.title": "Золотой Гусь Продается отдельно",
+  "sb3.resources.mob_farming.golden_egg.subtitle": "Получите Золотое Яйцо",
+  "sb3.resources.mob_farming.golden_egg.description": "Используйте &bЗолотое яйцо&r на дёрне или земле чтобы получить участок &6Восхитительной Земли&r!",
+
+  "sb3.resources.mob_farming.chicken_feed_2.title": "Одобрено Минздравом",
+  "sb3.resources.mob_farming.chicken_feed_2.subtitle": "Сделайте Проклятый ГМО корм для куриц",
+  "sb3.resources.mob_farming.chicken_feed_2.description": "Накормите курицу, чтобы весело провести время.",
+
+  "sb3.resources.mob_farming.rotton_egg.title": "Безвкусный",
+  "sb3.resources.mob_farming.rotton_egg.subtitle": "Получите тухлое яйцо",
+  "sb3.resources.mob_farming.rotton_egg.description": "Используйте &bТухлое яйцо&r на дёрне или траве чтобы получить участок &6Кошмарной земли&r.",
+
+  "sb3.resources.mob_farming.dirt_1.title": "Пацифист",
+  "sb3.resources.mob_farming.dirt_1.subtitle": "Рассмотрите Восхитительную Землю",
+  "sb3.resources.mob_farming.dirt_1.description": "&bВосхитительная земля&r порождает большинство пассивных мобов, от куриц до коров, а также других дружественных мобов из модов.",
+
+  "sb3.resources.mob_farming.dirt_2.title": "Containment Breach!",
+  "sb3.resources.mob_farming.dirt_2.subtitle": "Рассмотрите Ужасную Землю",
+  "sb3.resources.mob_farming.dirt_2.description": "&bУжасная Земля&r порождает все, что происходит ночью.",
+
+  "sb3.resources.mob_farming.upgrades.title": "Улучшения",
+  "sb3.resources.mob_farming.upgrades.subtitle": "Сделайте Улучшение",
+  "sb3.resources.mob_farming.upgrades.desc": "Определенные &bУлучшения&r могут быть вставлены в Вентилятор, Спавнер, Давилку Мобов, Воронку и Отвердитель Опыта.",
+
+  "sb3.resources.mob_farming.xp.title": "Ограбление опыта",
+  "sb3.resources.mob_farming.xp.subtitle": "Пожертвуйте 100 уровней",
+  "sb3.resources.mob_farming.xp.description_1": "У меня совсем закончился опыт, дайте мне 100 уровней, и я дам вам награду.",
+  "sb3.resources.mob_farming.xp.description_2": "С вашей фермой мобов вы наверняка сможете одолжить немного!",
+
+  "sb3.resources.passive.title": "Пассивные ресурсы",
+
+  "sb3.passive.drill.subtitle": "Сделайте установку Лазерной Дрели",
+  "sb3.passive.drill.desc1": "&bЛазерная Основа&r и &bОснова Жидкостного Лазера&r используют FE для получения руд и жидкостей.",
+  "sb3.passive.drill.desc2": "Они не принимают FE сами по себе, они должны питаться от &bЛазерной Дрелей&r.",
+  "sb3.passive.drill.task": "Основы Лазера",
+
+  "sb3.chickens.catcher.title": "Ловец Куриц",
+  "sb3.chickens.catcher.subtitle": "Сделайте Ловец Куриц",
+  "sb3.chickens.catcher.desc": "&bЛовец Куриц&r может быть использован на Курицах, чтобы превратить их в предметы.",
+
+  "sb3.chickens.breeder.subtitle": "Сделайте Бридер",
+  "sb3.chickens.breeder.desc": "&bБридер&r позволяет автоматически разводить Куриц (в виде предметов) используя семяна.",
+
+  "sb3.chickens.roost.subtitle": "Сделайте Насест",
+  "sb3.chickens.roost.desc": "&bНасест&r будет имитировать Куриц (в виде предметов), как если бы они были мобами, медленно генерируя их выпадения.",
+
+  "sb3.chickens.craft.title": "Создаваемые Курицы",
+  "sb3.chickens.craft.subtitle": "Создайте Курицу",
+  "sb3.chickens.craft.desc": "Эти &bКурицы&r могут быть созданы на верстаке.",
+
+  "sb3.chickens.bred.title": "Разводите Куриц",
+  "sb3.chickens.bred.subtitle": "Скрестите Куриц",
+  "sb3.chickens.bred.desc": "Эти &bКурицы&r должны быть скрещены с другими Курицами.",
+
+  "sb3.resources.budding_crystals.title": "Цветущие Кристаллы",
+  "sb3.resources.budding_crystals.subtitle": "Сделайте Цветущий Кристалл",
+  "sb3.resources.budding_crystals.desc": "&bЦветущие Кристаллы&r работают как Цветущий Аметист, но для других ресурсов.",
+
+  "sb3.tech.title": "Технологии",
+
+  "sb3.tech.industrial_forgoing.title": "Industrial Foregoing",
+
+  "sb3.if.fe.subtitle": "Сделайте Жидкостный Экстрактор",
+  "sb3.if.fe.desc": "Когда &bЖидкостный Экстрактор&r направлен на Бревно, он производит &6Латекс&r.",
+
+  "sb3.if.lpu.subtitle": "Сделайте Юнит по Производству Латекса",
+  "sb3.if.lpu.desc": "&bЮнит по Производству Латекса&r потребляет FE и Воду чтобы превратить Латекс в &6Сухой Кусочек Резины&r.",
+
+  "sb3.if.mc.subtitle": "Сделайте Разрушитель Мобов",
+  "sb3.if.mc.desc1": "&bРазрушитель Мобов&r убивает мобов, собирая с них добычу. Опыт собирается в виде Эссенции.",
+  "sb3.if.mc.desc2": "Вы можете настроить его на использование Добычи за счет того, что он не генерирует Эссенцию.",
+
+  "sb3.if.msf.subtitle": "Сделайте Завод-резню мобов",
+  "sb3.if.msf.desc1": "&bЗавод-резня мобов&r убивает мобов, уничтожая их добычу и опыт, вместо этого он генерирует &6Жидкое Мясо&r и &6Розовую Слизь&r.",
+  "sb3.if.msf.desc2": "Пассивные мобы выделяют больше розовой слизи, чем враждебные.",
+
+  "sb3.if.af.title": "Ферма Животных",
+  "sb3.if.af.subtitle": "Создайте Ферму Животных",
+  "sb3.if.af.desc1": "&bКормилка&r будет использовать корм из своего инвентаря для разведения взрослых особей в своей рабочей зоне.",
+  "sb3.if.af.desc2": "&bЖивотный Распределитель&r будет телепортировать детенышей животных перед собой за себя. Можно настроить на перемещение взрослых особей.",
+  "sb3.if.af.desc3": "Вы можете иметь один загон, перемещать детёнышей в загон, где они будут расти, затем использовать другой загон, чтобы перемещать недавно выросших взрослых особей в загон с машиной для убийства.",
+
+  "sb3.if.cf.title": "Ферма Растений",
+  "sb3.if.cf.subtitle": "Создайте Растений",
+  "sb3.if.cf.desc1": "&bСеятель&r высаживает семена в своей рабочей зоне. Вы можете задать отдельные семена для 9 квадратов.",
+  "sb3.if.cf.desc2": "&bСборщик Растений&r собирает урожай и деревья в своей рабочей зоне. &6Эфир&r позволит ему автоматически пересаживать семена/саженцы.",
+
+  "sb3.if.myc.title": "Мицелиевый Генератор",
+  "sb3.if.myc.subtitle": "Сделайте Мицелиевый Генератор",
+  "sb3.if.myc.desc1": "&bМицелиевый Реактор&r генерирует огромное количество FE &6когда все другие генераторы мицелия работают одновременно&r.",
+  "sb3.if.myc.desc2": "Каждый из &bМицелиевый Генераторов&r производит FE, используя уникальные виды топлива, такие как динамит или Дыхание дракона.",
+
+  "sb3.if.wb.subtitle": "Сделайте Постройщик Визеров",
+  "sb3.if.wb.desc1": "&bПостройщик Визеров&r строит и призывает Визеров над ним, с запасным блоком.",
+  "sb3.if.wb.desc2": "Лучше всего использовать в сочетании с &eRFTools&r Щитом, так как он устойчив к Визеру и может его убить.",
+
+  "sb3.if.ra.title": "Улучшения Радиуса",
+  "sb3.if.ra.subtitle": "Сделайте Улучшение Радиуса",
+  "sb3.if.ra.desc": "Большинство машин имеют рабочую зону только 1x1x1. &bУлучшние Радиуса&r увеличивают это.",
+
+  "sb3.if.oa.title": "Улучшение Скорости",
+  "sb3.if.oa.subtitle": "Создайте одно из других Улучшений",
+  "sb3.if.oa.desc": "Эти &bУлучшения&r увеличивают скорость машин несколькими различными способами.",
+
+  "sb3.if.it.subtitle": "Сделайте Предметный Транспортёр",
+  "sb3.if.it.desc": "&bПретметные Транспортёры&r могут использоваться для быстрого перемещения предметов между инвенторями на расстоянии одного блого друг от друга.",
+
+  "sb3.if.ft.subtitle": "Сделайте Жидкостный Транспортёр",
+  "sb3.if.ft.desc": "&bЖидкостные Транспортёры&r могут использоваться для быстрого перемещения жидкостей между резервуарами на расстоянии одного блока друг от друга.",
+
+  "sb3.if.wt.subtitle": "Сделайте Мировой Транспортёр",
+  "sb3.if.wt.desc": "&bМировые Транспортёры&r могут использоваться для быстрого перемещения предметов между инвентарем и миром в форме сущности предмета.",
+
+  "sb3.tech.rftools.title": "RF Tools",
+
+  "sb3.rft.builder.subtitle": "Сделайте Строитель",
+  "sb3.rft.builder.desc": "&bСтроитель&r размещает блоки из инвентаря выше в любой области, заданной &bКартой Формы&r внутри.",
+
+  "sb3.rft.cards.title": "Карты Формы",
+  "sb3.rft.cards.subtitle": "Сделайте продвинутую Карту Формы",
+  "sb3.rft.cards.desc": "Эти продвинутые &bКарты Формы&r могут использоваться для размещения/сбора жидкостей, а также для выкапывания блоков.",
+
+  "sb3.rft.shield.title": "Щиты Силового Поля",
+  "sb3.rft.shield.subtitle": "Сделайте установку Щита",
+  "sb3.rft.shield.desc1": "&bПроекторы Щита&r создают щит, там где присоеденены &bШаблоны Щита&r, при клике гаечным ключом. На рисунке ниже показаны до и после использования гаечного ключа.",
+  "sb3.rft.shield.desc2": "Щитам могут быть даны правила взаимодействия с сущностями, например, наносить урон Визеру, пропуская игроков и мобов и т.д.",
+  "sb3.rft.shield.desc3": "Блоки щита также устойчивы к Визеру! Не забудьте запретить Визеру пролетать сквозь них!",
+  "sb3.rft.shield.task1": "Проекторы Щита",
+  "sb3.rft.shield.task2": "Шаблоны Щита",
+
+  "sb3.rft.spawner.subtitle": "Сделайте Спавнер",
+  "sb3.rft.spawner.desc1": "&bСпарнер&r порождает моба, установленного &bШприцом&r внутри, который заполняется путем нападения на моба.",
+  "sb3.rft.spawner.desc2": "Всем мобам нужны 3 вещи: грязь / гравий / песок, растения и предмет, уникальный для моба. Они предоставляются связанным &bИзлучателем Материи&r.",
+
+  "sb3.tech.powah.title": "Powah!",
+
+  "sb3.powah.thermo.title": "Термогенераторы",
+  "sb3.powah.thermo.subtitle": "Сделайте Термогенератор",
+  "sb3.powah.thermo.desc": "&bТермогенераторы&r генерируют FE, находясь на источниках тепла.",
+
+  "sb3.powah.magmator.title": "Магмагенератор",
+  "sb3.powah.magmator.subtitle": "Сделайте Магмагенератор",
+  "sb3.powah.magmator.desc": "&bМагмагенераторы&r генерируют FE от лавы.",
+
+  "sb3.powah.reactor.title": "Реакторы",
+  "sb3.powah.reactor.subtitle": "Сделайте Реактор",
+  "sb3.powah.reactor.desc": "&bРеакторы&r генерируют FE, используя уранинит. Они должны быть расположены в виде 3x4x3.",
+
+  "sb3.powah.cell.title": "Энергоячейки",
+  "sb3.powah.cell.subtitle": "Сделайте Энергоячейку",
+  "sb3.powah.cell.desc": "&bЭнергоячейки&r хранят FE.",
+
+  "sb3.powah.battery.title": "Аккумуляторы",
+  "sb3.powah.battery.subtitle": "Сделайте Аккумулятор",
+  "sb3.powah.battery.desc": "&bАккумуляторы&r хранят FE, и могёт заряжать предметы из вашего инвентаря.",
+
+  "sb3.powah.cable.title": "Энергокабели",
+  "sb3.powah.cable.subtitle": "Сделайте Энергокабель",
+  "sb3.powah.cable.desc": "&bЭнергокабели&r передают FE.",
+
+  "sb3.powah.ender.title": "Эндер-ячейки",
+  "sb3.powah.ender.subtitle": "Сделайте Эндер-ячейку",
+  "sb3.powah.ender.desc1": "&bЭндер-ячейки&r хранят FE в беспроводной сети, совместно используемой любым количеством Эндер-ячеек.",
+  "sb3.powah.ender.desc2": "Это количество может быть увеличено с помощью Энергоячеек.",
+
+  "sb3.powah.energizing.task2": "Зарядоотводы",
+  "sb3.powah.energizing.subtitle": "Сделайте Зарядную установку",
+  "sb3.powah.energizing.desc": "&bЗарядная сфера&r беспроводно получает питание от расположенных поблизости &bЗарядоотводов&r для создания предметов.",
+
+  "sb3.powah.player.title": "Беспроводные зарядники",
+  "sb3.powah.player.subtitle": "Сделайте Беспроводной Зарядник",
+  "sb3.powah.player.desc": "&bБеспроводной Зарядник&r беспроводно заряжает предметы в инвентаре игрока.",
+
+  "sb3.powah.gate.title": "Эндер-шлюзы",
+  "sb3.powah.gate.subtitle": "Сделайте Эндер-шлюз",
+  "sb3.powah.gate.desc": "&bЭндер-шлюзы&r обеспечивают доступ к сетям Эндер-ячеек.",
+
+  "sb3.tech.thermal.title": "Thermal Series",
+
+  "sb3.thermal.mc.subtitle": "Сделайте Магмовый Тигель",
+  "sb3.thermal.mc.desc": "&bМагмовый Тигель&r плавит предметы в жидкости.",
+
+  "sb3.thermal.bc.subtitle": "Сделайте Шоковый Охладитель",
+  "sb3.thermal.bc.desc": "&bШоковый Охладитель&r преобразует жидкости в предметы.",
+
+  "sb3.thermal.rf.subtitle": "Сделайте Редстоуновую Печь",
+  "sb3.thermal.rf.desc": "&bРедстоуновая Печь&r плавит предметы.",
+
+  "sb3.thermal.pulv.subtitle": "Сделайте Измельчитель",
+  "sb3.thermal.pulv.desc": "&bИзмельчитель&r дробит предметы.",
+
+  "sb3.thermal.aug.title": "Дополнения",
+  "sb3.thermal.aug.subtitle": "Сделайте Дополнение",
+  "sb3.thermal.aug.desc": "&bДополнения&r по сути, обновления, которые меняют способ функционирования инструментов и машин.",
+
+  "sb3.thermal.dynamo.title": "Генераторы",
+  "sb3.thermal.dynamo.subtitle": "Сделайте Генератор",
+  "sb3.thermal.dynamo.desc": "&bГенераторы&r генерируют FE.",
+
+  "sb3.thermal.ic.title": "Интегральные Компоненты",
+  "sb3.thermal.ic.subtitle": "Сделайте Интегральный Компонент",
+  "sb3.thermal.ic.desc": "&bИнтегральные Компоненты&r повышают уровень машины, улучшая базовые атрибуты.",
+
+  "sb3.thermal.msp.subtitle": "Сделайте Мульти-серво Пресс",
+  "sb3.thermal.msp.desc": "&bМельти-серво Пресс&r спрессовывает предметы вместе.",
+
+  "sb3.thermal.rfc.subtitle": "Сделайте Энергетическую Ячейку",
+  "sb3.thermal.rfc.desc": "&bЭнергетические Ячейки&r хранят FE. Хранилище может быть улучшено с помощью дополнений и усовершенствований.",
+
+  "sb3.thermal.is.subtitle": "Сделайте Индукционную Плавильню",
+  "sb3.thermal.is.desc": "&bИндукционная Плавильня&r объединяет элементы в новые.",
+
+  "sb3.thermal.pi.subtitle": "Сделайте Фитогенный Облучатель",
+  "sb3.thermal.pi.desc": "&bФитогенный Облучатель&r выращивает культуры, цветы и деревья.",
+
+  "sb3.thermal.ie.subtitle": "Сделайте Вулчанический Пресс",
+  "sb3.thermal.ie.desc": "&bВулканический Пресс&r может объеденять Воду и Лаву в различные блоки, такие как Камень или Глубокий Сланец.",
+
+  "sb3.tech.immersive_eng.title": "Immersive Engineering",
+
+  "sb3.ie.eh.subtitle": "Сделайте Молот Инженера",
+  "sb3.ie.eh.desc": "&bМолот Инженера&r требуется для создания различных структур в моде.",
+
+  "sb3.ie.ak.title": "Плавильная Печь",
+  "sb3.ie.ak.subtitle": "Сделайте Плавильную Печь",
+  "sb3.ie.ak.desc": "&bПлавильная Печь&r объединяет металлы в сплавы.",
+
+  "sb3.ie.co.title": "Коксовая Печь",
+  "sb3.ie.co.subtitle": "Сделайте Коксовую Печь",
+  "sb3.ie.co.desc": "&bКоксовая Печь&r превращает уголь в Коксовый Уголь и Креозот.",
+
+  "sb3.ie.bo.title": "Доменная Печь",
+  "sb3.ie.bo.subtitle": "Сделайте Доменную Печь",
+  "sb3.ie.bo.desc": "&bДоменная Печь&r производит Сталь.",
+
+  "sb3.ie.ibf.title": "Продвинутая Доменная Печь",
+  "sb3.ie.ibf.subtitle": "Сделайте Продвинутую Доменную Печь",
+  "sb3.ie.ibf.desc": "&bПродвинутая Доменная Печь&r может быть ускоренна с помощью &bВоздухонагревателей Доменной Печи&r.",
+
+  "sb3.ie.mp.title": "Сделайте Металлический Пресс",
+  "sb3.ie.mp.subtitle": "Сделайте Металлический Пресс",
+  "sb3.ie.mp.desc": "&bМеталлический Пресс&r придает металлам форму различных предметов.",
+
+  "sb3.ie.c.title": "Дробитель",
+  "sb3.ie.c.subtitle": "Сделайте Дробитель",
+  "sb3.ie.c.desc": "&bДробитель&r дробит предметы и мобов, попадающих сверху",
+
+  "sb3.ie.gc.subtitle": "Сделайте Садовый Клоше",
+  "sb3.ie.gc.desc": "&bСадовый Клоше&r быстро выращивает культуры в нём",
+
+  "sb3.tech.mekanism.title": "Mekanism",
+
+  "sb3.mek.heat.title":"Горячая штучка",
+  "sb3.mek.heat.subtitle":"Сделайте Устойчивый Нагреватель",
+  "sb3.mek.heat.desc1":"&6Тепло&r - это довольно заброшенная механика в &eMekanism&r. Некоторые машины выделяют тепло, которое может передаваться через &6Теплотрассу&r, и тогда некоторые машины расходуют тепло, чтобы что-то делать.",
+  "sb3.mek.heat.desc2":"Главное, для чего вам понадобилось бы тепло, - это &6Тепловой Испаритель&r. Обычно вы бы использовали 4 солнечных генератора, но... здесь это не совсем вариант.",
+  "sb3.mek.heat.desc3":"Теловой Испаритель питается от тепла, которое обеспечивается либо самим биомом, либо через &6Вентили Теплового Испарителя&r. &bУстойчивый Нагреватель&r может превращать FE в тепло, которое может привести Тепловой Испаритель в действие до такой степени, что он сможет работать.",
+
+  "sb3.mek.vapor.title": "Водяной пар",
+  "sb3.mek.vapor.subtitle": "Сделайте Конденсатор Вращения",
+  "sb3.mek.vapor.desc1": "&6Полоний&r требует Ядерных Отходов, это значит, что вам нужно &6приводить в действие Ядерный Реактор&r.",
+  "sb3.mek.vapor.desc2": "Ядерные Реакторы работают на &6Ядерном Топливе&r, рецепт которого длительный и сложный.",
+  "sb3.mek.vapor.desc3": "Первым шагом нужно сделать &6Водяной Пар&r в &bКонденсаторе Вращения&r.",
+
+  "sb3.mek.oxygen.title": "Кислород",
+  "sb3.mek.oxygen.subtitle": "Сделайте электролитический сепаратор",
+  "sb3.mek.oxygen.desc1": "&bЭлектролитический сепаратор&r превращает одно химическое вещество в два других. В данном случае превращение воды в Водород и &6Кислород&r.",
+  "sb3.mek.oxygen.desc2": "Водород можно выбрасывать, так как он не требуется для Ядерного Топлива.",
+
+  "sb3.mek.sdo.title": "Диоксид Серы",
+  "sb3.mek.sdo.subtitle": "Сделайте Химический Окислитель",
+  "sb3.mek.sdo.desc": "&bХимический Окислитель&r превращает твердые вещества в химикаты. В данном случае это превращением серы в &6Диоксид Серы&r.",
+
+  "sb3.mek.lst.title": "Триоксид Серы",
+  "sb3.mek.lst.subtitle": "Сделайте Химический Наполнитель",
+  "sb3.mek.lst.desc": "&bХимический Наполнитель&r объеденяет два химических вещества для получения другого. В данном случае объеденение Диоксида Серы с Кислородом для получения &6Триоксида Серы&r.",
+
+  "sb3.mek.sa.title": "Серная Кислота",
+  "sb3.mek.sa.subtitle": "Сделайте Серную Кислоту",
+  "sb3.mek.sa.desc": "&bСерная Кислота&r может быть получена путем объеденения Триоксида Серы с Водяным Паром.",
+
+  "sb3.mek.hfa.title": "Фтороводородная Кислота",
+  "sb3.mek.hfa.subtitle": "Сделайте Химическую Камеру Растворения",
+  "sb3.mek.hfa.desc": "&bХимическая Камера Расстворения&r использует Серную Кислоту для растворения предметов в новое химическое вещество. В данном случае растворение Флюорита во &6Фтороводородную Кислоту&r.",
+
+  "sb3.mek.yc.subtitle": "Урановая Пыль",
+  "sb3.mek.yc.desc": "&bУрановая Пыль&r является ключевым ингредиентом Ядерного Топлива.",
+
+  "sb3.mek.uo.title": "Оксид Урана",
+  "sb3.mek.uo.subtitle": "Получите Оксид Урана",
+  "sb3.mek.uo.desc": "&bОксид Урана&r может быть создан в &6Химическом Окислителе&r.",
+
+  "sb3.mek.uhf.title": "Гексафторид Урана",
+  "sb3.mek.uhf.subtitle": "Получите Гексафторид Урана",
+  "sb3.mek.uhf.desc": "&bГексаФторид Урана&r является основным ингредиентом Ядерного Топлива.",
+
+  "sb3.mek.ff.title": "Ядерное Топливо",
+  "sb3.mek.ff.subtitle": "Сделайте Изотопную Центрифугу",
+  "sb3.mek.ff.desc": "&bИзотопная Центрифуга&r превращает одно химическое вещество в другое. В данном случае Гексафторид Урана в &6Ядерное Топливо&r.",
+
+  "sb3.mek.fission.title": "Ядерный Реактор",
+  "sb3.mek.fission.subtitle": "Сделайте Ядерный Реактор",
+  "sb3.mek.fission.desc1": "&bЯдерный Реактор&r представляет собой большую структуру, которая выделяет огромное количество тепла, которое может быть использовано для получения чрезвычайно большого количества FE.",
+  "sb3.mek.fission.desc2": "Что еще более важно, она делает &6&oЯдерные Отходы&r.",
+  "sb3.mek.fission.desc3": "Честно говоря, Ядерный Реактор слишком сложен, чтобы описывать его здесь. К счастью, здесь есть очень хорошая вики-страница: ",
+
+  "sb3.mek.nw.title": "Ядерные Отходы",
+  "sb3.mek.nw.subtitle": "Сделайте Герметичную Реакционную Камеру",
+  "sb3.mek.nw.desc": "&bГерметичная Реакционная Камера&r объединяет предмет и химическое вещество в другой предмет и другое химическое вещество.",
+
+  "sb3.mek.polonium.subtitle": "Получите Полоний",
+  "sb3.mek.polonium.desc1": "&bПолоний&r это радиоактивный материал, который используется в нескольких рецептах.",
+  "sb3.mek.polonium.desc2": "Однако ни одно из них не является важным. Он необходим для Сингулярности, и это то, что действительно имеет значение.",
+
+  "sb3.magic.title": "Magic",
+
+  "sb3.magic.ars_nouveau.title": "Ars Nouveau",
+
+  "sb3.ars.nsb.subtitle": "Сделайте Книгу Заклинаний Посвящённого",
+  "sb3.ars.nsb.desc1": "&bКнига Заклинаний Посвящённого&r позволяет вам создавать заклинания, используя глифы 1 уровня, которые вы выучили.",
+  "sb3.ars.nsb.desc2": "Создавайте и изучайте новые глифы на &6Писарском Столе&r.",
+
+  "sb3.ars.st.subtitle": "Сделайте Писарский Стол",
+  "sb3.ars.st.desc": "Вы можете создавать новые &bГлифы&r на &bПисарском Столе&r используя на нем Книгу Заклинаний, а затем бросая запрошенные предметы сверху.",
+  "sb3.ars.st.task": "Глифы",
+
+  "sb3.ars.msb.subtitle": "Сделайте Книгу Заклинаний Подмастерья",
+  "sb3.ars.msb.desc": "&bКнига Заклинаний Подмастерья&r позволяет вам произносить заклинания, используя глифы 2 уровня, которые вы выучили.",
+
+  "sb3.ars.asb.subtitle": "Сделайте Книгу Заклинаний Архимага",
+  "sb3.ars.asb.desc": "&bКнига Заклинаний Архимага&r позволяет вам произносить заклинания, используя глифы 3 уровня, которые вы выучили.",
+
+  "sb3.ars.ic.subtitle": "Сделайте Камеру Впитывания",
+  "sb3.ars.ic.desc1": "&bКамера Впитывания&r использует Источник для создания предметов.",
+  "sb3.ars.ic.desc2": "Хотя он работает быстрее с расположенными поблизости Кувшинами с Истоком, он &6медленно генерирует Источник&r самостоятельно.",
+
+  "sb3.ars.sl.title": "Сочетания",
+  "sb3.ars.sl.subtitle": "Сделайте Сочетание",
+  "sb3.ars.sl.desc": "&bСочетания&r генерируют Источник различными способами, в зависимости от привязанного (не точно) Источника. Источник отправляется в близлежащие банки &bИсточника&r.",
+
+  "sb3.ars.sr.title": "Реле источника",
+  "sb3.ars.sr.subtitle": "Сделайте Реле источника",
+  "sb3.ars.sr.desc": "&bРеле источника&r перемещает Источник между Кувшинами с истоком и другими Реле.",
+
+  "sb3.ars.ea.subtitle": "Сделайте Чародейский аппарат",
+  "sb3.ars.ea.desc": "&bЧародейский аппарат&r использует Источник, чтобы соеденять предметы на ближайших &bПьедисталах&r с предметом в нем для создания чего-то нового.",
+
+  "sb3.ars.charms.title": "Талисман",
+  "sb3.ars.charms.subtitle": "Сделайте талисман",
+  "sb3.ars.charms.desc": "&bТалисманы&r призывают существ, которые используются для автоматизации, в зависимости от существа.",
+
+  "sb3.ars.rb.subtitle": "Сделайте Ритуальную жаровню",
+  "sb3.ars.rb.desc": "&bРитуальная жаровня&r использует Источник для выполнения ритуалов, в зависимости от данной &bСкрижали&r.",
+  "sb3.ars.rb.task": "Скрижали",
+
+  "sb3.ars.fam.title": "Фамильяры",
+  "sb3.ars.fam.subtitle": "Получите Фамильяра",
+  "sb3.ars.fam.desc1": "&bФамильяры&r дают пассивный или активный бафф, в зависимости от Фамильяра.",
+  "sb3.ars.fam.desc2": "Получите скрипт привязки используя &bСкрижаль привязки&r на определённом существе.",
+  "sb3.ars.fam.task": "Скрижали призявки",
+
+  "sb3.ars.robe.title": "Роба",
+  "sb3.ars.robe.subtitle": "Сделайте какую-нибудь волшебную броню",
+  "sb3.ars.robe.desc": "&bРоба&r увеличивает вашу вместимость маны, каждый следующий уровень больше, чем предыдущий.",
+
+  "sb3.magic.botania.title": "Botania",
+
+  "sb3.botania.ff.subtitle": "Сделайте Цветочное удобрение",
+  "sb3.botania.ff.desc": "&bЦветочное удобрение&r используется для выращивания Мистических удобрений.",
+
+  "sb3.botania.pa.subtitle": "Сделайте Лепестковый аптекарь",
+  "sb3.botania.pa.desc": "&bЛепестковый аптекарь&r объеденяет ингридиенты с водой для создания цветковю",
+
+  "sb3.botania.pd.subtitle": "Сделайте Чистую маргаритку",
+  "sb3.botania.pd.desc": "&bЧистая маргаритка&r превращает Камень и Брёвна вокруг неё в Жизнекамень и Жизнедерево.",
+
+  "sb3.botania.mps.subtitle": "Сделайте Бассейн маны и Распростронитель маны",
+  "sb3.botania.mps.desc": "&bБассейн маны&r хранит Ману, а Распростронитель маны перемещает её.",
+
+  "sb3.botania.ef.subtitle": "Сделайте Эндопламя",
+  "sb3.botania.ef.desc": "&bЭндопламя&r создаёт ману из топлива для печи лежащего рядом.",
+
+  "sb3.botania.ra.subtitle": "Сделайте Рунический алтарь",
+  "sb3.botania.ra.desc": "&bРунический алтарь&r используется для создания предметов.",
+
+  "sb3.botania.tap.subtitle": "Сделайте Наземную агломерационную плиту",
+  "sb3.botania.tap.desc": "&bНаземная агломерационная плита&r использует ману из &bИскр&r (Подключенных к ближайщему бассейну маны искрами) для создания террастали.",
+
+  "sb3.botania.egc.subtitle": "Сделайте Ядро эльфийских врат",
+  "sb3.botania.egc.desc": "&bЯдро эльфийских врат&r - это сердце &6Портала в Альфхейм&r. Киньте вещи, чтобы получить другие вещи.",
+
+  "sb3.botania.e.subtitle": "Получите Элементия",
+  "sb3.botania.e.desc": "&bЭлементий&r создается путем броска Манастали в портал в Альфхейм.",
+
+  "sb3.botania.st.subtitle": "Сделайте Тинкер-искру",
+  "sb3.botania.st.desc": "&bТинкер-искра&r позволяет вам установить &bДополнители искр&r в Искру.",
+  "sb3.botania.st.task": "Дополнители искр",
+
+  "sb3.botania.gp.subtitle": "Сделайте Гайа пилон",
+  "sb3.botania.gp.desc": "&bГайа пилон&r необходим чтобы призвать и сразиться с &6Стражем Гайи&r.",
+
+  "sb3.botania.gog.subtitle": "Убейте Стража Гайи",
+  "sb3.botania.gog.desc": "&bСтраж Гайи&r вызывается с помощью ритуала гайи. Убить его будет не легко, но добыча с него необходима для прогресса.",
+
+  "sb3.botania.ems.subtitle": "Сделайте Эльфийский распространитель маны",
+  "sb3.botania.ems.desc": "&bЭльфийский распространитель маны&r - это улучшенная версия Распространителя маны.",
+
+  "sb3.botania.gms.subtitle": "Сделайте Распростронитель маны Гайи",
+  "sb3.botania.gms.desc": "&bРаспространитель маны Гайи&r - это улучшенная версия Эльфийского распространителя маны.",
+
+  "sb3.botania.gs.subtitle": "Получите Дух гайи",
+  "sb3.botania.gs.desc": "&bДух гайи&r - это добыча с Стража Гайи.",
+
+  "sb3.botania.gsi.subtitle": "Получите Слиток духа Гайи",
+  "sb3.botania.gsi.desc1": "&bСлиток духа Гайи&r необходим чтобы призвать и сразиться со второй версией Стража Гайи.",
+  "sb3.botania.gsi.desc2": "Эта битва ещё сложнее, но добыча ещё ценнее.",
+
+  "sb3.botania.dof.subtitle": "Получите Кости судьбы",
+  "sb3.botania.dof.desc": "&bКости Судьбы&r (выпадают со второй версии Стража Гайи) дадут вам случайную реликвию, уникальный и сильный предмет.",
+
+  "sb3.magic.blood_magic.title": "Blood Magic",
+
+  "sb3.bm.ba.subtitle": "Создайте Кровавый Алтарь",
+  "sb3.bm.ba.desc1": "&bКровавый Алтарь&r хранит LP (кровь, в простонародье) и использует её для создания предметов.",
+  "sb3.bm.ba.desc2": "Для начала, используйте &bЖертвенный нож&r чтобы заполнить его, использую свою кровь.",
+
+  "sb3.bm.wbo.subtitle": "Создайте Сферу слабой крови",
+  "sb3.bm.wbo.desc1": "&bСферы Крови&r дают вам запал LP, назавнный &6Сетью Душ&r, которая используется для усиления ритуалов и символов.",
+  "sb3.bm.wbo.desc2": "&bСферу слабой крови&r является первой и самым маленькой, удерживающая &65,000 LP&r. Свяжите и заполните его, щелкнув ПКМ. Вы также можете заполнить его в Кровавом алтаре.",
+
+  "sb3.bm.abo.subtitle": "Создайте Кровавую сферу подмастерья",
+  "sb3.bm.abo.desc": "&bКровавая сфера подмастерья&r хранит &625,000 LP&r.",
+
+  "sb3.bm.mbo.subtitle": "Создайте Кровавую Сферу Мага",
+  "sb3.bm.mbo.desc": "&bКровавая Сфера Мага&r хранит &6150,000 LP&r.",
+
+  "sb3.bm.mbo2.subtitle": "Создайте Кровавую сферу мастера",
+  "sb3.bm.mbo2.desc": "&bКровавая Сфера Мастера&r хранит &61,000,000 LP&r.",
+
+  "sb3.bm.abo2.subtitle": "Создайте Кровавую сферу архимага",
+  "sb3.bm.abo2.desc": "&bКровавая сфера архимага&r хранит &610,000,000 LP&r.",
+
+  "sb3.bm.aa.subtitle": "Создайте таинственный пепел",
+  "sb3.bm.aa.desc": "&Таинственный Пепел&r используется для &6Алзхимических Массивов&r, которые создают предметы или выполняют другие функции.",
+
+  "sb3.bm.sl.subtitle": "Создайте плитку",
+  "sb3.bm.sl.desc1": "&bЧистая Плитка&r это одни из самых основных ингредиентов мода. Просто поместите камень на Кровавый алтарь, в котором должно быть не менее 1000 LP.",
+  "sb3.bm.sl.desc2": "Если вы вставите 2 камня, он попытается создать оба одновременно, что обойдется в 2000 LP. Если у вас нет 2000 LP, создание завершится неудачей, и LP будет потрачено впустую.",
+
+  "sb3.bm.ss.subtitle": "Создайте Ловушку Души",
+  "sb3.bm.ss.desc": "&bЛовушка Души&r у мобов есть шанс получить белые частицы. Убив их, вы получите урон &6Демоническую Энергию&r.",
+
+  "sb3.bm.dw.subtitle": "Получите Демоническую Энергию",
+  "sb3.bm.dw.desc": "&bДемоническая Энергия&r выпадает из попавших в ловушку мобов. Качество воли случайное.",
+
+  "sb3.bm.tg.title": "Адские Камни",
+  "sb3.bm.tg.subtitle": "Создайте Адский камень",
+  "sb3.bm.tg.desc": "&bАдские Камни&r будет поглощать и сохранять демоническую энергию по мере ее получения.",
+
+  "sb3.bm.hf.subtitle": "Создайте Адскую кузню",
+  "sb3.bm.hf.desc": "&bАдская Кузня&r использует Энергию (либо из энергии, либо из адского камня) для создания предметов.",
+
+  "sb3.bm.bat.title": "Уровни Кровавого Алтаря",
+  "sb3.bm.bat.subtitle": "Создайте Кровавый Алтарь 2 уровня",
+  "sb3.bm.bat.desc1": "&6Кровавый Алтарь&r может быть повышен до 5 уровней, разместив вокруг него определенные блоки.",
+  "sb3.bm.bat.desc2": "Для второго уровня требуется разместить 8 рун по кругу вокруг него, на один блок ниже. Руны удваиваются как апгрейды алтаря, некоторым образом изменяя их функциональность.",
+  "sb3.bm.bat.desc3": "Для некоторых рецептов крафта требуются более высокие уровни. Смотрите полное руководство по каждому из них в &6Сангвинистических учениях&r.",
+  "sb3.bm.bat.task": "8x Рун",
+
+  "sb3.bm.ds.subtitle": "Создайте Жертвенный Кинжал",
+  "sb3.bm.ds.desc": "&bЖертвенный Кинжал&r позволяет вам использовать жизненную энергию моба вместо вашей собственной для создания LP.",
+
+  "sb3.bm.at.subtitle": "Создайте Алхимический Стол",
+  "sb3.bm.at.desc": "&bАлхимический Стол&r использует LP из сети Душ для создания предметов.",
+
+  "sb3.bm.br.subtitle": "Создайте реагент связи",
+  "sb3.bm.br.desc": "&bРеагент Связи&r используется для создания &6Живой Брони&r, невероятно мощный набор, который &6обновляется сам по себе в зависимости от того, как вы его используете&r.",
+
+  "sb3.bm.sig.title": "Знаки",
+  "sb3.bm.sig.subtitle": "Создайте любой Знак",
+  "sb3.bm.sig.desc": "&bЗнаки&r используют LP из вашей сети душ для различных задач, например, расставлять светильники или выращивать урожай.",
+
+  "sb3.bm.ritual.title": "Ритуалы",
+  "sb3.bm.ritual.subtitle": "Получите",
+  "sb3.bm.ritual.desc1": "&bРитуалы&r используют LP из вашей сети Душ для различных задач. Они варьируются от &6создания руд&r, &6выращивание растений&r, и &6наносящий урон мобам для LP&r.",
+  "sb3.bm.ritual.desc2": "Они сосредоточены на &bГлавном Ритуальном Камне&r, и &bРитуальных Камнях&r поставленных рядом, покрашенные &bИнструментами для начертания элемента&r, и, наконец, активированы с помощью &bКристалла Активации&r.",
+  "sb3.bm.ritual.desc3": "Настоятельно рекомендуется построить ритуальный мультиблок с &6Ритуальным Предсказателем&r.",
+  "sb3.bm.ritual.task": "Иструменты для начертания элемента",
+
+  "sb3.bm.rd.subtitle": "Создайте Ритуальный Предсказатель",
+  "sb3.bm.rd.desc": "С помозью &bРитуального Предсказателя&r, ПКМ в присяди или ПКМ по воздуху, для выбрать ритуала, а затем использовать его на Главном ритуальном камне, чтобы разместить и раскрасить ритуальные камни для этого ритуала.",
+
+  "sb3.bm.edge.title": "Край Скрытого царства",
+  "sb3.bm.edge.subtitle": "Посетите подземелье",
+  "sb3.bm.edge.desc1": "&bКрай Скрытого царства&r Ритуал отправит вас в &6измерение подземелья&r состоит из 4 комнат, открытых с &6Железными ключами&r.",
+  "sb3.bm.edge.desc2": "Использование одного и того же столба инверсии всегда будет отправлять вас в одно и то же подземелье. Вам придется повторить ритуал, чтобы создать новый.",
+
+  "sb3.storage.title": "Хранение",
+
+  "sb3.storage.drawers.title": "Функциональное хранилище",
+  "sb3.storage.drawers.subtitle": "Сделайте ящик",
+  "sb3.storage.drawers.desc1": "&eFunctional Storage&r - это аналог &eStorage Drawers&r, с некоторыми изменениями.",
+  "sb3.storage.drawers.desc2": "Основы остаются те же. &bЯщики&r хранят большие количества предметов одного типа &bУплотнительные ящики&r показывает предметы в их форме блока, слитка, и.",
+  "sb3.storage.drawers.task1": "Ящики",
+  "sb3.storage.drawers.task2": "Уплотнительные ящики",
+
+  "sb3.storage.storagecontroller.subtitle": "Сделайте Контроллер Хранилища",
+  "sb3.storage.storagecontroller.desc1": "&bКонтроллер хранилища&r может соеденять инвентари Ящиков &6без прямого контакта&r.",
+  "sb3.storage.storagecontroller.desc2": "Чтобы подсоеденить Контроллер к Ящикам, используйте &bИструмент привязки&r.",
+
+  "sb3.storage.armory.subtitle": "Сделайте Оружейный шкаф",
+  "sb3.storage.armory.desc1": "&bОружейный шкаф&r может хранить &6до 4096 нестекуемых предметов&r, в любой последовательности.",
+  "sb3.storage.armory.desc2": "Вы &cне можете открыть его&r, у него нет Графического интерфейса. Вы можете положить или извлечь из него, используя автоматизацию.",
+
+  "sb3.storage.fcups.title": "Улучшения",
+  "sb3.storage.fcups.subtitle": "Сделайте любое Улучшение для ящика",
+  "sb3.storage.fcups.desc1": "&bУлучшения&r улучшают Ящики.",
+  "sb3.storage.fcups.desc2": "Они бывают двух видов, и идут в разные слоты. Улучшения &6Хранилища&r увеличивают вместимость Ящика, а &6Сторонние&r Улучшения изменяют возможности Ящика.",
+  "sb3.storage.fcups.desc3": "Обратите внимание, что если вы уже знакомы с &eStorage Drawers&r, вы обнаружите, что улучшения хранилища в &eFunctional Storage&r в стеке &6умножают&r вместимость, это означает, что всего за два Медных улучшения ваша вместимость увеличится в &664&r раза по сравнению с базовой вместимостью!",
+
+  "sb3.storage.bhu.title": "Юниты чёрной дыры",
+  "sb3.storage.bhu.subtitle": "Сделайте Юнит чёрной дыры",
+  "sb3.storage.bhu.desc1": "&bЮниты чёрной дыры&r хранят огромное количество предметов одного типа.",
+  "sb3.storage.bhu.desc2": "Каждый уровень хранит экспоненциально больше, чем предыдущий.",
+
+  "sb3.storage.bht.title": "Жидкостные чёрные дыры",
+  "sb3.storage.bht.subtitle": "Сделайте Жидкостную чёрную дыру",
+  "sb3.storage.bht.desc1": "&bЖидкостная чёрная дыра&r хранит огромное количество жидкости.",
+  "sb3.storage.bht.desc2": "Каждый уровень хранит экспоненциально больше, чем предыдущий.",
+
+  "sb3.storage.bhc.subtitle": "Сделайте Контроллер чёрной дыры",
+  "sb3.storage.bhc.desc1": "&bКонтроллер чёрной дыры&r может хранить 16 предметных/жидкостных чёрных дыр, и будет &6объеденять их&r.",
+  "sb3.storage.bhc.desc2": "То есть Контроллер будет считать, что каждая предметная/жидкостная чёрная дыра в нём - единый инвентарь.",
+
+  "sb3.rs.c.subtitle": "Сделайте Контроллер",
+  "sb3.rs.c.desc": "&bКонтроллер&r - это сердце сети мода &eRefined Storage&r.",
+
+  "sb3.rs.dd.subtitle": "Сделайте Дисковый привод",
+  "sb3.rs.dd.desc": "&bДисковый привод&r хранит Диски, которые самостоятельно хранят жидкости и предметы.",
+
+  "sb3.rs.id.title": "Предметные Диски",
+  "sb3.rs.id.subtitle": "Сделайте Предметный диск",
+  "sb3.rs.id.desc": "&bПредметные Диски&r хранят предметы. Содержимое доступно из Терминала",
+
+  "sb3.rs.fd.title": "Жидкостные диски",
+  "sb3.rs.fd.subtitle": "Сделайте Жидкостный диск",
+  "sb3.rs.fd.desc": "&bЖидкостные диски&r хранят жидкости. Содержимое доступно из Жидкостного терминала.",
+
+  "sb3.rs.g.subtitle": "Сделайте Терминал",
+  "sb3.rs.g.desc": "&bТерминал&r позволяет вам просматривать содержимое Дисков в сети.",
+
+  "sb3.rs.cg.subtitle": "Сделайте Терминал создания",
+  "sb3.rs.cg.desc": "&bТерминал создания&r имеет 3x3 интерфейс создания.",
+
+  "sb3.rs.wg.subtitle": "Сделайте Беспроводной терминал",
+  "sb3.rs.wg.desc": "&bБеспроводной терминал&r может использоваться для доступа к сети удалённо.",
+
+  "sb3.rs.wcg.subtitle": "Сделайте Беспроводной терминал создания",
+  "sb3.rs.wcg.desc": "&bБеспроводной терминал&r может использоваться для доступа к сети удалённо.",
+
+  "sb3.rs.pg.subtitle": "Сделайте терминал с кодировщиком шаблонов",
+  "sb3.rs.pg.desc": "&bТерминал с кодировщиком шаблонов&r может кодировать &6Шаблоны&r, которые необходимы для авто-создания.",
+
+  "sb3.rs.cr.subtitle": "Сделайте Сборщик",
+  "sb3.rs.cr.desc": "&bСборщики&r создают используя Шаблоны.",
+
+  "sb3.rs.fg.subtitle": "Сделайте Жидкостный терминал",
+  "sb3.rs.fg.desc": "&bЖидкостный терминал&r позволяет вам просматривать содержимое Жидкостных дисков в сети.",
+
+  "sb3.rs.r.subtitle": "Сделайте Заказчик",
+  "sb3.rs.r.desc": "&bЗаказчик&r автоматически запрашивает авто-создание, когда в сети меньше определенного количества предметов.",
+
+  "sb3.ae2.p.title": "Печати для вырезателя",
+  "sb3.ae2.p.subtitle": "Сделайте Печать для вырезателя",
+  "sb3.ae2.p.desc": "&bПечати для вырезателя&r используются для создания &6Процессоров&r.",
+
+  "sb3.ae2.c.subtitle": "Сделайте МЭ-регулятор",
+  "sb3.ae2.c.desc": "&bМЭ-регулятор&r - это сердце сети мода &eAE2&r, также содержит каналы для дополнительных устройств.",
+
+  "sb3.ae2.d.subtitle": "Сделайте МЭ-дисковод",
+  "sb3.ae2.d.desc": "&bМЭ-дисковод&r хранит &6Ячейки хранения&r.",
+
+  "sb3.ae2.ic.title": "Предметные ячейки хранения",
+  "sb3.ae2.ic.subtitle": "Сделайте Предметную ячейку хранения",
+  "sb3.ae2.ic.desc1": "&bПредметные ячейки хранения&r хранят предметы. Уровни выше могут хранить больше общее количетсво предметов, но все уровни могут содержать только 63 разных предмета.",
+  "sb3.ae2.ic.desc2": "&bME DISK Drives&r (short for &nD&reep &nI&rtem &nS&rtorage &nD&risk) из &eAE2 Things&r не имеет лимита разных предметов.",
+
+  "sb3.ae2.fc.title": "Жидкостные ячейки хранения",
+  "sb3.ae2.fc.subtitle": "Сделайте Жидкостную ячейку хранения",
+  "sb3.ae2.fc.desc": "&bЖидкостные ячейки хранения&r хранят жидкости.",
+
+  "sb3.ae2.t.subtitle": "Сделайте МЭ терминал",
+  "sb3.ae2.t.desc": "&bМЭ терминал&r даёт доступ к предметам и жидкостям в сети.",
+
+  "sb3.ae2.st.subtitle": "Сделайте МЭ терминал безопасности",
+  "sb3.ae2.st.desc1": "&bМЭ терминал безопасности&r позволяет вам выбрать какой доступ имеют другие игроки к вашей МЭ сети.",
+  "sb3.ae2.st.desc2": "Также он позволяет привязывать &6Беспроводные терминалы&r к сети.",
+
+  "sb3.ae2.wt.subtitle": "Сделайте беспроводной терминал",
+  "sb3.ae2.wt.desc": "&bБеспроводной терминал&r даёт беспроводной доступ к сети.",
+
+  "sb3.ae2.ct.subtitle": "Сделайте МЭ терминал изготовления",
+  "sb3.ae2.ct.desc": "&bМЭ терминал изготовления&r имеет 3x3 интерфейс создания.",
+
+  "sb3.ae2.wct.subtitle": "Сделайте беспроводной терминал изготовления",
+  "sb3.ae2.wct.desc": "&bБеспроводной терминал изготовления&r имеет 3x3 интерфейс создания.",
+
+  "sb3.ae2.pet.subtitle": "Сделайте МЭ терминал для закодированных шаблонов",
+  "sb3.ae2.pet.desc": "&bМЭ терминал для закодированных шаблонов&r может кодировать &6Шаблоны&r, которые необходимы для авто-создания.",
+
+  "sb3.ae2.pat.subtitle": "Сделайте МЭ терминал доступа к шаблонам",
+  "sb3.ae2.pat.desc": "&bМЭ терминал доступа к шаблонам&r даёт доступ ко всем Поставщикам шаблонов в сети.",
+
+  "sb3.ae2.pp.subtitle": "Сделайте МЭ поставщик шаблонов",
+  "sb3.ae2.pp.desc": "&bМЭ поставщик шаблонов&r отправляет ингридиенты по запросу авто-создания.",
+
+  "sb3.ae2.cs.title": "Процессоры изготовления",
+  "sb3.ae2.cs.task": "Хранилище для изготовления",
+  "sb3.ae2.cs.subtitle": "Сделайте Хранилище для изготовления",
+  "sb3.ae2.cs.desc": "&bХранилище для изготовления&r и &bСо-процессоры крафта&r создают &bПроцессор изготовления&r когда расположены рядом друг с другом, которые необходимы для запросов авто-создания.",
+
+  "sb3.ae2.ma.subtitle": "Сделайте Молекулярный сборщик",
+  "sb3.ae2.ma.desc": "&bМолекулярный сборщик&r будет автоматически создавать рецепты когда подключен к МЭ поставщику шаблонов.",
+
+  "sb3.storage.modular.subtitle": "Сделайте Модульное хранилище",
+  "sb3.storage.modular.task": "Модули хранилища",
+  "sb3.storage.modular.desc1": "&bМодульное хранилище&r может хранить один &bМодуль хранилища&r.",
+  "sb3.storage.modular.desc2": "Каждый следующий уровень модуля может хранить дополнительные 100 предметов.",
+
+  "sb3.storage.scanner.subtitle": "Сделайте Сканер хранилища",
+  "sb3.storage.scanner.desc": "&bСканер хранилища&r может получать доступ ко всем инвенторям поблизости.",
+
+  "sb3.storage.ps.title": "Карманное хранилище",
+  "sb3.storage.ps.subtitle": "Сделайте Карманное хранилище",
+  "sb3.storage.ps.desc1": "&bКарманное хранилище&r может хранить только небольшое количество типов предметов, но может хранить большое количество каждого.",
+  "sb3.storage.ps.desc2": "Каждый новый уровень хранит больше типов предметов, а также их количество.",
+
+  "sb3.storage.sb.title": "Простые рюкзаки",
+  "sb3.storage.sb.subtitle": "Сделайте рюкзак",
+  "sb3.storage.sb.desc": "&bРюкзаки&r хранят предметы. Каждый новый уровень хранит больше. ПКМ в присяди для настройки.",
+
+  "sb3.armour.title": "Идеальная броня",
+
+  "sb3.create.title": "Create",
+
+  "sb3.create.ww.subtitle": "Сделайте Водяное колесо",
+  "sb3.create.ww.desc": "&bВодяное Колесо&r генерирует силу вращения от потока воды.",
+
+  "sb3.create.mp.subtitle": "Сделайте Механический Пресс",
+  "sb3.create.mp.desc": "&bМеханический Пресс&r обрабатывает предметы под ним на полу или конвеерах.",
+
+  "sb3.create.mix.subtitle": "Сделайте Смешиватель",
+  "sb3.create.mix.desc": "&bСмешиватель&r обрабатывает предметы в чаше снизу.",
+
+  "sb3.create.wrench.subtitle": "Сделайте Гаечный ключ",
+  "sb3.create.wrench.desc": "&bГаечный ключ&r может настраивать механизмы.",
+
+  "sb3.create.bb.subtitle": "Сделайте Горелку всполоха",
+  "sb3.create.bb.desc": "&bГорелка всполоха&r необходима для некоторых рецептов в &6Смешивателе&r. В то время как он может использовать любое печное топливо, &bТорт всполоха&r является самым лучшим.",
+
+  "sb3.create.ma.subtitle": "Сделайте Механическую руку",
+  "sb3.create.ma.desc": "&bМеханическая рука&r может перемещать предметы с гораздо большей точностью, чем Механические ремни.",
+
+  "sb3.create.mc.subtitle": "Сделайте Механический Крафтер",
+  "sb3.create.mc.desc": "&bМеханический крафтер&r может автоматически создавать предметы, включая те, что требуют сетку больше 3x3.",
+
+  "sb3.create.mb.subtitle": "Сделайте Механические ремни",
+  "sb3.create.mb.desc": "&bМеханические Ремни&r перемещают предметы и существа на них.",
+
+  "sb3.create.rl.subtitle": "Сделайте Редстоуновый передатчик сигнала",
+  "sb3.create.rl.desc": "&bРедстоуновые передатчики сигнала&r могут переносить сигнал редстоуна по беспроводной сети.",
+
+  "sb3.create.se.subtitle": "Сделайте Паровой двигатель",
+  "sb3.create.se.desc": "&bПаровой Двигатель&r, когда установлен на Жидкостном баке полным воды с подогревом снизу, создаёт силу вращения.",
+
+  "sb3.create.ts.subtitle": "Сделайте Железнодорожную станцию",
+  "sb3.create.ts.desc1": "&eCreate&r обладает обширными системами &bПоездов&r.",
+  "sb3.create.ts.desc2": "Честно говоря, это слишком сложно, чтобы описывать здесь. Вместо этого используйте систему &6Размышления&r от мода.",
+
+  "sb3.create.em.subtitle": "Сделайте Электромотор",
+  "sb3.create.em.desc": "&bЭлектромотор&r преобразует FE энергию в силу вращения.",
+
+  "sb3.create.alt.subtitle": "Сделайте Генератор",
+  "sb3.create.alt.desc": "&bГенератор&r преобразует силу вращения в FE энергию.",
+
+  "sb3.create.eg.subtitle": "Сделайте Инженерные очки",
+  "sb3.create.eg.desc": "Когда надеты, &bИнженерные очки&r покажут вам информацио о различные механизмах.",
+
+  "sb3.create.mh.subtitle": "Сделайте Механический комбайн",
+  "sb3.create.mh.desc": "Будучи частью движущейся штуковины, &bМеханический комбайн&r будет собирать и пересаживать растения.",
+
+  "sb3.misc.title": "Разное",
+
+  "sb3.misc.torch.subtitle": "Сделайте Мегафакел",
+  "sb3.misc.torch.desc": "&bМегафакел&r предотвращает появление монстров поблизости.",
+
+  "sb3.misc.dread.subtitle": "Сделайте Лампу ужаса",
+  "sb3.misc.dread.desc": "&bЛампа ужаса&r предотвращает появление пассивный существ поблизости.",
+
+  "sb3.misc.feral.subtitle": "Сделайте Большой осветительный фонарь",
+  "sb3.misc.feral.desc": "&bБольшой осветительный фонарь&r размещает невидимые источники света поблизости&r.",
+
+  "sb3.misc.bg.title": "Устройства для строительства",
+  "sb3.misc.bg.subtitle": "Сделайте что-нибудь из Building Gadgets",
+  "sb3.misc.bg.desc": "&eBuilding Gadgets&r имеет несколько &bУстройств&r позволяющие строить намного легче.",
+
+  "sb3.misc.cs.subtitle": "Сделайте станцию зарядки",
+  "sb3.misc.cs.desc": "Вы можете заряжать предметы FE энергией с помощью &bСтанции зарядки&r.",
+
+  "sb3.misc.mg.title": "Горные гаджеты",
+  "sb3.misc.mg.subtitle": "Сделайте горный гаджет",
+  "sb3.misc.mg.desc1": "&bГорный гаджет&r стреляет лазерами, которые копают блоки, затрачивая FE.",
+  "sb3.misc.mg.desc2": "Все три типа функционируют одинаково, разница только визуальная.",
+
+  "sb3.misc.mgu.title": "Улучшения горных гаджетов",
+  "sb3.misc.mgu.subtitle": "Сделайте улучшение",
+  "sb3.misc.mgu.desc": "&bУлучшения&r могут быть установленны в ваш горный гаджет в &bСтоле модификаций&r.",
+  "sb3.misc.mgu.task": "Улучшения",
+
+  "sb3.misc.if.title": "Iron Furnaces",
+  "sb3.misc.if.subtitle": "Сдалайте улучшеную печь",
+  "sb3.misc.if.desc": "Мод &eIron Furnaces&r добавляет несколько уровней &bПечи&r, которые плавят быстрее.",
+
+  "sb3.misc.temp.subtitle": "Сделайте темпад",
+  "sb3.misc.temp.desc1": "&bТемпады&r используются для &6телепортации из одного места в другое&r.",
+  "sb3.misc.temp.desc2": "Откройте графический интерфейс и выберите \"ЗАПУСТИТЬ ПРОГРАММУ.\" Добавьте местоположение, и вы сможете телепортироваться к нему из любой точки мира.",
+  "sb3.misc.temp.desc3": "Телепортация бесплатна, но имеет 3-минутное время восстановления.",
+
+  "sb3.misc.pouch.title": "Время в сумке",
+  "sb3.misc.pouch.subtitle": "Сделайте временную сумку",
+  "sb3.misc.pouch.desc": "&bВременная сумка&r медленно собирает время, пока лежит в вашем инвентаре. Вы можете использовать его на машинах, чтобы ускорить их работу, используя сохраненное время.",
+
+  "sb3.misc.hearthstone.title": "/home, но сбалансированный™",
+  "sb3.misc.hearthstone.subtitle": "Сделайте камень возвращения",
+  "sb3.misc.hearthstone.desc1": "&bКамень возвращения&r позволяет вам быстро телепортироваться в вашу личную кровать или якорь возрождения (или в точку [0, 0] вашего измерения, если у вас нет ни того, ни другого).",
+  "sb3.misc.hearthstone.desc2": "...конечно, вы &oможете&r просто использовать &6/ftbstoneblock home&r чтобы добиться того же самого, но что в этом забавного?",
+
+  "sb3.misc.obelisk.title": "EnderIO, кто-нибудь?",
+  "sb3.misc.obelisk.subtitle": "Сделайте обелиск опыта",
+  "sb3.misc.obelisk.desc1": "&bОбелиск опыта&r это &aхранилище опыта&r где вы можете быстро сохранить или извлечь именно то количество уровней опыта, которое вам нужно в данный момент.",
+  "sb3.misc.obelisk.desc2": "Он также может быть настроен на автоматическое поглощение близлежащих шаров опыта и может работать только с сигналом красного камня!",
+
+  "sb3.misc.trash.title": "Мусорные корзины",
+  "sb3.misc.trash.subtitle": "Сделайте мусорную корзину",
+  "sb3.misc.trash.desc": "&bМусорные корзины&r уничтожают всё, что в них положат",
+
+  "sb3.misc.cw.title": "Жезлы создания",
+  "sb3.misc.cw.subtitle": "Сделайте жезл создания",
+  "sb3.misc.cw.desc": "&bЖезлы создания&r позволяют быстро размещать большое количество блоков.",
+
+  "sb3.misc.cw.toggle": "Меняйте местами ядра, ЛКМ в присяди по воздуху и держа жезл.",
+
+  "sb3.misc.ac.subtitle": "Сделайте Божественное ядро",
+  "sb3.misc.ac.desc": "&bБожественное ядро&r может быть установлено на жезл, чтобы вы могли размещать блоки на стороне, противоположной той, на которую вы нажимаете.",
+
+  "sb3.misc.dc.subtitle": "Сделайте Ядро разрушения",
+  "sb3.misc.dc.desc": "&bЯдро разрушения&r может быть установлено на жезл, чтобы вы могли &cнавсегда уничтожать блоки в зоне&r. Ничего не выпадает.",
+
+  "sb3.misc.ent.subtitle": "Сделайте Запутанный блок",
+  "sb3.misc.ent.desc1": "Когда вы связваете &bЗапутанный блок&r к другому блоку с помощью &bЗапутанного связывателя&r, Запутанный блок притвориться что это тот самый блок.",
+  "sb3.misc.ent.desc2": "Это означает, что вы можете передавать в ЗБ и из него, и вместо этого они будут передаваться в связанный блок и из него, даже на расстоянии.",
+
+  "sb3.misc.tess.subtitle": "Сделайте Тессеракт",
+  "sb3.misc.tess.desc": "&bТессеракты&r позволяют вам перемещать предметы, жидкости и энергию.",
+
+  "sb3.misc.compact.subtitle": "Сделайте Компактный механизм",
+  "sb3.misc.compact.desc1": "&bКомпактная машина&r содержит небольшую зону внутри, к который вы можете получить доступ с помощью &bПерсонального сжимающего устройства&r.",
+  "sb3.misc.compact.desc2": "Каждый новый уровень содержит больше места, чем предыдущий. Вы можете использовать &6Туннели&r, чтобы перемещать предметы, жидкости и энергию внутрь и наружу.",
+  "sb3.misc.compact.task": "Компактные механизмы",
+
+  "sb3.misc.automation_station.title":"Станция автоматизации",
+  "sb3.misc.automation_station.subtitle":"Сделайте авто-молот и Кузнечный стол (авто)",
+  "sb3.misc.automation_station.desc1":"&bАвто-молоты&r могут &6бесплатно и автоматически дробить&r предметы в них.",
+  "sb3.misc.automation_station.desc2":"Предметы должны быть вставлены с синей стороны, и выход с оранджевой стороны автоматически выведет предметы.",
+  "sb3.misc.automation_station.desc3":"&bКузнечный стол (авто)&r использует FE, чтобы автоматизировать создание на кузнечном столе. ПКМ в присяди на сторону блоку, чтобы настроить где будут вход и выход.",
+  "sb3.misc.automation_station.task":"Auto-Hammers",
+
+  "sb3.misc.pp.title": "Красивые трубы",
+  "sb3.misc.pp.subtitle": "Сделайте трубу",
+  "sb3.misc.pp.desc": "&bТрубы&r перемещает предметы, жидкости, энергию, газы. Им необходимы &6Улучшения&r для работы.",
+
+  "sb3.misc.ppm.title": "Улучшения",
+  "sb3.misc.ppm.subtitle": "Сделайте Улучшение для труб",
+  "sb3.misc.ppm.desc": "&bУлучшения&r могут быть применены к трубам, чтобы настроить их работу.",
+
+  "sb3.misc.ppt.title": "Терминалы",
+  "sb3.misc.ppt.subtitle": "Сделайте Терминал",
+  "sb3.misc.ppt.desc": "&bПредметный терминал&r показывает содержимое всех труб, и позволяет запрашивать предметы.",
+
+  "sb3.misc.fp.subtitle": "Сделайте жидкостную трубу",
+  "sb3.misc.fp.desc": "&bЖидкостные трубы&r перемещают жидкости.",
+
+  "sb3.misc.pz.title": "Pipez",
+  "sb3.misc.pz.subtitle": "Сделайте трубу",
+  "sb3.misc.pz.desc": "&bТрубы&r перемещают штуки, в зависимости от трубы. Вы должны использовать &bКлюч для труб&r на трубе, подключенной к источнику.",
+
+  "sb3.misc.pzu.title": "Улучшения для труб",
+  "sb3.misc.pzu.subtitle": "Сделайте Улучшение для труб",
+  "sb3.misc.pzu.desc": "&bУлучшения для труб&r увеличивают скорость труб.",
+
+  "sb3.endgame.title": "Конец игры",
+
+  "sb3.endgame.pe": "ProjectE",
+
+  "sb3.pe.ec.subtitle": "Сделайте конденсатор энергии",
+  "sb3.pe.ec.desc1": "&bКонденсатор энергии&r преобразует предметы в EMC, а затем EMC в другие предметы.",
+  "sb3.pe.ec.desc2": "Поместите нужный вам предмет в верхний левый слот и поместите предметы для уничтожения в инвентарь.",
+
+  "sb3.pe.ec2.subtitle": "Сделайте конденсатор энергии МК2",
+  "sb3.pe.ec2.desc": "&bКонденсатор энергии МК2&r имеет отдельные инвентари для ввода и вывода.",
+
+  "sb3.pe.tt.subtitle": "Сделайте стол трансмутации",
+  "sb3.pe.tt.desc1": "&bСтол трансмутации&r может расшеплять предметы, изучая их и превращая в EMC (хранящееся в игроке).",
+  "sb3.pe.tt.desc2": "Изученные элементы можно создавать справа, используя EMC.",
+  "sb3.pe.tt.desc3": "Предметы, использующие EMC, можно заряжать в слотах слева",
+
+  "sb3.pe.tt2.subtitle": "Сделайте планшет трансмутации",
+  "sb3.pe.tt2.desc": "&bПланшет трансмутации&r - это портативный стол трансмутации.",
+
+  "sb3.pe.att.subtitle": "Сделайте Аркановый планшет трансмутации",
+  "sb3.pe.att.desc": "&bАркановый планшет трансмутации&r - это улучшение планшет трансмутации, с улучшенным графическим интерфейсом и более хорошими функциями.",
+
+  "sb3.pe.at.subtitle": "Сделайте Алхимический стол",
+  "sb3.pe.at.desc": "&bАлхимический стол&r может преобразовывать одни предметы в другие используя EMC из сброрщиков энергии.",
+
+  "sb3.pe.col.title": "Сборщики энергии",
+  "sb3.pe.col.subtitle": "Сделайте Сборщик энергии",
+  "sb3.pe.col.desc": "&bСборщики энергии&r &6пассивно генерируют EMC&r, отправляя его в другие блоки, такие как Конденсатор энергии.",
+
+  "sb3.pe.col2.title": "Сборщики энергии+",
+  "sb3.pe.col2.subtitle": "Сделайте улучшенные сборщики энергии",
+  "sb3.pe.col2.desc": "&bСборщики энергии&r из &eExtendedeXchange&r достигают более высоких уровней, производя экспоненциально больше EMC в секунду.",
+
+  "sb3.pe.amr.title": "Реле анти-материи",
+  "sb3.pe.amr.subtitle": "Сделайте реле анти-материи",
+  "sb3.pe.amr.desc1": "&bРеле антиматерии&r переносит EMC из соседних Сборщиков Энергии к соседним Конденсаторам Энергии. Таким образом, вы можете использовать 18 коллекторов вместо 6.",
+  "sb3.pe.amr.desc2": "Здесь вы также можете зарядить устройства, хранящие EMC.",
+
+  "sb3.pe.amr2.title": "Реле анти-материи+",
+  "sb3.pe.amr2.subtitle": "Создайте улучшенные Реле Антиматерии",
+  "sb3.pe.amr2.desc": "&bРеле Антиматерии&r из мода &eExtendedeXchange&r достигают гораздо больших уровней, экспоненциально увеличивая EMC в секунду. Однако, они &cне могут заряжать предметы&r.",
+
+  "sb3.pe.tok.subtitle": "Создайте Том Знаний",
+  "sb3.pe.tok.desc": "&bТом Знаний&r &6изучит все предметы&r если импользовать его в Столе Трансмутации.",
+
+  "sb3.pe.eml.subtitle": "Создайте Энергетический Канал EMC",
+  "sb3.pe.eml.desc": "&bЭнергетический Канал EMC&r возьмёт EMC (из Коллекторов, Реле и т.д.) и перенесёт в личное EMC (Стол Трансмутации).",
+
+  "sb3.pe.ps.subtitle": "Создайте философский Камень",
+  "sb3.pe.ps.desc": "&bФилосовский Камень&r позволяет вам конвертировать с помощью эквивалентных предметов и блоков, путем создания или нажатия ПКМ.",
+
+  "sb3.pe.woft.subtitle": "Создайте Часы Течения Времени",
+  "sb3.pe.woft.desc1": "&bЧасы Течения Времени&r ускорят работу машин, находящихся рядом с вами, за счет EMC.",
+  "sb3.pe.woft.desc2": "Включите с помощью привязки клавиш \"Сменить режим\", которая по умолчанию не привязана.",
+
+  "sb3.pe.fuel.title": "Топливо Мёбиуса",
+  "sb3.pe.fuel.subtitle": "Создайте алхимическое топливо",
+  "sb3.pe.fuel.desc": "&bАлхимические Топлива&r плавят гораздо больше чем Уголь, а также используются в рецептах.",
+
+  "sb3.pe.klein.title": "Маленькие Звёзды",
+  "sb3.pe.klein.subtitle": "Создайте Маленькие Звёзды",
+  "sb3.pe.klein.desc": "&bМаленькие Звёзды&r (так же, как и &bМагнум Звезда&r) хранит EMC в вашем инвентаре.",
+
+  "sb3.pe.dm.subtitle": "Создайте Тёмную Материю",
+  "sb3.pe.dm.desc": "&bТёмная Материя&r используется в некоторых рецептах.",
+
+  "sb3.pe.rm.subtitle": "Создайте Красную Материю",
+  "sb3.pe.rm.desc": "&bКрасная материя&r используется в некоторых рецептах.",
+
+  "sb3.pe.dmt.title": "Инструменты из Тёмной Материи",
+  "sb3.pe.dmt.subtitle": "Создайте Инструмент из Тёмной Материи",
+  "sb3.pe.dmt.desc1": "&bИнструменты из Тёмной Материи&r - неразрушимы, а также имеют некоторые способности.",
+  "sb3.pe.dmt.desc2": "Их мощность может быть увеличена с помощью кливиши &6\"Заряд\"&r, и режимы могут быть изменены с помощью клавиши &6\"Сменить режим\"&r.",
+
+  "sb3.pe.rings.title": "Кольца Силы",
+  "sb3.pe.rings.subtitle": "Создайте Алхимическое Кольцо",
+  "sb3.pe.rings.desc": "Эти &bалхимические кольца&r выполняет различные функции при ношении или нажатии ПКМ.",
+  "sb3.pe.rings.task": "Алхимические Кольца",
+
+  "sb3.pe.dma.title": "Броня из Тёмной Материи",
+  "sb3.pe.dma.subtitle": "Создайте броню из Тёмной Материи",
+  "sb3.pe.dma.desc": "&bБроня из Тёмной Материи&r - неразрушима и очень устойчива к урону.",
+
+  "sb3.pe.rma.title": "Броня из Красной Материи",
+  "sb3.pe.rma.subtitle": "Создайте броню из Красной Материи",
+  "sb3.pe.rma.desc": "&bБроня из Красной Материи&r - неразрушима и ЁЩЁ БОЛЬШЕ устойчива к урону.",
+
+  "sb3.pe.gma.title": "Самоцветная броня",
+  "sb3.pe.gma.subtitle": "Создайте самоцветную броню",
+  "sb3.pe.gma.desc": "&bСамоцветная броня&r - неразрушима, дает вам возможность летать, и ОЧЕНЬ ОЧЕНЬ устойчива к урону.",
+
+  "sb3.pe.rmt.title": "Инструменты из Красной Материи",
+  "sb3.pe.rmt.subtitle": "Создайте Инструмент из Красной Материи",
+  "sb3.pe.rmt.desc": "&bИнструменты из Красной Материи&r непосредственные улучшения их тёмной версии.",
+
+  "sb3.pe.rmt2.title": "Улучшенные инструменты из Красной Материи",
+  "sb3.pe.rmt2.subtitle": "Создайте улучшенные инструменты из Красной Материи",
+  "sb3.pe.rmt2.desc": "&bКрасный Моргенштерн&r - это сочетание инструментов из Красной Материи, а &bКрасный Катар&r - сочетание оружия.",
+
+  "sb3.pe.flower.title": "Цветок Энергии",
+  "sb3.pe.flower.subtitle": "Создайте Цветок Энергии любого уровня",
+  "sb3.pe.flower.desc": "Цветок Энергии может автоматически генерировать EMC без каких-либо требований. При наличии 16 уровней ваши потребности в EMC должны быть легко удовлетворены",
+  "sb3.pe.flower.desc2": "Попробуйте произнести Цветок Силы, Силы Уветок быстро 10 раз!",
+
+  "sb3.pe.elink.subtitle": "Создайте Персональный EMC Канал",
+  "sb3.pe.elink.desc1": "&bПерсональный EMC Канал&r работает как Конденсатор Энергии, но использует ваше персональное EMC.",
+  "sb3.pe.elink.desc2": "Предметы могут вводиться и выводиться трубами.",
+
+  "sb3.pe.elink2.subtitle": "Создайте Усовершенственный EMC Канал",
+  "sb3.pe.elink2.desc1": "&bУсовершенственный EMC Канал&r постоянно содержит в себе 9 предметов, используя ваш персональный EMC.",
+  "sb3.pe.elink2.desc2": "Обучите его какому-либо предмету, вставив его, и он сохранит запас этого предмета.",
+
+  "sb3.pe.elink3.subtitle": "Создайте Сжатый Усовершенственный EMC Канал",
+  "sb3.pe.elink3.desc": "Почти как Усовершенственный EMC Канал, однако с &654&r Выходными слотами.",
+
+  "sb3.endgame.avaritia_armor.title": "Абсолютная Броня",
+
+  "sb3.endgame.avaritia_armor.boots.title": "Всегда в моде",
+  "sb3.endgame.avaritia_armor.boots.subtitle": "Создайте Ботинки Бесконечности",
+
+  "sb3.endgame.avaritia_armor.leggings.title": "Моя задница в этом выглядит большой?",
+  "sb3.endgame.avaritia_armor.leggings.subtitle": "Создайте Поножи Бесконечности",
+
+  "sb3.endgame.avaritia_armor.chestplate.title": "Нагрудник Абсолютной брони",
+  "sb3.endgame.avaritia_armor.chestplate.subtitle": "Создайте Нагрудник Бесконечности",
+
+  "sb3.endgame.avaritia_armor.helm.title": "Теперь я вижу за пределами этой реальности",
+  "sb3.endgame.avaritia_armor.helm.subtitle": "Создайте Шлем Бесконечности",
+
+  "sb3.endgame.avaritia_armor.sword.title": "Лучший меч брони",
+  "sb3.endgame.avaritia_armor.sword.subtitle": "Болит больше, чем ушибленный палец на ноге",
+  "sb3.endgame.avaritia_armor.sword.description": "",
+
+  "sb3.endgame.avaritia_armor.pickaxe.title": "Кирка абсолютной брони",
+  "sb3.endgame.avaritia_armor.pickaxe.subtitle": "Стены крошатся, как закаленное стекло",
+  "sb3.endgame.avaritia_armor.pickaxe.description": "",
+
+  "sb3.endgame.avaritia_armor.axe.title": "Топор абсолютной брони",
+  "sb3.endgame.avaritia_armor.axe.subtitle": "Уничтожитель лесов всех наций",
+  "sb3.endgame.avaritia_armor.axe.description": "",
+
+  "sb3.endgame.avaritia_armor.shovel.title": "Лопата абсолютной брони",
+  "sb3.endgame.avaritia_armor.shovel.subtitle": "Покоритель континентов",
+  "sb3.endgame.avaritia_armor.shovel.description": "",
+
+  "sb3.endgame.avaritia_armor.bow.title": "Лук абсолютной брони",
+  "sb3.endgame.avaritia_armor.bow.subtitle": "Непоколебимая цель",
+  "sb3.endgame.avaritia_armor.bow.description": "",
+
+  "sb3.endgame.singularities.title": "Densitas Infinita",
+
+  "sb3.endgame.singularities.sing_pig_iron.title": "Сингулярность Свинного Железа",
+  "sb3.endgame.singularities.sing_pig_iron.description": "",
+
+  "sb3.endgame.singularities.sing_source_gem.title": "Сингулярность Исходных Самоцветов",
+  "sb3.endgame.singularities.sing_source_gem.description": "",
+
+  "sb3.endgame.singularities.sing_train_track.title": "Сингулярность Железнодорожных Путей",
+  "sb3.endgame.singularities.sing_train_track.description": "",
+
+  "sb3.endgame.singularities.sing_palette.title": "Сингулярность Палитр и кистей",
+  "sb3.endgame.singularities.sing_palette.description": "",
+
+  "sb3.endgame.singularities.sing_balloon.title": "Сингулярность Воздушных шаров",
+  "sb3.endgame.singularities.sing_balloon.description": "",
+
+  "sb3.endgame.singularities.sing_infused_enderpearl.title": "Сингулярность Наполненных Эндер-жемчугов",
+  "sb3.endgame.singularities.sing_infused_enderpearl.description": "",
+
+  "sb3.endgame.singularities.sing_node_overclocker.title": "Сингулярность Карт Разгона",
+  "sb3.endgame.singularities.sing_node_overclocker.description": "",
+
+  "sb3.endgame.singularities.sing_etherealslate.title": "Сингулярность Эфирных Плиток",
+  "sb3.endgame.singularities.sing_etherealslate.description": "",
+
+  "sb3.endgame.singularities.sing_mana_steel.title": "Сингулярность Манастали",
+  "sb3.endgame.singularities.sing_mana_steel.description": "",
+
+  "sb3.endgame.singularities.sing_flux_block.title": "Сингулярность Флаксовых Блоков",
+  "sb3.endgame.singularities.sing_flux_block.description": "",
+
+  "sb3.endgame.singularities.sing_corrupted.title": "Сингулярность Испорченных Слитков",
+  "sb3.endgame.singularities.sing_corrupted.description": "",
+
+  "sb3.endgame.singularities.sing_uraninite.title": "Уранинитовая Сингулярность",
+  "sb3.endgame.singularities.sing_uraninite.description": "",
+
+  "sb3.endgame.singularities.sing_enderium_block.title": "Сингулярность Блоков Эндерия",
+  "sb3.endgame.singularities.sing_enderium_block.description": "",
+
+  "sb3.endgame.singularities.sing_pet_filter.title": "Сингулярность Фильтров Мобов (Питомец)",
+  "sb3.endgame.singularities.sing_pet_filter.description": "",
+
+  "sb3.endgame.singularities.sing_mob_soul.title": "Сингулярность Душ Мобов",
+  "sb3.endgame.singularities.sing_mob_soul.description": "",
+
+  "sb3.endgame.singularities.sing_addon_processing_t2.title": "Сингулярность Улучшений: Processing Tier 2",
+  "sb3.endgame.singularities.sing_addon_processing_t2.description": "",
+
+  "sb3.endgame.singularities.sing_polonium_pelle.titlet": "Сингулярность Гранул Полония",
+  "sb3.endgame.singularities.sing_polonium_pelle.description": "",
+
+  "sb3.endgame.singularities.sing_nether_star.title": "Сингулярность Адских Звёзд",
+  "sb3.endgame.singularities.sing_nether_star.description": "",
+
+  "sb3.endgame.singularities.sing_nitro_crystal.title": "Сингулярность Нитро Кристаллов",
+  "sb3.endgame.singularities.sing_nitro_crystal.description": "",
+
+  "sb3.endgame.singularities.sing_magenta_matter.title": "Сингулярность Пурпурной Материи",
+  "sb3.endgame.singularities.sing_magenta_matter.description": "",
+
+  "sb3.endgame.singularities.sing_emerald_cluster.title": "Сингулярность Изумрудных Кластеров",
+  "sb3.endgame.singularities.sing_emerald_cluster.description": "",
+
+  "sb3.endgame.singularities.sing_jelly.title": "Сингулярность Желейных Малышей Опыта",
+  "sb3.endgame.singularities.sing_jelly.description": "",
+
+  "sb3.endgame.singularities.meatballs.title": "Космические фрикадельки",
+  "sb3.endgame.singularities.meatballs.subtitle": "Мммм фрикадельки, испускающие нейтроны",
+  "sb3.endgame.singularities.meatballs.description": "Мммм фрикадельки, испускающие нейтроны",
+
+  "sb3.endgame.singularities.stew.title": "Максимальное Рагу",
+  "sb3.endgame.singularities.stew.subtitle": "Создайте Максимальное Рагу",
+  "sb3.endgame.singularities.stew.description": "Только бог мог съесть столько",
+
+  "sb3.endgame.singularities.infinity.title": "Катализатор бесконечности",
+  "sb3.endgame.singularities.infinity.subtitle": "Создайте Катализатор бесконечности",
+  "sb3.endgame.singularities.infinity.description": "Теперь, вы близко",
+
+  "sb3.endgame.singularities.neutronium_ingot.title": "Слиток Нейтрония",
+  "sb3.endgame.singularities.neutronium_ingot.subtitle": "Создайте Слиток Нейтрония",
+
+  "sb3.endgame.singularities.neutronium_pile.title": "Твоя Мама Весит больше!",
+  "sb3.endgame.singularities.neutronium_pile.subtitle": "Сделайте кучу нейтрониума",
+
+  "sb3.endgame.singularities.record_fragment.title": "Осколок пластинки",
+  "sb3.endgame.singularities.record_fragment.subtitle": "Создайте Осколок пластинки",
+  "sb3.endgame.singularities.record_fragment.description": "Получите несколько Осколков Пластинки, они будут использованы для создания Катализатора Бесконечности.",
+
+  "sb3.endgame.singularities.endest_pearl.title": "Не выбрасывайте в помещении!",
+  "sb3.endgame.singularities.endest_pearl.subtitle": "Создайте Всепоглощающую Жемчужину",
+
+  "sb3.endgame.singularities.crystal_matrix.title": "Кристально-матричный Слиток",
+  "sb3.endgame.singularities.crystal_matrix.subtitle": "Создайте Кристально-матричный Слиток",
+  "sb3.endgame.singularities.crystal_matrix.description": "Потратьте все свои алмазы на создание них",
+
+  "sb3.endgame.singularities.infinity_ingot.title": "Слиток Бесконечности",
+  "sb3.endgame.singularities.infinity_ingot.subtitle": "Как это не нарушило реальность?!",
+  "sb3.endgame.singularities.infinity_ingot.description": "Теперь еще 136!",
+
+  "sb3.endgame.singularities.crafting.title": "Экстремальный Верстак",
+  "sb3.endgame.singularities.crafting.subtitle": "Требуется 384 алмаза!",
+  "sb3.endgame.singularities.crafting.description": "Если вы собираетесь это сделать, вам лучше быть готовым к тому, что должно произойти...",
+
+  "sb3.endgame.singularities.collect.subtitle": "Создайте Сборщик Нейтрония",
+  "sb3.endgame.singularities.collect.desc": "Генерирует одну пылинку нейтрония каждые 6 или около того минут.",
+
+  "sb3.endgame.singularities.nug.subtitle": "Создайте самородок нейтрония",
+  "sb3.endgame.singularities.ball.subtitle": "Создайте космические фрикадельки"
+}

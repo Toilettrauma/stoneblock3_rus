@@ -25,6 +25,7 @@
 * industrial foregoing (Исправлено)
 * iron furnaces
 * jags
+* just hammers
 * laserio
 * mining gadgets
 * mob grinding utils (todo информация предметов)
@@ -66,8 +67,8 @@
   * Densitas Infinita
   * The Ultimate Armor
 ### События сервера
+### Интерфейс главного меню
 
 ## Будет переведено
  ### моды
 * rf tools utility
- ### Интерфейс главного меню
